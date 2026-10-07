@@ -1,0 +1,45 @@
+{
+  "model": "BAAI/bge-m3",
+  "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+  "input_column": "embedding_text",
+  "input_format": "title + blank line + abstract",
+  "pooling": "model-defined CLS",
+  "normalization": "L2",
+  "dtype": "float32",
+  "max_tokens": 8192,
+  "truncation": false,
+  "chunking": false,
+  "packages": {
+    "torch": "2.7.1",
+    "sentence-transformers": "5.7.0",
+    "transformers": "5.16.1",
+    "huggingface-hub": "1.33.0",
+    "numpy": "2.4.3",
+    "pandas": "3.0.2"
+  },
+  "status": "complete",
+  "run_mode": "full",
+  "source": "/Users/tilldedek/Documents/Semester 6/Bachelorarbeit/Python/batill/data/abstracts/private_equity/2a2af8ed8489706c/abstracts_clean.csv",
+  "source_sha256": "4e33945271bcfef92c922f6ae311b7635d2248599f4cb122a821ee646a108c3d",
+  "corpus_size": 1404,
+  "selected_size": 1404,
+  "shape": [
+    1404,
+    1024
+  ],
+  "selected_over_limit": 0,
+  "corpus_over_limit": 0,
+  "maximum_sample_tokens": 1607,
+  "maximum_corpus_tokens": 1607,
+  "derivation": "exact subset of existing embeddings; no inference",
+  "scope_id": "2a2af8ed8489706c",
+  "parent_run": "/Users/tilldedek/Documents/Semester 6/Bachelorarbeit/Python/batill/outputs/abstract_embeddings/bge_m3/20260930T174845_508054Z_full_3c498a9d",
+  "parent_input_hashes": {
+    "abstracts_clean.csv": "cb012ba663dedcd95e2437e1208daedbb6dead6dcbba4b02ba282ba2745a9c73",
+    "run_summary.json": "9bdb5852f2eebda5e72f93c1dcb6b3bdb42c32cb8d102426836ec2137a07b89f",
+    "embeddings.npy": "c5478c6cf914032c83f81c1c0fd554bb7e07bbda8969891a6bfbb79e53e0b1c3",
+    "paper_ids.csv": "2c21ebf61bd3801259b15d9f1840ccd086bc19b3f4dfe23b5ebc38ef259ac5bb",
+    "selected_papers.csv": "abb738408cf2f95468672372e819eafdcc77a63de76fc52b23f15ec8532dbebd",
+    "token_lengths.csv": "819c81b5d1d2ca47ef79d587e3870d06bd8c54fda66d4e4fdccb705d4c5b7c30"
+  }
+}
