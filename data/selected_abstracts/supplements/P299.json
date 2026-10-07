@@ -1,0 +1,14 @@
+{
+  "paper_id": "P299",
+  "pdf_sha256": "d7c98d9434341e30d8f8c93d261ae6a5e5d4985b3e0bcafd836906d835432cce",
+  "title": "Geographic Variation in Private Equity Penetration Across Select Office-Based Physician Specialties in the US",
+  "doi": "10.1001/jamahealthforum.2022.0825",
+  "retrieved_utc": "2026-10-06T11:17:17.613744+00:00",
+  "source_kind": "publisher_short_description",
+  "abstract": "This cross-sectional study examines geographic variations in private equity firm acquisitions of US physician practices across 6 specialties.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/35977319/",
+  "source_record_id": "35977319",
+  "retrieval_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32833005,35977319,32068809&retmode=xml",
+  "origin_path": "data/selected_abstracts/supplements/pubmed_records.xml",
+  "origin_sha256": "605d89ac4b4bb7d0d062fb859b46535c9a0f104efa65b64ebee862766adb699c"
+}

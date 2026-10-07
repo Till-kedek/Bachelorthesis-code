@@ -1,0 +1,14 @@
+{
+  "paper_id": "P070",
+  "pdf_sha256": "3aa427caacc1e6d13f07f7fe7695d337c78717a9f89c09775091de8ea9405bfc",
+  "title": "Expansion of Private Equity Involvement in Women's Health Care",
+  "doi": "10.1001/jamainternmed.2020.3567",
+  "retrieved_utc": "2026-10-06T11:17:15.425914+00:00",
+  "source_kind": "publisher_short_description",
+  "abstract": "This cross-sectional study examines the clinical and societal implications of the exansion of private equity in women’s health care.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/32833005/",
+  "source_record_id": "32833005",
+  "retrieval_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32833005,35977319,32068809&retmode=xml",
+  "origin_path": "data/selected_abstracts/supplements/pubmed_records.xml",
+  "origin_sha256": "605d89ac4b4bb7d0d062fb859b46535c9a0f104efa65b64ebee862766adb699c"
+}
