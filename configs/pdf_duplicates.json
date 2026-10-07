@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "description": "Reviewed PDF identity pairs, shared with citation review. Keep the canonical PDF and its unchanged embedding for text clustering.",
+  "duplicate_pdfs": [
+    {
+      "duplicate_key": "5fa7d791b3295880209aded5578abd4ffd2102a276778cd607adeb8b1e2b095c",
+      "canonical_key": "741967ca9a4eb2faed548028285e9e254e8a77147037db3bbeaf102a76a89919",
+      "reason": "Same title, authors, DOI and near-identical local full text; one work node.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2009.01473.x"
+    },
+    {
+      "duplicate_key": "4ae6b2cd03aa509c2f37268691984c436f744fdc1802eb831ef2546fe29c0d5a",
+      "canonical_key": "8f766757876d335aff1db92c0777a7a0cc31b53bc645fde0f1e00dcb73d91714",
+      "reason": "Same title, authors and first-page DOI; one work node.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/fima.12264"
+    }
+  ]
+}

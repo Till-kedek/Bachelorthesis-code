@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "reference_year": 2026,
+  "minimum_year": 1800,
+  "periods": [
+    {
+      "label": "2020–2026",
+      "start": 2020,
+      "end": 2026
+    },
+    {
+      "label": "2010–2019",
+      "start": 2010,
+      "end": 2019
+    },
+    {
+      "label": "2000–2009",
+      "start": 2000,
+      "end": 2009
+    },
+    {
+      "label": "≤1999",
+      "start": 1800,
+      "end": 1999
+    }
+  ],
+  "partitions": [
+    {
+      "analysis": "pdfs",
+      "solution": "embedding_leiden_k5",
+      "label": "PDFs · Leiden 0.95",
+      "clusters": 5,
+      "resolution": 0.95
+    },
+    {
+      "analysis": "abstracts",
+      "solution": "kmeans_k6",
+      "label": "Abstracts (1,531) · K-means k=6",
+      "clusters": 6
+    },
+    {
+      "analysis": "citations",
+      "solution": "citation_r0.9",
+      "label": "Citations · Leiden 0.9",
+      "clusters": 5,
+      "resolution": 0.9
+    }
+  ],
+  "abstract_input": "experiment",
+  "input_config": "configs/topic-age-final-inputs.json",
+  "topic_workbooks": {
+    "abstracts": "Topic_analysis_Abstracts_v2 Final.ipynb"
+  },
+  "abstract_experiment": {
+    "directory": "outputs/abstract_clustering_experiments/title_journal_or_list/e824c0d6e594e6d2",
+    "papers": 1531,
+    "clustering_manifest_sha256": "43b3dcdfaced8a73afce720b09c4dd955a045cf0fcf03e1f42264e8cf89895be"
+  },
+  "previous_report_archive": "archive/topic_age_final_before_1531_k6_20261006T131756Z",
+  "share_basis": "cluster",
+  "previous_chart_archive": "archive/topic_age_final_before_cluster_year_shares_20261006T133127Z"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "comparison": "Exact CSV bytes after offline notebook execution; displays, figures and environment manifest excluded.",
+  "notebook_source_sha256": "fcfe50515696cebd432710ef94db11a14947973795e8f187c6ff03d1007826e5",
+  "code_and_config": {
+    "src/batill/topic_age_analysis.py": "65d10d36ef1851200b13eecf166c67ffccd039513567296d913ccc6a6c9d72bb",
+    "configs/topic-age-inputs.json": "f81ba397aaddd3032b956c468003d62475706b9504d2a39d2f733c7467ddbae9",
+    "scripts/create_topic_age_notebook.py": "ef7c264b3b571c556e7f92e0234210136e8b39109c4d54e562d67a988bf84146",
+    "scripts/reproduce_topic_ages.py": "f5a9a7c381f2f3442909bc58367464e99e0c07af7541814eabcb5c213673eb2b",
+    "configs/topic-age-requirements.lock": "20127a149f6495564c6876371718e896bfb3a1f163c4a3a3089924d96dc93f43"
+  },
+  "files": {
+    "reports/topic_age_analysis/alternative_period_shares.csv": "f256e0d01de4c373f9f7c5a26bfe4fd8e84331004e8af63ca0ab0a95f90fa365",
+    "reports/topic_age_analysis/annual_shares.csv": "8a6b290d0e56ae5d9091c45874ec153f0626db42142f4bc6cb152cd22e20bdaf",
+    "reports/topic_age_analysis/cluster_age_summary.csv": "8055f0af80ba776631b7904b23dc04160c1ac490567b9659c927c96c50a3976e",
+    "reports/topic_age_analysis/coverage.csv": "97836d181dd4e8d355b1475ef701b4cb2a621aefbb098980d8b8b355d29a47cd",
+    "reports/topic_age_analysis/paper_ages.csv": "9632cf86ff3a1441b2a7b2f07d0c3022615af37eeb9d615ae5fdbfcc449baf5a",
+    "reports/topic_age_analysis/period_changes.csv": "640e7745aa922d70f4f077f47d271e5fa2b40b30cf206c7ef9cd71119cde522b",
+    "reports/topic_age_analysis/period_shares.csv": "5b1a9395f836ec1960d53194112d417d14a97f07cbeaa96ccb5cbaa81fefc8fb",
+    "reports/topic_age_analysis/year_sensitivity.csv": "18d65d7a272e777103ea4243061bebe255802d876bf6baf1cdecca01a655e832"
+  }
+}

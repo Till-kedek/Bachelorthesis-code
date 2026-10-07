@@ -1,0 +1,1037 @@
+{
+  "selection_id": "9ad47e071ee12c2f12fdd1e20de4f1ccd6314971e945f11f8dc0aef8c7b51e9f",
+  "description": "Manual graph-only identity resolution and partial internal citation recovery. Does not change PDF/embedding selection. No completeness claim for manually recovered reference lists.",
+  "duplicate_pdfs": [
+    {
+      "duplicate_key": "5fa7d791b3295880209aded5578abd4ffd2102a276778cd607adeb8b1e2b095c",
+      "canonical_key": "741967ca9a4eb2faed548028285e9e254e8a77147037db3bbeaf102a76a89919",
+      "reason": "Same title, authors, DOI and near-identical local full text; one work node.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2009.01473.x"
+    },
+    {
+      "duplicate_key": "4ae6b2cd03aa509c2f37268691984c436f744fdc1802eb831ef2546fe29c0d5a",
+      "canonical_key": "8f766757876d335aff1db92c0777a7a0cc31b53bc645fde0f1e00dcb73d91714",
+      "reason": "Same title, authors and first-page DOI; one work node.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/fima.12264"
+    }
+  ],
+  "work_overrides": [
+    {
+      "Key": "23600ed739ff0645229011be4295c58756f6da8b0e2f5b8ff9b7086482d067a0",
+      "work": {
+        "id": "https://openalex.org/W3123679298",
+        "doi": "https://doi.org/10.1093/rfs/hhu013",
+        "display_name": "Valuing Private Equity",
+        "publication_year": 2014,
+        "authorships": [
+          {
+            "author_position": "first",
+            "author": {
+              "id": "https://openalex.org/A5003726839",
+              "display_name": "Morten Sørensen",
+              "orcid": "https://orcid.org/0000-0003-2137-7969",
+              "observed_orcids": [
+                "https://orcid.org/0000-0003-2137-7969",
+                "https://orcid.org/0000-0003-1928-9580"
+              ]
+            },
+            "institutions": [
+              {
+                "id": "https://openalex.org/I78577930",
+                "display_name": "Columbia University",
+                "ror": "https://ror.org/00hj8s172",
+                "country_code": "US",
+                "type": "education",
+                "lineage": [
+                  "https://openalex.org/I78577930"
+                ]
+              }
+            ],
+            "countries": [
+              "US"
+            ],
+            "is_corresponding": false,
+            "raw_author_name": "Sørensen, Morten",
+            "raw_affiliation_strings": [
+              "Columbia Business School and NBER"
+            ],
+            "raw_orcid": null,
+            "affiliations": [
+              {
+                "raw_affiliation_string": "Columbia Business School and NBER",
+                "institution_ids": [
+                  "https://openalex.org/I78577930"
+                ]
+              }
+            ]
+          },
+          {
+            "author_position": "middle",
+            "author": {
+              "id": "https://openalex.org/A5024192453",
+              "display_name": "Neng Wang",
+              "orcid": "https://orcid.org/0000-0001-9854-8194",
+              "observed_orcids": [
+                "https://orcid.org/0000-0001-9854-8194"
+              ]
+            },
+            "institutions": [
+              {
+                "id": "https://openalex.org/I78577930",
+                "display_name": "Columbia University",
+                "ror": "https://ror.org/00hj8s172",
+                "country_code": "US",
+                "type": "education",
+                "lineage": [
+                  "https://openalex.org/I78577930"
+                ]
+              }
+            ],
+            "countries": [
+              "US"
+            ],
+            "is_corresponding": false,
+            "raw_author_name": "Wang, Neng",
+            "raw_affiliation_strings": [
+              "Columbia Business School and NBER"
+            ],
+            "raw_orcid": null,
+            "affiliations": [
+              {
+                "raw_affiliation_string": "Columbia Business School and NBER",
+                "institution_ids": [
+                  "https://openalex.org/I78577930"
+                ]
+              }
+            ]
+          },
+          {
+            "author_position": "last",
+            "author": {
+              "id": "https://openalex.org/A5101578504",
+              "display_name": "Jinqiang Yang",
+              "orcid": "https://orcid.org/0000-0001-9067-4970",
+              "observed_orcids": [
+                "https://orcid.org/0000-0001-9067-4970"
+              ]
+            },
+            "institutions": [
+              {
+                "id": "https://openalex.org/I181679659",
+                "display_name": "Shanghai University of Finance and Economics",
+                "ror": "https://ror.org/00wtvfq62",
+                "country_code": "CN",
+                "type": "education",
+                "lineage": [
+                  "https://openalex.org/I181679659"
+                ]
+              }
+            ],
+            "countries": [
+              "CN"
+            ],
+            "is_corresponding": false,
+            "raw_author_name": "Yang, Jinqiang",
+            "raw_affiliation_strings": [
+              "The School of Finance, Shanghai University of Finance and Economics"
+            ],
+            "raw_orcid": null,
+            "affiliations": [
+              {
+                "raw_affiliation_string": "The School of Finance, Shanghai University of Finance and Economics",
+                "institution_ids": [
+                  "https://openalex.org/I181679659"
+                ]
+              }
+            ]
+          }
+        ],
+        "referenced_works": [
+          "https://openalex.org/W78518972",
+          "https://openalex.org/W1489715817",
+          "https://openalex.org/W1503295912",
+          "https://openalex.org/W1540726399",
+          "https://openalex.org/W1548581367",
+          "https://openalex.org/W1599588588",
+          "https://openalex.org/W1762479510",
+          "https://openalex.org/W1984697146",
+          "https://openalex.org/W2005158847",
+          "https://openalex.org/W2012894328",
+          "https://openalex.org/W2014099293",
+          "https://openalex.org/W2016253711",
+          "https://openalex.org/W2038495840",
+          "https://openalex.org/W2054653209",
+          "https://openalex.org/W2074524292",
+          "https://openalex.org/W2077791698",
+          "https://openalex.org/W2081845494",
+          "https://openalex.org/W2095984894",
+          "https://openalex.org/W2098612888",
+          "https://openalex.org/W2098914712",
+          "https://openalex.org/W2101972397",
+          "https://openalex.org/W2105928610",
+          "https://openalex.org/W2105973145",
+          "https://openalex.org/W2130755345",
+          "https://openalex.org/W2130798155",
+          "https://openalex.org/W2153332182",
+          "https://openalex.org/W2154044885",
+          "https://openalex.org/W2170461829",
+          "https://openalex.org/W2303788423",
+          "https://openalex.org/W2889570252",
+          "https://openalex.org/W2890483613",
+          "https://openalex.org/W2890611955",
+          "https://openalex.org/W2900795975",
+          "https://openalex.org/W2983336909",
+          "https://openalex.org/W3022326679",
+          "https://openalex.org/W3023157742",
+          "https://openalex.org/W3023965996",
+          "https://openalex.org/W3121214870",
+          "https://openalex.org/W3121479446",
+          "https://openalex.org/W3121909572",
+          "https://openalex.org/W3122047865",
+          "https://openalex.org/W3122264572",
+          "https://openalex.org/W3122362577",
+          "https://openalex.org/W3122584155",
+          "https://openalex.org/W3122666528",
+          "https://openalex.org/W3123242051",
+          "https://openalex.org/W3123389049",
+          "https://openalex.org/W3123434140",
+          "https://openalex.org/W3123463192",
+          "https://openalex.org/W3123643779",
+          "https://openalex.org/W3124252841",
+          "https://openalex.org/W3124632798",
+          "https://openalex.org/W3125429822",
+          "https://openalex.org/W3125744792",
+          "https://openalex.org/W3151103110",
+          "https://openalex.org/W4243208105",
+          "https://openalex.org/W4249512957",
+          "https://openalex.org/W4249996640",
+          "https://openalex.org/W4256499879"
+        ]
+      },
+      "alternative_work_ids": [
+        "https://openalex.org/W2891860082"
+      ],
+      "reason": "Local PDF is NBER working paper 19612, November 2013, despite the 2014 filename. NBER links it to the 2014 RFS publication. Use the 2014 journal OpenAlex record as a same-work version proxy under the user policy; its references may differ from this PDF. Retain the duplicate 2012 OpenAlex ID (same DOI, title, authors) as target alias.",
+      "source_url": "https://academic.oup.com/rfs/issue/27/7",
+      "pdf_version": "NBER working paper 19612, November 2013",
+      "version_status": "same_work_version_not_verified",
+      "additional_source_url": "https://www.nber.org/papers/w19612"
+    }
+  ],
+  "evidence_pages": "outputs/citation_graph_openalex/9ad47e071ee12c2f/manual_review/pdf_pages.json",
+  "evidence_pages_sha256": "fe6d8542cd40b1e097e010c2b0fd7b3a175314580df5ea05917f9caaaffe2955",
+  "manual_edges": [
+    {
+      "source_key": "c429d89acee11eedee42706a0b5c29f7e246051ec25fef8a862585e0135c4972",
+      "target_key": "602bba8f74081fae9e59ad15931354be579d142bbdf1b4af322a274b8ff8612d",
+      "source_paper_id": "P032",
+      "target_paper_id": "P286",
+      "pdf_page": 16,
+      "target_title": "Private equity portfolio company fees",
+      "matched_title": "Private equity portfolio company fees",
+      "normalized_excerpt": "hina and j lerner looking for alternatives pension investment around the world 2008 to 2017 harvard business school working paper 24 2018 l phalippou c rauch and m umber private equity portfolio company fees journal of finan cial economics 129 3 559 585 2018 15 electronic copy available at https ssrn com abstract 3764895",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "41044b481be1200f9b56902696ffbae4ec27f8d004ab00fc1ea3781efa330e74",
+      "target_key": "250a895d81d37bfde2cdab35bd58a6f513c8f3bd2c839b2a6d286e57955e9382",
+      "source_paper_id": "P064",
+      "target_paper_id": "P188",
+      "pdf_page": 30,
+      "target_title": "Benchmarking private equity: The direct alpha method",
+      "matched_title": "Benchmarking private equity: The direct alpha method",
+      "normalized_excerpt": "w method to estimate risk and return of non traded assets from cash flows the case of private equity funds journal of gredil oleg barry griffiths and rudiger stucke 2014 benchmarking private equity the direct alpha method ssrn number 2403521 harris robert tim jenkinson and steven n kaplan 2014 private equity performance what do we know journal of finance october volume 69 issue 5 pages 1851 1882 ha",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "41044b481be1200f9b56902696ffbae4ec27f8d004ab00fc1ea3781efa330e74",
+      "target_key": "f2f7d36689984febf13ff8d4f989a581c8340cab1a07e66ead3c2dbfe01fccd8",
+      "source_paper_id": "P064",
+      "target_paper_id": "P199",
+      "pdf_page": 30,
+      "target_title": "Private equity performance: What do we know?",
+      "matched_title": "Private equity performance: What do we know?",
+      "normalized_excerpt": "oleg barry griffiths and rudiger stucke 2014 benchmarking private equity the direct alpha method ssrn number 2403521 harris robert tim jenkinson and steven n kaplan 2014 private equity performance what do we know journal of finance october volume 69 issue 5 pages 1851 1882 harris robert tim jenkinson and steven n kaplan 2015 how do private equity investments perform compared to public equi",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "41044b481be1200f9b56902696ffbae4ec27f8d004ab00fc1ea3781efa330e74",
+      "target_key": "f7c12b54865d3ecbc54e21b66e401d1170c1b0dcb2a7e9eaaa44cfce5ed32761",
+      "source_paper_id": "P064",
+      "target_paper_id": "P229",
+      "pdf_page": 30,
+      "target_title": "Leveraged buyouts and private equity",
+      "matched_title": "Leveraged buyouts and private equity",
+      "normalized_excerpt": "1791 1823 kaplan steven n and berk sensoy 2015 private equity performance a survey annual review of financial economics 21 11 1 18 kaplan steven n and per stromberg 2009 leveraged buyouts and private equity journal of economic perspectives 23 121 146 kauffman foundation 2012 we have met the enemy and he is us lessons from twenty years of the kauffman foundation s investment in ventur",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "41044b481be1200f9b56902696ffbae4ec27f8d004ab00fc1ea3781efa330e74",
+      "target_key": "d92e3f0924b126ded419dd80c97cdba34102973ea960f386e456784e0d32769a",
+      "source_paper_id": "P064",
+      "target_paper_id": "P241",
+      "pdf_page": 30,
+      "target_title": "Risk and Expected Returns of Private Equity Investments: Evidence Based on Market Prices",
+      "matched_title": "Risk and Expected Returns of Private Equity Investments: Evidence Based on Market Prices",
+      "normalized_excerpt": "ke are too many private equity firms top quartile journal of applied corporate finance volume 24 no 4 fall 2012 jegadeesh narasimhan roman kraussl and joshua pollet 2009 risk and expected returns of private equity investments evidence based on market prices working paper no 15335 nber kaplan steven n and antoinette schoar 2005 private equity returns persistence and capital flows journal of finance 60 1791 1823 kaplan steven n and ber",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "41044b481be1200f9b56902696ffbae4ec27f8d004ab00fc1ea3781efa330e74",
+      "target_key": "7224f2bfd27cd5cbd14b287960e5fdf987189f09791661d92540fdb19b159014",
+      "source_paper_id": "P064",
+      "target_paper_id": "P247",
+      "pdf_page": 31,
+      "target_title": "Smart institutions, foolish choices: The limited partner performance puzzle",
+      "matched_title": "Smart institutions, foolish choices: The limited partner performance puzzle",
+      "normalized_excerpt": "31 lerner josh antoinette schoar and wan wongsunwai 2007 smart institutions foolish choices the limited partner performance puzzle journal of finance 62 731 764 sensoy berk yingdi wang and michael weisbach 2013 limited partner performance and the maturing of the private equity market working paper ohio state ",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "target_key": "905a2b1a0bfc41191da95f721f76a74838e1e6cbba08b8b7062caf987e089513",
+      "source_paper_id": "P067",
+      "target_paper_id": "P059",
+      "pdf_page": 10,
+      "target_title": "Adverse selection and the performance of private equity co-investments",
+      "matched_title": "Adverse selection and the performance of private equity co-investments",
+      "normalized_excerpt": "10 references 1 braun riener t jenkinson and c schemmerl 2019 adverse selection and the performance of private equity co investments forthcoming journal of financial economics 2 brown g r harris t jenkinson s kaplan and d robinson 2015 what do different commercial data sets tell us about private equity performa",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "target_key": "41044b481be1200f9b56902696ffbae4ec27f8d004ab00fc1ea3781efa330e74",
+      "source_paper_id": "P067",
+      "target_paper_id": "P064",
+      "pdf_page": 10,
+      "target_title": "What Do Different Commercial Data Sets Tell Us About Private Equity Performance",
+      "matched_title": "What Do Different Commercial Data Sets Tell Us About Private Equity Performance",
+      "normalized_excerpt": "rse selection and the performance of private equity co investments forthcoming journal of financial economics 2 brown g r harris t jenkinson s kaplan and d robinson 2015 what do different commercial data sets tell us about private equity performance working paper private equity research consortium ssrn paper 2706556 3 brown g o gredil and s kaplan 2019 do private equity funds manipulate reported returns forthcoming journal of",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "target_key": "338dd6ffdff79306aca2acd3b5e58e39f5a3c96eac5997cab0a612b6b2b68e09",
+      "source_paper_id": "P067",
+      "target_paper_id": "P065",
+      "pdf_page": 10,
+      "target_title": "Do private equity funds manipulate reported returns?",
+      "matched_title": "Do private equity funds manipulate reported returns?",
+      "normalized_excerpt": "nt commercial data sets tell us about private equity performance working paper private equity research consortium ssrn paper 2706556 3 brown g o gredil and s kaplan 2019 do private equity funds manipulate reported returns forthcoming journal of financial economics 4 cornelius peter 2011 international investments in private equity asset allocation markets and industry structure academic press london",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "target_key": "78a4d4a09154201ea65efc066d5cdb5829733e88b5e0d1a80dceae6137431b88",
+      "source_paper_id": "P067",
+      "target_paper_id": "P149",
+      "pdf_page": 10,
+      "target_title": "The disintermediation of financial markets: Direct investing in private equity",
+      "matched_title": "The disintermediation of financial markets: Direct investing in private equity",
+      "normalized_excerpt": " peter 2011 international investments in private equity asset allocation markets and industry structure academic press london uk 5 fang lily v ivashina and j lerner 2015 the disintermediation of financial markets direct investing in private equity journal of financial economics vol 116 no 1 1601778 6 gredil oleg 2015 market timing and agency costs evidence from private equity working paper tulane university 7 gredil oleg ba",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "target_key": "250a895d81d37bfde2cdab35bd58a6f513c8f3bd2c839b2a6d286e57955e9382",
+      "source_paper_id": "P067",
+      "target_paper_id": "P188",
+      "pdf_page": 10,
+      "target_title": "Benchmarking private equity: The direct alpha method",
+      "matched_title": "Benchmarking private equity: The direct alpha method",
+      "normalized_excerpt": "1778 6 gredil oleg 2015 market timing and agency costs evidence from private equity working paper tulane university 7 gredil oleg barry griffiths and rudiger stucke 2014 benchmarking private equity the direct alpha method ssrn number 2403521 8 harris robert tim jenkinson and steven n kaplan 2014 private equity performance what do we know journal of finance 69 5 1851 1882 9 harris robert tim jenkins",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "target_key": "f2f7d36689984febf13ff8d4f989a581c8340cab1a07e66ead3c2dbfe01fccd8",
+      "source_paper_id": "P067",
+      "target_paper_id": "P199",
+      "pdf_page": 10,
+      "target_title": "Private equity performance: What do we know?",
+      "matched_title": "Private equity performance: What do we know?",
+      "normalized_excerpt": "eg barry griffiths and rudiger stucke 2014 benchmarking private equity the direct alpha method ssrn number 2403521 8 harris robert tim jenkinson and steven n kaplan 2014 private equity performance what do we know journal of finance 69 5 1851 1882 9 harris robert tim jenkinson and steven n kaplan 2016 how do private equity investments perform compared to public equity journal of investment ",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "target_key": "395031c07a6ea97ed54b4fa879d94e7805cf220e2fe64bf45c60fbaf23bb17bd",
+      "source_paper_id": "P067",
+      "target_paper_id": "P200",
+      "pdf_page": 10,
+      "target_title": "Financial intermediation in private equity: How well do funds of funds perform?",
+      "matched_title": "Financial intermediation in private equity: How well do funds of funds perform?",
+      "normalized_excerpt": "has persistence persisted in private equity working paper university of chicago ssrn paper 2304808 11 harris robert tim jenkinson steven n kaplan and rudiger stucke 2018 financial intermediation in private equity how well do funds of funds perform journal of financial economics vol 129 2 287 305 12 kaplan steven n and josh lerner 2016 venture capital data opportunities and challenges national bureau of economic research wor",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "target_key": "f7c12b54865d3ecbc54e21b66e401d1170c1b0dcb2a7e9eaaa44cfce5ed32761",
+      "source_paper_id": "P067",
+      "target_paper_id": "P229",
+      "pdf_page": 11,
+      "target_title": "Leveraged buyouts and private equity",
+      "matched_title": "Leveraged buyouts and private equity",
+      "normalized_excerpt": "11 14 kaplan steven n and berk sensoy 2015 private equity performance a survey annual review of financial economics 21 11 1 18 15 kaplan steven n and per stromberg 2009 leveraged buyouts and private equity journal of economic perspectives 23 1 121 146 16 kauffman foundation 2012 we have met the enemy and he is us lessons from twenty years of the kauffman foundation s investment in v",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "target_key": "7de00b14775287c5b5a25c07ac5d411f0879ceb9e89939bcf096c8a7e3212460",
+      "source_paper_id": "P067",
+      "target_paper_id": "P271",
+      "pdf_page": 11,
+      "target_title": "The liquidity cost of private equity investments: Evidence from secondary market transactions",
+      "matched_title": "The liquidity cost of private equity investments: Evidence from secondary market transactions",
+      "normalized_excerpt": "james c bachman austin m long and craig j nickels 2009 inside private equity john wiley and sons hoboken n j usa 18 nadauld taylor b sensoy k vorkink and m weisbach 2019 the liquidity cost of private equity investments evidence from secondary market transactions journal of financial economics vol 132 no 3 158 181 19 robinson david t and berk sensoy 2016 cyclicality performance measurement and cash flow liquidity in private equity journal ",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "target_key": "4398f82a3415f2593a9727c7267ccfec5e623881ef998003ce316ce014745057",
+      "source_paper_id": "P067",
+      "target_paper_id": "P293",
+      "pdf_page": 11,
+      "target_title": "Cyclicality, performance measurement, and cash flow liquidity in private equity",
+      "matched_title": "Cyclicality, performance measurement, and cash flow liquidity in private equity",
+      "normalized_excerpt": "st of private equity investments evidence from secondary market transactions journal of financial economics vol 132 no 3 158 181 19 robinson david t and berk sensoy 2016 cyclicality performance measurement and cash flow liquidity in private equity journal of financial economics 122 3 512 543 20 sensoy berk yingdi wang and michael weisbach 2014 limited partner performance and the maturing of the private equity market journal",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "target_key": "60c4ee37a99e8b7e0b1466550d29c4391ee156bfa8dae895fd930db4e8f2b340",
+      "source_paper_id": "P067",
+      "target_paper_id": "P302",
+      "pdf_page": 11,
+      "target_title": "The Public Market Equivalent and Private Equity Performance",
+      "matched_title": "The Public Market Equivalent and Private Equity Performance",
+      "normalized_excerpt": " 2014 limited partner performance and the maturing of the private equity market journal of financial economics 112 3 320 343 21 sorensen morten and ravi jagannathan 2015 the public market equivalent and private equity performance financial analysts journal 71 4 43 50 electronic copy available at https ssrn com abstract 3532444",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "8f11ebd6399fc24ccf06c8e7a32d80e55c87c50889521cc00e8833476ded9723",
+      "target_key": "e6251c6079bb34d2e3f83028a4eae7028e5af8805be7e17726d2f6f86ae1ac39",
+      "source_paper_id": "P073",
+      "target_paper_id": "P019",
+      "pdf_page": 36,
+      "target_title": "Event risk, covenants, and bondholder returns in leveraged buyouts",
+      "matched_title": "Event risk, covenants, and bondholder returns in leveraged buyouts",
+      "normalized_excerpt": " workers at risk the american prospect https prospect org power private equity pillage grocery stores workers risk date accessed 2025 12 03 asquith p and t a wizman 1990 event risk covenants and bondholder returns in leveraged buyouts journal of financial economics 27 195 213 axelson u t jenkinson p stromberg and m w weisbach 2013 borrow cheap buy high the determinants of leverage and pricing in buyouts journal",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "8f11ebd6399fc24ccf06c8e7a32d80e55c87c50889521cc00e8833476ded9723",
+      "target_key": "483d51dc0085e76ae07e90df790b9d009198c8bafad94e4c1bee5934a74ea684",
+      "source_paper_id": "P073",
+      "target_paper_id": "P021",
+      "pdf_page": 36,
+      "target_title": "Borrow Cheap, Buy High? The Determinants of Leverage and Pricing in Buyouts",
+      "matched_title": "Borrow Cheap, Buy High? The Determinants of Leverage and Pricing in Buyouts",
+      "normalized_excerpt": "n 1990 event risk covenants and bondholder returns in leveraged buyouts journal of financial economics 27 195 213 axelson u t jenkinson p stromberg and m w weisbach 2013 borrow cheap buy high the determinants of leverage and pricing in buyouts journal of finance 68 45 67 axelson u p stromberg and m w weisbach 2009 why are buyouts levered the financial structure of private equity firms journal of finance 64 1549 82 2257 ",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "8f11ebd6399fc24ccf06c8e7a32d80e55c87c50889521cc00e8833476ded9723",
+      "target_key": "20625270cdb2ee678f26d394a76df99dd0145ca10f79d5f234216134d9928bb8",
+      "source_paper_id": "P073",
+      "target_paper_id": "P093",
+      "pdf_page": 37,
+      "target_title": "Sources of Value Creation in Private Equity Buyouts of Private Firms",
+      "matched_title": "Sources of Value Creation in Private Equity Buyouts of Private Firms",
+      "normalized_excerpt": "ver contests journal of finance 48 731 45 chung j w 2011 leveraged buyouts of private companies working paper korea university cohn j b e s hotchkiss and e m towery 2022 sources of value creation in private equity buyouts of private firms review of finance 26 257 85 davis s j haltiwanger k handley b lipsius j lerner and j miranda 2021 the economic effects of private equity buyouts https ssrn com abstract 3465723 or",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "8f11ebd6399fc24ccf06c8e7a32d80e55c87c50889521cc00e8833476ded9723",
+      "target_key": "c98e7915cc16b32e9fa717b08c2e5e09cd7fff7df36aae6d02a614a8665002fd",
+      "source_paper_id": "P073",
+      "target_paper_id": "P133",
+      "pdf_page": 37,
+      "target_title": "Leveraged buyouts and bond credit spreads",
+      "matched_title": "Leveraged buyouts and bond credit spreads",
+      "normalized_excerpt": "ic review 95 936 59 eckbo e b and k s thorburn 2013 corporate restructuring foundations and trends in finance 7 159 288 eisenthal berkovitz y p feldhutter and v vig 2020 leveraged buyouts and bond credit spreads journal of financial economics 135 577 601 grossman s j and o d hart 1980 takeover bids the free rider problem and the theory of the corporation bell journal of economics 11 42 64",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "8f11ebd6399fc24ccf06c8e7a32d80e55c87c50889521cc00e8833476ded9723",
+      "target_key": "b5b70007206ee1e393ef293dba92a3adec9cfd2e31dae6fb50707e95ce3c24bd",
+      "source_paper_id": "P073",
+      "target_paper_id": "P228",
+      "pdf_page": 38,
+      "target_title": "The Evolution of Buyout Pricing and Financial Structure in the 1980s",
+      "matched_title": "The Evolution of Buyout Pricing and Financial Structure in the 1980s",
+      "normalized_excerpt": "nancial economics 3 305 60 kaplan s n 1989 the effects of management buyouts on operations and value journal of financial economics 24 217 54 kaplan s n and j stein 1993 the evolution of buyout pricing and financial structure in the 1980s quarterly journal of economics 108 313 58 kaplan s n and p stromberg 2009 leveraged buyouts and private equity journal of economic perspectives 23 121 46 knight j 1988 kkr using o",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "8f11ebd6399fc24ccf06c8e7a32d80e55c87c50889521cc00e8833476ded9723",
+      "target_key": "f7c12b54865d3ecbc54e21b66e401d1170c1b0dcb2a7e9eaaa44cfce5ed32761",
+      "source_paper_id": "P073",
+      "target_paper_id": "P229",
+      "pdf_page": 38,
+      "target_title": "Leveraged buyouts and private equity",
+      "matched_title": "Leveraged buyouts and private equity",
+      "normalized_excerpt": "aplan s n and j stein 1993 the evolution of buyout pricing and financial structure in the 1980s quarterly journal of economics 108 313 58 kaplan s n and p stromberg 2009 leveraged buyouts and private equity journal of economic perspectives 23 121 46 knight j 1988 kkr using only 15 million of its own in nabisco buyout washington post december 2 https www washingtonpost com archive pol",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "8f11ebd6399fc24ccf06c8e7a32d80e55c87c50889521cc00e8833476ded9723",
+      "target_key": "d4c84438f47f1fc5d8b15d855605f85a54ccb687b74782fcfd2135023c258e5e",
+      "source_paper_id": "P073",
+      "target_paper_id": "P259",
+      "pdf_page": 38,
+      "target_title": "A theory of LBO activity based on repeated debt-equity conflicts",
+      "matched_title": "A theory of LBO activity based on repeated debt-equity conflicts",
+      "normalized_excerpt": "we know msci research https www msci com research and insights blog post leverage in private equity what do we know date accessed 2025 12 03 malenko a and n malenko 2015 a theory of lbo activity based on repeated debt equity conflicts journal of financial economics 117 607 27 manne h g 1965 mergers and the market for corporate control journal of political economy 73 110 20 metrick a and a yasuda 2010 the econom",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "8f11ebd6399fc24ccf06c8e7a32d80e55c87c50889521cc00e8833476ded9723",
+      "target_key": "a63be264f5b8f1bc285170abd808fc2dc079daa97afffa0f7ebfefd9479f8b08",
+      "source_paper_id": "P073",
+      "target_paper_id": "P266",
+      "pdf_page": 38,
+      "target_title": "The economics of private equity funds",
+      "matched_title": "The economics of private equity funds",
+      "normalized_excerpt": " journal of financial economics 117 607 27 manne h g 1965 mergers and the market for corporate control journal of political economy 73 110 20 metrick a and a yasuda 2010 the economics of private equity funds review of financial studies 23 2303 41 muller h m and f panunzi 2003 tender offers and leverage working paper credit and debt markets research group 2004 tender offers and leverag",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "8f11ebd6399fc24ccf06c8e7a32d80e55c87c50889521cc00e8833476ded9723",
+      "target_key": "602bba8f74081fae9e59ad15931354be579d142bbdf1b4af322a274b8ff8612d",
+      "source_paper_id": "P073",
+      "target_paper_id": "P286",
+      "pdf_page": 38,
+      "target_title": "Private equity portfolio company fees",
+      "matched_title": "Private equity portfolio company fees",
+      "normalized_excerpt": "spier 1993 capital structure as a bargaining tool the role of leverage in contract renegotiation american economic review 83 1131 41 phalippou l c rauch and m umber 2018 private equity portfolio company fees journal of financial economics 129 559 85 rhodes kropf m and s viswanathan 2000 auctions with contingent payments journal of finance 55 1807 49 rudin w 1964 principles of mathemat",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "8c4bf87280336421b235153d4425253c697727aac5937afdd1fc3b6da532347a",
+      "target_key": "0cdf0a4e44981da2d7b2bcf644373ae83f9b5d9c731f3084baa02343b58ba523",
+      "source_paper_id": "P170",
+      "target_paper_id": "P085",
+      "pdf_page": 25,
+      "target_title": "A theory of the going-public decision",
+      "matched_title": "A theory of the going-public decision",
+      "normalized_excerpt": "ion asymmetries and the ongoing costs of public reporting including the disclosure of sensitive or proprietary information see e g thomas j chemmanur and paolo fulghieri a theory of the going public decision 12 rev fin stud 249 251 1999 analyzing differences in information related costs of public and private firms jay r ritter the costs of going public 19 j fin econ 269 269 76 1987 de",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "08f9611869a310a8aa1bba83393b0ced538f5c142ff0a3e47252776a939436af",
+      "target_key": "3fd0235f5ad4327ac5d54b751109d6d1e62d17f245660847e7a2d3370bd3c0b3",
+      "source_paper_id": "P187",
+      "target_paper_id": "P091",
+      "pdf_page": 33,
+      "target_title": "The risk and return of venture capital",
+      "matched_title": "The risk and return of venture capital",
+      "normalized_excerpt": "u of economic research working paper cochrane john h 1996 a cross sectional test of an investment based asset pricing model journal of political economy 104 572 621 2005 the risk and return of venture capital journal of financial economics 75 3 52 2009 asset pricing revised edition princeton university press 32",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "08f9611869a310a8aa1bba83393b0ced538f5c142ff0a3e47252776a939436af",
+      "target_key": "8de1c0d899271e4ac8382560eae5a2665d515202d905d2bfb088e93d0455f8e8",
+      "source_paper_id": "P187",
+      "target_paper_id": "P158",
+      "pdf_page": 34,
+      "target_title": "Private Equity Performance and Liquidity Risk",
+      "matched_title": "Private Equity Performance and Liquidity Risk",
+      "normalized_excerpt": "ferson and d jackson 2002 performance evaluation with stochastic discount factors journal of business 75 473 503 franzoni francesco eric nowak and ludovic phalippou 2012 private equity performance and liquidity risk the journal of finance 67 2341 2373 garleanu nicolae and stavros panageas 2017 finance in a time of disruptive growth berkeley university working paper ghosh anisha christian jull",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "08f9611869a310a8aa1bba83393b0ced538f5c142ff0a3e47252776a939436af",
+      "target_key": "24b1057b780d4a0b2cb2258de541e91249d5bee71accd25229cd430fabf6bbab",
+      "source_paper_id": "P187",
+      "target_paper_id": "P186",
+      "pdf_page": 34,
+      "target_title": "Do Private Equity Managers Have Superior Information on Public Markets?",
+      "matched_title": "Do Private Equity Managers Have Superior Information on Public Markets?",
+      "normalized_excerpt": "m n elise gourier and ludovic phalippou 2018 how alternative are alter native investments the case of private equity funds yale university working paper gredil oleg 2018 do private equity managers have superior information on public markets tulane university working paper gupta arpit and stijn van nieuwerburgh 2019 valuing private equity investments strip by strip new york university working paper hakansson nils h 19",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "08f9611869a310a8aa1bba83393b0ced538f5c142ff0a3e47252776a939436af",
+      "target_key": "f16d79fa870ef67f1db242233445e2d69baea47db886365c1d69cda67c86da12",
+      "source_paper_id": "P187",
+      "target_paper_id": "P193",
+      "pdf_page": 34,
+      "target_title": "Valuing Private Equity Investments Strip by Strip",
+      "matched_title": "Valuing Private Equity Investments Strip by Strip",
+      "normalized_excerpt": "paper gredil oleg 2018 do private equity managers have superior information on public markets tulane university working paper gupta arpit and stijn van nieuwerburgh 2019 valuing private equity investments strip by strip new york university working paper hakansson nils h 1971 multi period mean variance analysis toward a general theory of portfolio choice the journal of finance 26 857 884 hall pete",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "08f9611869a310a8aa1bba83393b0ced538f5c142ff0a3e47252776a939436af",
+      "target_key": "f2f7d36689984febf13ff8d4f989a581c8340cab1a07e66ead3c2dbfe01fccd8",
+      "source_paper_id": "P187",
+      "target_paper_id": "P199",
+      "pdf_page": 35,
+      "target_title": "Private equity performance: What do we know?",
+      "matched_title": "Private equity performance: What do we know?",
+      "normalized_excerpt": "harris robert s tim jenkinson and steven n kaplan 2014 private equity performance what do we know the journal of finance 69 1851 1882 jagannathan ravi and binying liu 2019 dividend dynamics learning and expected stock index returns the journal of finance 74 401 448 jagannathan",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "08f9611869a310a8aa1bba83393b0ced538f5c142ff0a3e47252776a939436af",
+      "target_key": "e4a1537519f0c150351a26b9945a2d5ac2d77f2f8416ebcb8f83367c6a780acd",
+      "source_paper_id": "P187",
+      "target_paper_id": "P227",
+      "pdf_page": 35,
+      "target_title": "Private equity performance: Returns, persistence, and capital flows",
+      "matched_title": "Private equity performance: Returns, persistence, and capital flows",
+      "normalized_excerpt": "002 empirical evaluation of asset pricing models a com parison of the sdf and beta methods the journal of finance 57 2337 2367 kaplan steven n and antoinette schoar 2005 private equity performance returns persistence and capital flows the journal of finance 60 1791 1823 kaplan steven n and berk a sensoy 2015 private equity performance a survey annual review of financial economics 7 597 614 korteweg arthur and s",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "08f9611869a310a8aa1bba83393b0ced538f5c142ff0a3e47252776a939436af",
+      "target_key": "8f2dff4d030cee4472c161b26996a603e68f89f8c46cfb4945c63749bd091da9",
+      "source_paper_id": "P187",
+      "target_paper_id": "P237",
+      "pdf_page": 35,
+      "target_title": "Risk-Adjusting the Returns to Venture Capital",
+      "matched_title": "Risk-Adjusting the Returns to Venture Capital",
+      "normalized_excerpt": "1791 1823 kaplan steven n and berk a sensoy 2015 private equity performance a survey annual review of financial economics 7 597 614 korteweg arthur and stefan nagel 2016 risk adjusting the returns to venture capital the journal of finance 71 1437 1470 korteweg arthur and morten sorensen 2010 risk and return characteristics of venture capital backed entrepreneurial companies the review of fina",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "08f9611869a310a8aa1bba83393b0ced538f5c142ff0a3e47252776a939436af",
+      "target_key": "7224f2bfd27cd5cbd14b287960e5fdf987189f09791661d92540fdb19b159014",
+      "source_paper_id": "P187",
+      "target_paper_id": "P247",
+      "pdf_page": 35,
+      "target_title": "Smart institutions, foolish choices: The limited partner performance puzzle",
+      "matched_title": "Smart institutions, foolish choices: The limited partner performance puzzle",
+      "normalized_excerpt": "rn characteristics of venture capital backed entrepreneurial companies the review of financial studies 23 3738 3772 lerner josh antoinette schoar and wan wongsunwai 2007 smart institutions foolish choices the limited partner performance puzzle the journal of finance 62 731 764 ljungqvist alexander and matthew richardson 2003 the cash ow return and risk characteris tics of private equity national bureau of economic resea",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "08f9611869a310a8aa1bba83393b0ced538f5c142ff0a3e47252776a939436af",
+      "target_key": "60c4ee37a99e8b7e0b1466550d29c4391ee156bfa8dae895fd930db4e8f2b340",
+      "source_paper_id": "P187",
+      "target_paper_id": "P302",
+      "pdf_page": 35,
+      "target_title": "The Public Market Equivalent and Private Equity Performance",
+      "matched_title": "The Public Market Equivalent and Private Equity Performance",
+      "normalized_excerpt": "instein mark 1976 the valuation of uncertain income streams and the pricing of options the bell journal of economics pp 407 425 sorensen morten and ravi jagannathan 2015 the public market equivalent and private equity performance financial analysts journal 71 43 50 wachter jessica a 2005 solving models with external habit finance research letters 2 210 226 34",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "d3749652d927d0d2a5d65b92c772a1c3ad84708b05a3aff2a162b29cb5e964d9",
+      "source_paper_id": "P236",
+      "target_paper_id": "P012",
+      "pdf_page": 19,
+      "target_title": "Political Representation and Governance: Evidence from the Investment Decisions of Public Pension Funds",
+      "matched_title": "Political Representation and Governance: Evidence from the Investment Decisions of Public Pension Funds",
+      "normalized_excerpt": "ences andonov a bauer r m cremers k m 2017 pension fund asset allocation and liability discount rates rev financ stud 30 8 2555 2595 andonov a hochberg y v rauh j d 2018 political representation and governance evidence from the investment decisions of public pension funds j financ 73 5 2041 2086 andonov a rauh j d 2022 the return expectations of public pension funds rev financ stud 35 8 3777 3822 augustin n binfare m fermand e 2025 benchmarking pri",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "b42c6be3cb6ae95f9e4430081838e6aa97f4c2448c8cb9ade2fdef0aa16c9f9f",
+      "source_paper_id": "P236",
+      "target_paper_id": "P030",
+      "pdf_page": 19,
+      "target_title": "Interim fund performance and fundraising in private equity",
+      "matched_title": "Interim fund performance and fundraising in private equity",
+      "normalized_excerpt": "5 benchmarking private equity portfolios evidence from pension funds unpublished working paper university of missouri and santa clara university barber b m yasuda a 2017 interim fund performance and fundraising in private equity j financ econ 124 1 172 194 begenau j liang p siriwardane e 2025 the rise of alternatives the review of financial studies forthcoming begenau j siriwardane e 2024 fee variation in",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "b02120fd7ceab3a50ab812d9829217d2bd72fda958b6fb3ef8e1fae476bb090a",
+      "source_paper_id": "P236",
+      "target_paper_id": "P033",
+      "pdf_page": 19,
+      "target_title": "Fee Variation in Private Equity",
+      "matched_title": "Fee Variation in Private Equity",
+      "normalized_excerpt": "equity j financ econ 124 1 172 194 begenau j liang p siriwardane e 2025 the rise of alternatives the review of financial studies forthcoming begenau j siriwardane e 2024 fee variation in private equity j financ 79 2 1199 1247 bradley d pantzalis c yuan x 2016 the influence of political bias in state pension funds j financ econ 119 69 91 bretscher l lewis r santosh s 2024 investo",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "338dd6ffdff79306aca2acd3b5e58e39f5a3c96eac5997cab0a612b6b2b68e09",
+      "source_paper_id": "P236",
+      "target_paper_id": "P065",
+      "pdf_page": 19,
+      "target_title": "Do private equity funds manipulate reported returns?",
+      "matched_title": "Do private equity funds manipulate reported returns?",
+      "normalized_excerpt": "ty of maryland brown g w ghysels e gredil o r 2023 nowcasting net asset values the case of private equity rev financ stud 36 945 986 brown g w gredil o r kaplan s n 2019 do private equity funds manipulate reported returns j financ econ 132 2 267 297 brown j r wilcox d w 2009 discounting state and local pension liabilities am econ rev 99 2 538 542 campbell j y vuolteenaho t 2004 bad beta good beta a",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "60b7166a7d96539c05c8c92a150fdf45708144bb9890e834868c062bf7eb977e",
+      "source_paper_id": "P236",
+      "target_paper_id": "P080",
+      "pdf_page": 19,
+      "target_title": "Measuring Institutional Investors’ Skill at Making Private Equity Investments",
+      "matched_title": "Measuring Institutional Investors’ Skill at Making Private Equity Investments",
+      "normalized_excerpt": "sion liabilities am econ rev 99 2 538 542 campbell j y vuolteenaho t 2004 bad beta good beta am econ rev 94 5 1249 1275 cavagnaro d r sensoy b a wang y weisbach m s 2019 measuring institutional investors skill at making private equity investments j financ 74 6 3089 3134 chakraborty i ewens m 2018 managing performance signals through delay evidence from venture capital manag sci 64 6 2875 2900 couts s goncalves a s liu y lo",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "33db34761af1d082459d58628ee7e1f5c1d3047517966c7116e80b468b59a860",
+      "source_paper_id": "P236",
+      "target_paper_id": "P114",
+      "pdf_page": 19,
+      "target_title": "The importance of size in private equity: Evidence from a survey of limited partners",
+      "matched_title": "The importance of size in private equity: Evidence from a survey of limited partners",
+      "normalized_excerpt": "university and unversity of notre dame couts s goncalves a s rossi a 2024b unsmoothing returns of illiquid funds rev financ stud 37 7 2110 2155 da rin m phalippou l 2017 the importance of size in private equity evidence from a survey of limited partners j financ intermediation 31 64 76 dyck a manoel p morse a 2022 outraged by compensation implications for public pension performance rev financ stud 35 6 2928 2980 dyck a pomorski l",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "9cd4ec810391ad0674d3ef4a71d8cbbb520f085dbc31593d12ac804ff67cb2a1",
+      "source_paper_id": "P236",
+      "target_paper_id": "P128",
+      "pdf_page": 19,
+      "target_title": "Investor Scale and Performance in Private Equity Investments",
+      "matched_title": "Investor Scale and Performance in Private Equity Investments",
+      "normalized_excerpt": "ediation 31 64 76 dyck a manoel p morse a 2022 outraged by compensation implications for public pension performance rev financ stud 35 6 2928 2980 dyck a pomorski l 2015 investor scale and performance in private equity investments rev financ 20 3 1081 1106 frazzini a pedersen l h 2022 embedded leverage rev asset pricing stud 12 1 52 garleanu n panageas s 2024 finance in a time of disruptive growth unpublish",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "dc5db6eb742733f4ad0f254d1255433b574be58830994501ecf8fd60dcfd7110",
+      "source_paper_id": "P236",
+      "target_paper_id": "P166",
+      "pdf_page": 19,
+      "target_title": "Nowcasting Net Asset Values: The Case of Private Equity",
+      "matched_title": "Nowcasting Net Asset Values: The Case of Private Equity",
+      "normalized_excerpt": "91 bretscher l lewis r santosh s 2024 investor betas university of lausanne university of colorado boulder and university of maryland brown g w ghysels e gredil o r 2023 nowcasting net asset values the case of private equity rev financ stud 36 945 986 brown g w gredil o r kaplan s n 2019 do private equity funds manipulate reported returns j financ econ 132 2 267 297 brown j r wilcox d w 2009 discounti",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "250a895d81d37bfde2cdab35bd58a6f513c8f3bd2c839b2a6d286e57955e9382",
+      "source_paper_id": "P236",
+      "target_paper_id": "P188",
+      "pdf_page": 19,
+      "target_title": "Benchmarking private equity: The direct alpha method",
+      "matched_title": "Benchmarking private equity: The direct alpha method",
+      "normalized_excerpt": "ngton st louis and ucla goyal a wahal s yavuz m d 2026 picking partners manager selection in private equity j financ econ 178 104250 gredil o r griffiths b stucke r 2023 benchmarking private equity the direct alpha method j corp financ 81 102360 gredil o r liu y sensoy b 2025 diversifying private equity unpublished working paper tuland university tsinghua university and vanderbilt university harris",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "f2f7d36689984febf13ff8d4f989a581c8340cab1a07e66ead3c2dbfe01fccd8",
+      "source_paper_id": "P236",
+      "target_paper_id": "P199",
+      "pdf_page": 19,
+      "target_title": "Private equity performance: What do we know?",
+      "matched_title": "Private equity performance: What do we know?",
+      "normalized_excerpt": "ensoy b 2025 diversifying private equity unpublished working paper tuland university tsinghua university and vanderbilt university harris r s jenkinson t kaplan s n 2014 private equity performance what do we know j financ 69 5 1851 1882 harris r s jenkinson t kaplan s n stucke r 2023 has persistence persisted in private equity evidence from buyout and venture capital funds j corp financ 81",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "f4a10e48271ec0b211104c0b24e8930650a20316c329ee577769dc721716fc51",
+      "source_paper_id": "P236",
+      "target_paper_id": "P201",
+      "pdf_page": 19,
+      "target_title": "Has persistence persisted in private equity? Evidence from buyout and venture capital funds",
+      "matched_title": "Has persistence persisted in private equity? Evidence from buyout and venture capital funds",
+      "normalized_excerpt": "bilt university harris r s jenkinson t kaplan s n 2014 private equity performance what do we know j financ 69 5 1851 1882 harris r s jenkinson t kaplan s n stucke r 2023 has persistence persisted in private equity evidence from buyout and venture capital funds j corp financ 81 102361 hochberg y v rauh j d 2013 local overweighting and underperformance evidence from limited partner private equity investments rev financ stud 26 2 403 451 i",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "602d0965b10b5b59fd84b5bb68942a87f9dbb5fad3cc0d57ce3cc57f2b0bf094",
+      "source_paper_id": "P236",
+      "target_paper_id": "P217",
+      "pdf_page": 19,
+      "target_title": "Private equity net asset values and future cash flows",
+      "matched_title": "Private equity net asset values and future cash flows",
+      "normalized_excerpt": "ing for alternatives pension investments around the world 2008 to 2017 unpublished working paper harvard university jenkinson t landsman w r rountree b soonawalla k 2020 private equity net asset values and future cash flows account rev 95 1 191 210 jenkinson t sousa m stucke r 2013 how fair are the valuations of private equity funds unpublished working paper university of oxford kaplan s n schoar a 2",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "e4a1537519f0c150351a26b9945a2d5ac2d77f2f8416ebcb8f83367c6a780acd",
+      "source_paper_id": "P236",
+      "target_paper_id": "P227",
+      "pdf_page": 19,
+      "target_title": "Private equity performance: Returns, persistence, and capital flows",
+      "matched_title": "Private equity performance: Returns, persistence, and capital flows",
+      "normalized_excerpt": "5 1 191 210 jenkinson t sousa m stucke r 2013 how fair are the valuations of private equity funds unpublished working paper university of oxford kaplan s n schoar a 2005 private equity performance returns persistence and capital flows j financ 60 4 1791 1823 korteweg a 2023 risk and return in private equity in eckbo b e phillips g sorensen m eds handbook of the economics of corporate finance private equity and ",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "8f2dff4d030cee4472c161b26996a603e68f89f8c46cfb4945c63749bd091da9",
+      "source_paper_id": "P236",
+      "target_paper_id": "P237",
+      "pdf_page": 19,
+      "target_title": "Risk-Adjusting the Returns to Venture Capital",
+      "matched_title": "Risk-Adjusting the Returns to Venture Capital",
+      "normalized_excerpt": "ps g sorensen m eds handbook of the economics of corporate finance private equity and entrepreneurial finance vol 1 elsevier pp 343 418 chapter 8 korteweg a nagel s 2016 risk adjusting the returns to venture capital j financ 71 3 1437 1470 korteweg a westerfield m m 2022 asset allocation with private equity found trends financ 13 2 95 204 lerner j hardymon f leamon a 2011 note on the private ",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "7224f2bfd27cd5cbd14b287960e5fdf987189f09791661d92540fdb19b159014",
+      "source_paper_id": "P236",
+      "target_paper_id": "P247",
+      "pdf_page": 19,
+      "target_title": "Smart institutions, foolish choices: The limited partner performance puzzle",
+      "matched_title": "Smart institutions, foolish choices: The limited partner performance puzzle",
+      "normalized_excerpt": "c 13 2 95 204 lerner j hardymon f leamon a 2011 note on the private equity fundraising process harvard business school case 9 201 042 lerner j schoar a wongsunwai w 2007 smart institutions foolish choices the limited partner performance puzzle j financ 62 2 731 764 long j b 1990 the numeraire portfolio j financ econ 26 29 69 lu l pritsker m zlate a anadu k bohn j 2019 reach for yield by u s public pension funds frb bost",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "3929e9ca6e98e450853d425b392fef447f62efb08842b7761471c6ba6e27c01e",
+      "source_paper_id": "P236",
+      "target_paper_id": "P289",
+      "pdf_page": 19,
+      "target_title": "Local overweighting and underperformance: Evidence from limited partner private equity investments",
+      "matched_title": "Local overweighting and underperformance: Evidence from limited partner private equity investments",
+      "normalized_excerpt": " t kaplan s n stucke r 2023 has persistence persisted in private equity evidence from buyout and venture capital funds j corp financ 81 102361 hochberg y v rauh j d 2013 local overweighting and underperformance evidence from limited partner private equity investments rev financ stud 26 2 403 451 ivashina v lerner j 2018 looking for alternatives pension investments around the world 2008 to 2017 unpublished working paper harvard university jenki",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "7de00b14775287c5b5a25c07ac5d411f0879ceb9e89939bcf096c8a7e3212460",
+      "source_paper_id": "P236",
+      "target_paper_id": "P271",
+      "pdf_page": 20,
+      "target_title": "The liquidity cost of private equity investments: Evidence from secondary market transactions",
+      "matched_title": "The liquidity cost of private equity investments: Evidence from secondary market transactions",
+      "normalized_excerpt": "journal of financial economics 184 2026 104336 20 a korteweg et al nadauld t d sensoy b a vorkink k weisbach m s 2019 the liquidity cost of private equity investments evidence from secondary market transactions j financ econ 132 3 158 181 novy marx r rauh j d 2009 the liabilities and risks of state sponsored pension plans j econ perspect 23 4 191 210 novy marx r rauh j d 2011 public pens",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "91b43a24dfc7ceb2f38f93746c7943ca2e0962e45c533a87943d7970e54a9dff",
+      "source_paper_id": "P236",
+      "target_paper_id": "P287",
+      "pdf_page": 20,
+      "target_title": "The performance of private equity funds",
+      "matched_title": "The performance of private equity funds",
+      "normalized_excerpt": "m econ j econ policy 6 1 193 229 pennacchi g rastad m 2011 portfolio allocation for public pension funds j pension econ financ 10 2 221 245 phalippou l gottschalg o 2009 the performance of private equity funds rev financ stud 22 4 1747 1776 rauh j d 2009 risk shifting versus risk management investment policy in corporate pension plans rev financ stud 22 7 2687 2733 sensoy b a wang y wei",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "039783738f6ca64f9c118198586046d3a7267cce8728db0a74b25dd1971c75cc",
+      "source_paper_id": "P236",
+      "target_paper_id": "P296",
+      "pdf_page": 20,
+      "target_title": "Limited partner performance and the maturing of the private equity industry",
+      "matched_title": "Limited partner performance and the maturing of the private equity industry",
+      "normalized_excerpt": "7 1776 rauh j d 2009 risk shifting versus risk management investment policy in corporate pension plans rev financ stud 22 7 2687 2733 sensoy b a wang y weisbach m s 2014 limited partner performance and the maturing of the private equity industry j financ econ 112 3 320 343 sharpe w f 1988 determining a fund s effective asset mix invest manag rev 2 6 pp 59 69 sharpe w f 1992 asset allocation j portf manag 18 2 7 19 sørense",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "60c4ee37a99e8b7e0b1466550d29c4391ee156bfa8dae895fd930db4e8f2b340",
+      "source_paper_id": "P236",
+      "target_paper_id": "P302",
+      "pdf_page": 20,
+      "target_title": "The Public Market Equivalent and Private Equity Performance",
+      "matched_title": "The Public Market Equivalent and Private Equity Performance",
+      "normalized_excerpt": "pe w f 1988 determining a fund s effective asset mix invest manag rev 2 6 pp 59 69 sharpe w f 1992 asset allocation j portf manag 18 2 7 19 sørensen m jagannathan r 2015 the public market equivalent and private equity performance financ anal j 71 4 43 50 stafford e 2022 replicating private equity with value investing homemade leverage and hold to maturity accounting rev financ stud 35 1 299 342",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "00c2efde17c288cc4527106485d6d44923813c305d725f4eb88c70ab0803e1f8",
+      "target_key": "ea83413efcb8bd3b5462ed5aac03f2e3e9cd025f11c9ada3a6799246225990f7",
+      "source_paper_id": "P236",
+      "target_paper_id": "P304",
+      "pdf_page": 20,
+      "target_title": "Replicating Private Equity with Value Investing, Homemade Leverage, and Hold-to-Maturity Accounting",
+      "matched_title": "Replicating Private Equity with Value Investing, Homemade Leverage, and Hold-to-Maturity Accounting",
+      "normalized_excerpt": "set allocation j portf manag 18 2 7 19 sørensen m jagannathan r 2015 the public market equivalent and private equity performance financ anal j 71 4 43 50 stafford e 2022 replicating private equity with value investing homemade leverage and hold to maturity accounting rev financ stud 35 1 299 342",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "ca9985085af7b8887b9ea84384bb17cc83850a18c909fb73bdeaa03836dc7309",
+      "target_key": "a63be264f5b8f1bc285170abd808fc2dc079daa97afffa0f7ebfefd9479f8b08",
+      "source_paper_id": "P263",
+      "target_paper_id": "P266",
+      "pdf_page": 4,
+      "target_title": "The economics of private equity funds",
+      "matched_title": "The economics of private equity funds",
+      "normalized_excerpt": "n its investments subject to various adjustments thresholds and hurdles transaction fees which are paid to the fund when it buys or 8 see andrew metrick and ayako yasuda the economics of private equity funds 2 uni versity of pennsylvania the wharton school department of hnance working paper sept 2007 online at http finance wharton upenn edu rlwctr papers 0717 pdf visited jan 11 2009 9",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "ca9985085af7b8887b9ea84384bb17cc83850a18c909fb73bdeaa03836dc7309",
+      "target_key": "8c4bf87280336421b235153d4425253c697727aac5937afdd1fc3b6da532347a",
+      "source_paper_id": "P263",
+      "target_paper_id": "P170",
+      "pdf_page": 6,
+      "target_title": "Deconstructing equity: Public ownership, agency costs, and complete capital markets",
+      "matched_title": "Deconstructing equity: Public ownership, agency costs, and complete capital markets",
+      "normalized_excerpt": "yout specialists are likely to more effectively monitor managers by having more seats on the board and by having smaller boards 9 ronald j gilson and charles k whitehead deconstructing equity public ownership agency costs and complete capital markets 108 colum l rev 231 259 2008 suggesting that private ownership increases the value of a firm in part through reduced agency costs resulting from a more active board of directors 2",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "ca9985085af7b8887b9ea84384bb17cc83850a18c909fb73bdeaa03836dc7309",
+      "target_key": "f7c12b54865d3ecbc54e21b66e401d1170c1b0dcb2a7e9eaaa44cfce5ed32761",
+      "source_paper_id": "P263",
+      "target_paper_id": "P229",
+      "pdf_page": 10,
+      "target_title": "Leveraged buyouts and private equity",
+      "matched_title": "Leveraged buyouts and private equity",
+      "normalized_excerpt": " note 13 comparing the incentives of the three types of controlling investors management buyout specialists and outside investors 39 id steven n kaplan and per stromberg leveraged buyouts and private equity 23 j econ perspectives forthcoming 2009",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "ca9985085af7b8887b9ea84384bb17cc83850a18c909fb73bdeaa03836dc7309",
+      "target_key": "e6251c6079bb34d2e3f83028a4eae7028e5af8805be7e17726d2f6f86ae1ac39",
+      "source_paper_id": "P263",
+      "target_paper_id": "P019",
+      "pdf_page": 16,
+      "target_title": "Event risk, covenants, and bondholder returns in leveraged buyouts",
+      "matched_title": "Event risk, covenants, and bondholder returns in leveraged buyouts",
+      "normalized_excerpt": "rom 1985 1989 the typical bondholder lost 6 percent of the risk adjusted value of his bonds within four months of the lbo announce ment paul asquith and thierry a wizman event risk covenants and bondholder returns in leveraged buyouts 27 j fm econ 195 212 1990 reporting that bjonds that contain cove nants experience abnormal gains while those that do not suffer abnormal losses",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "ca9985085af7b8887b9ea84384bb17cc83850a18c909fb73bdeaa03836dc7309",
+      "target_key": "5caf7b294d4bfac2d1cce5db78c21a41e0c87fffe672a822bf7841a2a0fc035b",
+      "source_paper_id": "P263",
+      "target_paper_id": "P260",
+      "pdf_page": 16,
+      "target_title": "Wealth Effects of Going Private for Senior Securities",
+      "matched_title": "Wealth Effects of Going Private for Senior Securities",
+      "normalized_excerpt": "lifetime employment in fi3 see metropolitan life insurance company v rjr nabisco 716 f supp 1504 1526 sdny1989 m see laurentius marais katherine schipper and abbie smith wealth effects of going private for senior securities 23 j fin econ 155 159 1989 indicating that a buyout may allow management to reduce other stakeholders claims on a firm s cash flows by for example cutting back staff 5 see rennebo",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "ca9985085af7b8887b9ea84384bb17cc83850a18c909fb73bdeaa03836dc7309",
+      "target_key": "288b181ec747cc2e900ef707239969720d711dfcbd0af6fce445a49a82fb454c",
+      "source_paper_id": "P263",
+      "target_paper_id": "P004",
+      "pdf_page": 22,
+      "target_title": "More insiders, more insider trading: Evidence from private-equity buyouts",
+      "matched_title": "More insiders, more insider trading: Evidence from private-equity buyouts",
+      "normalized_excerpt": "s before the takeover until completion were not mea surably different than for private equity firms bidding alone id at 19 20 8 see viral v acharya and timothy c johnson more insiders more insider trading evidence from private equity buyouts 1 london business school working paper nov 2007 online at http factxltyresearch london edu docs acharya johnson insider trading takeovers pdf visited jan 11 2009",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "ca9985085af7b8887b9ea84384bb17cc83850a18c909fb73bdeaa03836dc7309",
+      "target_key": "b5b70007206ee1e393ef293dba92a3adec9cfd2e31dae6fb50707e95ce3c24bd",
+      "source_paper_id": "P263",
+      "target_paper_id": "P228",
+      "pdf_page": 22,
+      "target_title": "The Evolution of Buyout Pricing and Financial Structure in the 1980s",
+      "matched_title": "The Evolution of Buyout Pricing and Financial Structure in the 1980s",
+      "normalized_excerpt": " costly is financial not economic distress evidence from highly leveraged transactions that became distressed 53 j fin 1443 1483 1998 steven n kap lan and jeremy c stein the evolution of buyout pricing and financial structure in the 1980s 108 o j econ 313 313 14 1993 finding that fees taken by buyout shops investment banks and lenders trended upwards during the boom in buyouts during the late 1980s growing from be ",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    },
+    {
+      "source_key": "ca9985085af7b8887b9ea84384bb17cc83850a18c909fb73bdeaa03836dc7309",
+      "target_key": "fbe7bc9dd82d3d418d4fbc23e3e6574c587c3a7c7d56be18ca5fc556b5f1329b",
+      "source_paper_id": "P263",
+      "target_paper_id": "P274",
+      "pdf_page": 22,
+      "target_title": "Club deals in leveraged buyouts",
+      "matched_title": "Club deals in leveraged buyouts",
+      "normalized_excerpt": "ms paying lower prices when acquiring firms unless the targeted firm has high institutional stock ownership see generally micah s officer oguzhan ozbas and berk a sensoy club deals in leveraged buyouts 2 usc marshall school of business working paper mkt 10 08 july 2008 online at http ssm com abstract l 128404 visited jan 11 2009 finding that target shareholders received on avera",
+      "approved": true,
+      "review_reason": "Bibliographic entry or citation footnote inspected; title and author names agree, allowing earlier versions."
+    }
+  ],
+  "external_identity_sources": [
+    {
+      "paper_id": "P032",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3764895",
+      "finding": "Title, four authors and 2020 date agree."
+    },
+    {
+      "paper_id": "P067",
+      "url": "https://scholars.duke.edu/publication/1915071",
+      "finding": "Six authors, title and SSRN DOI agree."
+    },
+    {
+      "paper_id": "P170",
+      "url": "https://scholarship.law.columbia.edu/faculty_scholarship/174/",
+      "finding": "Gilson/Whitehead 2008 Columbia Law Review article confirmed."
+    },
+    {
+      "paper_id": "P187",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3506847",
+      "finding": "Gredil/Sorensen/Waller and paper title agree."
+    },
+    {
+      "paper_id": "P236",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304405X26001078",
+      "finding": "Published title agrees with PDF; local references used."
+    },
+    {
+      "paper_id": "P263",
+      "url": "https://lawreview.uchicago.edu/sites/default/files/76_1_Masulis_Thomas.pdf",
+      "finding": "Publisher hosts Masulis/Thomas article; local PDF footnote citations used."
+    }
+  ]
+}

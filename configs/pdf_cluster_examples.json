@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "solution": "leiden_k5",
+  "resolution": 0.95,
+  "membership_id": "d22d78d6899f34e5f36dc296f9393e4effa36a7f1a76b4de4598e2ff50b135cc",
+  "selection_method": "Purposive content review of retained PDF abstracts and substantive passages, guided by the requested themes. Papers must belong to the exact saved cluster and substantively concern private equity or sponsor-backed buyouts. Mean within-cluster cosine rank and cosine silhouette provide separate diagnostics, not automatic selection thresholds.",
+  "focus": {
+    "1": "employment growth",
+    "2": "leveraged buyouts: financing and process",
+    "3": "going private / going public",
+    "4": "fund performance",
+    "5": "health care and nursing homes"
+  },
+  "papers": [
+    {
+      "paper_id": "P116",
+      "cluster": 1,
+      "citation": "Davis, Haltiwanger, Handley, Jarmin, Lerner & Miranda (2014)",
+      "pdf_sha256": "1792197c461c3686f90a1c5f745fa99a2d4693c77df7e01cf09265c8d56844d5",
+      "text_sha256": "09e3a4ded7156c782cb887102e0e53ce7cb7012f5a4eb4bd496d45d62022d944",
+      "role": "Employment creation, destruction and net growth after PE buyouts",
+      "why_representative": "Tracks target firms and establishments before and after PE buyouts against comparable controls. Separating gross job creation and destruction from net employment change directly addresses the employment-growth focus.",
+      "private_equity_focus": "The research question concerns leveraged acquisitions by private equity firms and their effects on jobs and productivity, rather than employment trends in general.",
+      "scope_note": "Reports modest net job losses alongside substantial job reallocation; the employment-growth focus does not imply that all effects are positive.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/3",
+          "segment": 1,
+          "excerpt": "Private equity critics claim that leveraged buyouts bring huge job losses and few gains in operating performance. To evaluate these claims, we construct and analyze a new dataset that covers US buyouts from 1980 to 2005. We track 3,200 target firms and their 150,000 establishments before and after acquisition, comparing to controls defined by industry, size, age, and prior growth."
+        },
+        {
+          "page": 2,
+          "block_id": "/page/1/Text/4",
+          "segment": 1,
+          "excerpt": "Efforts to bring data to these issues are highly welcome, but these studies have several limitations. First, they rely on surveys with incomplete and perhaps selective responses, raising doubts about representativeness and accuracy. Second, the underlying data offer little scope to control for concurrent changes at comparable firms. When a firm backed by private equity sheds 5 percent of employment, the interpretation depends greatly on whether comparable firms grow by 3 percent or shrink by 10 percent."
+        }
+      ]
+    },
+    {
+      "paper_id": "P117",
+      "cluster": 1,
+      "citation": "Davis, Haltiwanger, Handley, Lipsius, Lerner & Miranda (2025)",
+      "pdf_sha256": "f36a32771977dc14aef29be6b8c0e6318b7eaa37105e895defffc195aa1fedb5",
+      "text_sha256": "a79117180e396687a57b977ade6245a030de78ca0ba893ca6f51def4ac28cda1",
+      "role": "Why employment effects vary across buyouts",
+      "why_representative": "Examines how employment growth after PE buyouts varies by target ownership, sponsor and credit conditions. Complements the earlier study by explaining why employment can grow after some buyouts and shrink after others.",
+      "private_equity_focus": "PE-backed buyouts are the treatment of interest throughout the analysis, with non-PE firms providing the comparison group.",
+      "scope_note": "Extends the Davis et al. research programme and overlaps its earlier sample; the two papers provide complementary evidence rather than two independent replications.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/7",
+          "segment": 1,
+          "excerpt": "Abstract. The effects of private equity buyouts on employment, productivity, and job reallocation vary tremendously with macroeconomic and credit conditions, across private equity groups, and by type of buyout. We reach this conclusion by examining the most extensive database of U.S. buyouts ever compiled, encompassing thousands of buyout targets from 1980 to 2013 and millions of control firms."
+        },
+        {
+          "page": 2,
+          "block_id": "/page/1/Text/5",
+          "segment": 1,
+          "excerpt": "We find, first, that target firms experience large labor productivity gains relative to contemporaneous outcomes at control firms over the first two years after buyout. Second, productivity gains are much larger for deals executed amid tight credit conditions or in recessions. Third, relative employment at targets rises 15%, on average, in firms previously under private ownership, whereas it falls 12% in buyouts of publicly listed firms. These results also hold when we look over a fiveyear (rather than two-year) horizon."
+        }
+      ]
+    },
+    {
+      "paper_id": "P104",
+      "cluster": 2,
+      "citation": "Cotter & Peck (2001)",
+      "pdf_sha256": "3f74a7fd0faf2cb11a02d8a2283acf52485f325e9d2cbc696896929c5f70c22d",
+      "text_sha256": "232655f17202ce4b8d9c7e87e88c553553ce4d112cd0846ca0e5e988e8c60269",
+      "role": "How the buyout sponsor structures financing and monitors the acquired firm",
+      "why_representative": "Explains acquisition financing through debt and equity, the sponsor's controlling equity stake, board representation and post-buyout monitoring. This gives a concrete account of the LBO mechanism and how sponsor involvement changes debt terms.",
+      "private_equity_focus": "Studies buyout specialists, explicitly including KKR, as active equity owners in LBOs. The terminology is historical, but the focus is sponsor-backed buyout financing and governance.",
+      "scope_note": "The retained PDF text contains OCR artefacts in words such as financing; the supporting passages are shown exactly as stored. The sample compares sponsor-controlled LBOs with other buyout structures.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/13",
+          "segment": 1,
+          "excerpt": "This paper examines the role buyout specialists play in structuring the debt used to \"nance the LBO and in monitoring management in the post-LBO \"rm. We \"nd that when buyout specialists control the majority of the post-LBO equity, the LBO transaction is likely to be \"nanced with less short-term and/or senior debt and less likely to experience \"nancial distress. We also \"nd that buyout specialists have greater board representation on smaller boards, suggesting that they actively monitor managers, and that for these transactions, using debt with tighter terms does not signi\"cantly increase the \"rm's performance."
+        },
+        {
+          "page": 3,
+          "block_id": "/page/2/Text/2",
+          "segment": 1,
+          "excerpt": "Apart from debt, managers or third-party equity investors are another signi\" cant source of \"nancing for LBOs. When third-party equity investors can actively monitor managers at a relatively low cost, the bene\"ts to using debt to monitor managers decline. Since bankruptcy and debt agency costs reduce the return to these equity investors, using debt to monitor managers can be expensive. Buyout specialists, such as Kohlberg, Kravis, and Roberts (KKR), are likely to have a comparative advantage over other types of third-party equity investors in monitoring managers in highly levered \"rms, thus lowering the bene\"ts from using tighter debt terms to motivate managers."
+        }
+      ]
+    },
+    {
+      "paper_id": "P110",
+      "cluster": 2,
+      "citation": "Cumming, Siegel & Wright (2007)",
+      "pdf_sha256": "f5cae8f54150c5de4eab5d05a0d5f295104b07d7f29bcdc60f1462c0032b4d2f",
+      "text_sha256": "213ccc0d78e60b7d557b72c501d19dc44452bca31fc98a5c104b14e0e762be1f",
+      "role": "LBO financing, governance and value creation in the PE literature",
+      "why_representative": "A review connecting private equity ownership to the debt-financed buyout, management monitoring and subsequent financial and operating outcomes. It supplies the wider explanation around the transaction mechanism examined by Cotter and Peck.",
+      "private_equity_focus": "The article explicitly reviews private equity and leveraged buyouts, with governance and both financial and real returns as its stated subjects.",
+      "scope_note": "This is a literature review, not a step-by-step transaction manual. It discusses Cotter and Peck, so the pair links primary evidence with a synthesis rather than offering independent tests.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/14",
+          "segment": 1,
+          "excerpt": "This paper provides an overview of the literature on private equity and leveraged buyouts, focusing on global evidence related to both governance and returns to private equity and leveraged buyouts. We distinguish between financial and real returns to this activity, where the latter refers to productivity and broader performance measures. We also outline a research agenda on this topic."
+        },
+        {
+          "page": 4,
+          "block_id": "/page/3/Text/4",
+          "segment": 2,
+          "excerpt": "Previous research has demonstrated that buyout specialists play an important role in structuring the debt used to finance the LBO and in monitoring management in the post-LBO firm (Cotter and Peck, 2001). Buyout specialists that control a majority of the post-LBO equity tend to have less debt and thus, are less likely to experience financial distress. Buyout specialists that closely monitor managers through stronger representation on the board also tend to use less debt. Active monitoring by a buyout specialist substitutes for tighter debt terms in monitoring and motivating managers of LBOs."
+        }
+      ]
+    },
+    {
+      "paper_id": "P043",
+      "cluster": 3,
+      "citation": "Bharath & Dittmar (2010)",
+      "pdf_sha256": "5bae6783052fee787250228c68d775577588280c975b7cc84a01fa6a221992e8",
+      "text_sha256": "d27fb34d081954cb55edb56baca800e5808c3790b38a54050215f45d2028949e",
+      "role": "Going private: using PE to leave public markets",
+      "why_representative": "Follows companies from IPO to the going-private decision and examines information, liquidity, capital access and control. Its separate private-equity subgroup connects the listing decision specifically to PE transactions.",
+      "private_equity_focus": "PE-backed going-private transactions and the PE market are explicit parts of the research design; the paper also compares management-led and private-operating-company acquisitions.",
+      "scope_note": "The sample is broader than PE alone. Use its PE subgroup to support the PE interpretation rather than treating every going-private transaction as a private-equity deal.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/7",
+          "segment": 1,
+          "excerpt": "We investigate how firms weigh the costs and benefits of being public in the decision to opt out of the public market and go private. We draw on previous studies of going private and on the subsequent well-developed theoretical literature on why firms go public to develop our hypotheses. We employ a comprehensive sample of going-private transactions from 1980 to 2004 in the United States and examine how these firms differ over their public life (from IPO to going private) relative to a sample of firms that went and remained public. Our results provide strong support for the importance of information and liquidity considerations in being a public firm."
+        },
+        {
+          "page": 5,
+          "block_id": "/page/4/Text/3",
+          "segment": 1,
+          "excerpt": "Our analysis examines why firms go private. Since there are multiple ways a firm can go private, our sample includes transactions that are driven by private equity firms, management, and private operating firms. In the main analysis, we treat these deals uniformly. However, it is possible that the factors driving firms to go private differ by the parties involved in the transaction. We therefore collect data on the parties that drive each of these transactions and examine how motives for going private differ (or not) by subgroup."
+        }
+      ]
+    },
+    {
+      "paper_id": "P152",
+      "cluster": 3,
+      "citation": "Levis (2011)",
+      "pdf_sha256": "a21c6480a9c0c37ff221462c57230439b3be6891e731344f70b905b0ecbb73a1",
+      "text_sha256": "c6a29a8800a17b19ad5836db96fcad8b74791a0eef7e24b07a55f4e816c35695",
+      "role": "Going public: PE-backed IPOs",
+      "why_representative": "Examines PE-backed firms at flotation and after listing, compared with VC-backed and nonsponsored IPOs. Adds the going-public direction to the going-private example while keeping sponsor-backed firms central.",
+      "private_equity_focus": "The main object is private-equity-backed IPOs; venture-capital-backed and nonsponsored issues serve as explicit comparison groups.",
+      "scope_note": "A thematic example with a negative cosine silhouette, not a central exemplar of the whole cluster. Its IPO-performance content overlaps neighbouring clusters, which limits the claim of a sharply separated listing theme.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/6",
+          "segment": 1,
+          "excerpt": "My paper examines the aftermarket performance of private equity-backed initial public offerings (IPOs) and compares it to the performances of equivalent samples of venture capital-backed and other nonsponsored issues on the London Stock Exchange during the period 1992-2005. The evidence suggests marked differences across the three groups in terms of market size, industry classification, first-day returns, and key operating characteristics at the time of flotation. In fact, private equity-backed IPOs are larger firms in terms of sales and assets, more profitable, and relatively modest first-day returns. In the three years following the public listing, they display better operating and market performance when compared to other IPOs and the market as a whole."
+        },
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/7",
+          "segment": 1,
+          "excerpt": "In sharp contrast to the widespread evidence of the underperformance of initial public offerings (IPOs) in the aftermarket, flotations backed by private equity (PE) investors appear to defy the norm. Early studies by Degeorge and Zeckhouser (1993), Holthhausen and Larcker (1996), and more recently, Cao and Lerner (2009) indicate that leveraged buyouts (LBOs) returning to public status outperform other newly floated firms."
+        }
+      ]
+    },
+    {
+      "paper_id": "P227",
+      "cluster": 4,
+      "citation": "Kaplan & Schoar (2005)",
+      "pdf_sha256": "e4a1537519f0c150351a26b9945a2d5ac2d77f2f8416ebcb8f83367c6a780acd",
+      "text_sha256": "3ed78445b5cea9b8c34414c4761ba315463c87f11779a672f816af4ca1ea37bb",
+      "role": "Fund returns, persistence and subsequent fundraising",
+      "why_representative": "Connects net-of-fee fund returns, persistence across successive partnerships and capital inflows. It is the most central paper in Cluster 4 by average within-cluster cosine similarity.",
+      "private_equity_focus": "Studies private-equity partnerships, explicitly including buyout funds and VC funds; it is not a VC-only performance study.",
+      "scope_note": "Uses a historical fund sample and includes both buyout and venture-capital partnerships. Its historical return estimates should not be presented as current expected returns.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/5",
+          "segment": 1,
+          "excerpt": "This paper investigates the performance and capital inflows of private equity partnerships. Average fund returns (net of fees) approximately equal the S&P 500 although substantial heterogeneity across funds exists. Returns persist strongly across subsequent funds of a partnership. Better performing partnerships are more likely to raise follow-on funds and larger funds."
+        },
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/6",
+          "segment": 1,
+          "excerpt": "THE PRIVATE EQUITY INDUSTRY, primarily venture capital (VC) and buyout (LBO) investments, has grown tremendously over the last decade. While investors committed less than $10 billion to private equity partnerships in 1991, they committed more than $180 billion at the peak in 2000 (see Jesse Reyes, Private Equity Overview and Update 2002)."
+        }
+      ]
+    },
+    {
+      "paper_id": "P287",
+      "cluster": 4,
+      "citation": "Phalippou & Gottschalg (2009)",
+      "pdf_sha256": "91b43a24dfc7ceb2f38f93746c7943ca2e0962e45c533a87943d7970e54a9dff",
+      "text_sha256": "9ee7a20bf30249a2ba38bb4ecc873fdff7dc13aaf8e74fa88612612ca3c9f36c",
+      "role": "Fund-performance measurement, fees and sample bias",
+      "why_representative": "Examines how residual valuations, selection of funds, fees and risk adjustment affect measured PE fund performance. The second-most central paper in Cluster 4 complements Kaplan and Schoar through a critical measurement perspective.",
+      "private_equity_focus": "The object is PE fund returns; buyout and VC performance are both considered, including explicit risk adjustments for buyout leverage.",
+      "scope_note": "Contrasts with more favourable performance interpretations. The two studies illustrate a shared research question, not agreement on the size of PE outperformance.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/3",
+          "segment": 1,
+          "excerpt": "The performance of private equity funds as reported by industry associations and previous research is overstated. A large part of performance is driven by inflated accounting valuation of ongoing investments and we find a bias toward better performing funds in the data. We find an average net-of-fees fund performance of 3% per year below that of the S&P 500. Adjusting for risk brings the underperformance to 6% per year. We estimate fees to be 6% per year."
+        },
+        {
+          "page": 3,
+          "block_id": "/page/2/Text/3",
+          "segment": 1,
+          "excerpt": "A fourth issue is that of risk adjustment. Given the high leverage used by buyout (BO) funds and the nature of venture capital (VC) investments (resemble small growth companies, which typically exhibit high systematic risk), the assumption of a beta as 1 is likely to overstate relative performance. Using \"industry/size-matched cost-of-capital,\" we find a risk-adjusted PI of 0.75 for BO funds and 0.77 for VC funds."
+        }
+      ]
+    },
+    {
+      "paper_id": "P069",
+      "cluster": 5,
+      "citation": "Bruch, Gondi & Song (2020)",
+      "pdf_sha256": "9817f0834ce1564946c1e45014119d21c7957219d97e195caae1c913fa39fa4f",
+      "text_sha256": "8a7b54c76b18ad009fb1364a6586f3d88860350fcdaaf552d45e64d1245c82ae",
+      "role": "PE hospital acquisitions: financial and care outcomes",
+      "why_representative": "Compares hospitals acquired by PE with matched hospitals and examines income, use and quality after acquisition. It represents the broader health-care side of the requested focus and is highly central in Cluster 5.",
+      "private_equity_focus": "Private-equity acquisition is the ownership change being studied, rather than health-care delivery without an ownership question.",
+      "scope_note": "An observational difference-in-differences study of hospitals; findings should not be transferred automatically to every health-care setting.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/9",
+          "segment": 1,
+          "excerpt": "DESIGN, SETTING, AND PARTICIPANTS This cohort study identified 204 hospitals acquired by private equity firms from 2005 to 2017 and 532 matched hospitals not acquired by private equity. Using a difference-in-differences design, this study evaluated changes in net income, charges, charge to cost ratios, case mix index (a measure of reported illness burden), share of discharges for patients with Medicare or Medicaid coverage, discharges per year, and aggregate hospital quality measures associated with private equity acquisition through 3 years after acquisition, adjusted for case mix, hospital beds, calendar year, and adjustment for multiple hypothesis testing."
+        },
+        {
+          "page": 2,
+          "block_id": "/page/1/Text/5",
+          "segment": 2,
+          "excerpt": "Findings In this analysis of 204 private equity–acquired hospitals and 532 similar hospitals that were not acquired by private equity, net income, charges, charge to cost ratios, and the case mix index differentially increased for private equity–acquired hospitals after acquisition relative to controls. Some quality measures improved among a subset of private equity–acquired hospitals relative to controls; Medicare's share of discharges decreased for private equity–acquired hospitals after acquisition relative to controls."
+        }
+      ]
+    },
+    {
+      "paper_id": "P061",
+      "cluster": 5,
+      "citation": "Braun, Jung, Casalino, Myslinski & Unruh (2021)",
+      "pdf_sha256": "09acb39e45f5d3d803f4842b77364ff5d3a5ddc57989e28a00842a5bee6ae240",
+      "text_sha256": "ffc25196c12f70d11eb6705bf3f9d0c982134216d7726a6bda90b8895034a16d",
+      "role": "PE nursing-home acquisitions: quality and cost for long-stay residents",
+      "why_representative": "Compares changes in care outcomes and Medicare costs after PE acquisition of nursing homes with other for-profit homes. Directly complements the hospital example with the requested nursing-home setting.",
+      "private_equity_focus": "PE ownership is the exposure of interest; the comparison with other for-profit homes separates PE acquisition from for-profit status alone.",
+      "scope_note": "Reports associations in long-stay residents. The design and setting differ from the hospital study, so the pair should not be described as a single universal health-care effect.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/11",
+          "segment": 1,
+          "excerpt": "DESIGN, SETTING, AND PARTICIPANTS In this cohort study of 302 private equity nursing homes with 9632 residents and 9562 other for-profit homes with 249 771 residents, a novel national database of private equity nursing home acquisitions was merged with Medicare claims and Minimum Data Set assessments for the period from 2012 to 2018. Changes in outcomes for residents in private equity–acquired nursing homes were compared with changes for residents in other for-profit nursing homes."
+        },
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/10",
+          "segment": 1,
+          "excerpt": "Findings In this cohort study with difference-in-differences analysis of 9864 US nursing homes, including 9632 residents in 302 nursing homes acquired by private equity firms and 249 771 residents in 9562 other for-profit nursing homes without private equity ownership, private equity acquisition of nursing homes was associated with higher costs and increases in emergency department visits and hospitalizations for ambulatory sensitive conditions."
+        }
+      ]
+    }
+  ]
+}

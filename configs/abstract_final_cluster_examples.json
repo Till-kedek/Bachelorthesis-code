@@ -1,0 +1,431 @@
+{
+  "schema_version": 1,
+  "solution": "kmeans_k6",
+  "membership_id": "09339375c5ad5bf5c4e22e3e5c682404f60d84dc511d4875d09e49883e71fc25",
+  "embedding_input_id": "5c654c0d1eb5fcc0e8abb5f3b6fe16b5e6d7e5db5feef155d04271b38e4bf752",
+  "input_hashes": {
+    "abstracts_clean.csv": "c09f75729fdd62eec5e087ebfcf5ea0c6464c8e8efa83e8e72f221a1aa39158b",
+    "run_summary.json": "49976edc82c4ec4c752477d957756b50b9e615a7753c080955977ef9f43dc06c",
+    "embeddings.npy": "6b7aa0d71a1fac49bbffa8a2c172888e8a20d57d4685ac8e9f95986b5d5e585c",
+    "paper_ids.csv": "a753082d4d7ec2c80d2af8d1e0bb8cabd8c48b2a47109e58a46e4b0341636304",
+    "selected_papers.csv": "c0b3722520100c9caac14a1f602a7ad3c436749833cff92b6a68edddb489c671",
+    "token_lengths.csv": "a254b02bdbda10f43be2407befcca43e58b5e8aaa19201c13182e55622746a3b",
+    "kmeans_sweep_manifest.json": "9f32ab782e07e84dd7f66239d8637aa6ecca02611f9d84ac8bf02dec61824f2c",
+    "kmeans_diagnostics.csv": "576a439dfda322826eabf7d6bae3280f479e831a75004970b60e7c8bbd9d4785",
+    "sweep_manifest.json": "c42798b344ea4be202239e34b358d2c18bddd79ee89992ae67a2fab24ff17ed0",
+    "leiden_resolution_diagnostics.csv": "cf5a301fb8b51475bad1deda6e02aa6b78bae2b6f91a90740bc1e48f46cc7502",
+    "catalog_manifest.json": "3a5cd838efbf19cd35326ec44f241add52c3d39420c69e3979fa3365d050b424",
+    "configs/abstract_final_input.json": "8e9163fe096454413e6c8da386b05fda47f3961ff769d6ae792df471c77ce532"
+  },
+  "source_csv": "data/abstracts/final/5779f6345a8f5d18/abstracts_clean.csv",
+  "selection_method": "Purposive review of the included cleaned Scopus abstracts, guided by the requested themes and substantive PE relevance. Two actual members per saved K-means cluster. Centrality and cosine silhouette are diagnostic context, not selection thresholds. Cluster 4 selections are explicitly thematic boundary examples, with limited support for the requested interpretation.",
+  "focus": {
+    "0": "leveraged-buyout process and value creation",
+    "1": "venture capital with substantive private-equity relevance",
+    "2": "fund performance across fund types, risk, fees and benchmarks",
+    "3": "private-equity industry and capital markets",
+    "4": "capital partners: deal coordination and partnership risk",
+    "5": "health care and nursing homes"
+  },
+  "cluster_review_notes": {
+    "4": "Limited validation of the requested focus. Many central records report PE acquisitions, including chemical-industry transactions; “Capital Partners” also occurs in investor names. The two selected academic cases concern deal partners and contractual risk, but neither demonstrates how to find partners. Both have negative cosine silhouettes and are thematic boundary examples. Do not infer a coherent partner-selection cluster from these two cases."
+  },
+  "papers": [
+    {
+      "paper_id": "2-s2.0-85092913728",
+      "cluster": 0,
+      "citation": "Hersh & Deeb (2021)",
+      "role": "Buyout process: acquisition, planning and execution",
+      "why_representative": "Describes three PE engagement phases in an LBO and connects ownership duration, management restructuring, incentives and debt to innovation and acquisition outcomes. It supplies the process explanation alongside the empirical value-creation study.",
+      "private_equity_focus": "PE-sponsored leveraged buyouts and the PE owner’s involvement are the central subject.",
+      "scope_note": "A strategic framework and managerial recommendations, not a causal estimate of the effect of every LBO practice. Innovation is the specific channel through which it discusses successful acquisitions.",
+      "title": "Leveraged Buyouts and Innovation: Enhancing Business Acquisition Outcomes",
+      "authors": "Hersh I.J.; Deeb R.S.",
+      "year": "2021",
+      "journal": "IEEE Engineering Management Review",
+      "doi": "10.1109/emr.2020.3030545",
+      "url": "https://www.scopus.com/pages/publications/85092913728?origin=resultslist",
+      "document_type": "Article",
+      "source_record": "1236",
+      "embedding_text_sha256": "ed171119ef8459c0c32b69ddac40bcc10b515964fa4ddb740d774721f6713f0a",
+      "abstract_sha256": "ae045a6313bd2a3de8cbbf56c870ba3c948d45c3dbabb3a8686d4882fa2d8eec",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "Many private equity (PE) leveraged buyouts (LBOs) fail financially with a consequent negative impact on their value chain. We examine the influence of PE on innovation in PE LBOs.",
+          "excerpt_start": 0,
+          "excerpt_end": 179
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "We present a rigorous, strategic, and systematic platform that highlights three PE engagement phases with an LBO company. This platform includes acquisition, planning, and execution phases. The platform facilitates decision-making and provides guidelines and recommendations to help guide leader focus on innovation to enhance investment and LBO success.",
+          "excerpt_start": 644,
+          "excerpt_end": 998
+        }
+      ]
+    },
+    {
+      "paper_id": "2-s2.0-85127541030",
+      "cluster": 0,
+      "citation": "Cohn, Hotchkiss & Towery (2022)",
+      "role": "Value creation through financing relief and operating improvements",
+      "why_representative": "Examines target selection, post-buyout growth, add-on acquisitions and profitability in private-firm buyouts. It connects the process example to evidence on how PE owners create value.",
+      "private_equity_focus": "PE acquirers and their buyouts of private firms are explicitly the population studied.",
+      "scope_note": "Private-firm buyouts; these findings should not automatically be generalized to all public-to-private deals or all PE strategies.",
+      "title": "Sources of Value Creation in Private Equity Buyouts of Private Firms",
+      "authors": "Cohn J.B.; Hotchkiss E.S.; Towery E.M.",
+      "year": "2022",
+      "journal": "Review of Finance",
+      "doi": "10.1093/rof/rfac005",
+      "url": "https://www.scopus.com/pages/publications/85127541030?origin=resultslist",
+      "document_type": "Article",
+      "source_record": "1049",
+      "embedding_text_sha256": "f7204a47df35ea14646f1201e8c5a3a047dd695ce75ea9dc3ae8b8967bc6c434",
+      "abstract_sha256": "491fe90d54c0769d4d315620bf05b33e1d7541c7ce586a4600a62b36d2b642a0",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "We provide evidence that PE acquirers disproportionately target private firms with weak operating profitability and those that have growth potential but are highly levered and dependent on external financing.",
+          "excerpt_start": 131,
+          "excerpt_end": 339
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "Our evidence suggests that PE acquirers create value by relaxing financing constraints for firms with strong investment opportunities and improving the performance of weak firms, while financial engineering plays a limited role.",
+          "excerpt_start": 503,
+          "excerpt_end": 731
+        }
+      ]
+    },
+    {
+      "paper_id": "2-s2.0-84873749640",
+      "cluster": 1,
+      "citation": "Bertoni, Ferrer & Martí (2013)",
+      "role": "Different VC and PE effects on portfolio-company investment",
+      "why_representative": "Directly compares venture-capital and private-equity investors, linking information problems and growth financing to different investment–cash-flow sensitivities. PE is a substantive comparison group.",
+      "private_equity_focus": "The study explicitly develops and tests a separate prediction for PE-backed companies, including management growth incentives and leverage.",
+      "scope_note": "Spanish unlisted firms in low- and medium-technology sectors. The abstract distinguishes VC from PE; the examples do not imply that every paper in this cluster has a substantial PE component.",
+      "title": "The different roles played by venture capital and private equity investors on the investment activity of their portfolio firms",
+      "authors": "Bertoni F.; Ferrer M.A.; Martí J.",
+      "year": "2013",
+      "journal": "Small Business Economics",
+      "doi": "10.1007/s11187-011-9384-x",
+      "url": "https://www.scopus.com/pages/publications/84873749640?origin=resultslist",
+      "document_type": "Article",
+      "source_record": "2682",
+      "embedding_text_sha256": "e865cf6e2c6997ee04eab32e0a38e1b6b90689be403e46bb42db6fce57e9fb92",
+      "abstract_sha256": "4b464e044478448b00a69b4f3d18fae95eaa12dd89167be65a9dc85fca3b19a7",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "Venture capital (VC) and private equity (PE) investors play different roles in their portfolio companies. We argue that this will translate in a recognizable difference in the investment sensitivity to cash flows of portfolio companies and its evolution after the first investment round.",
+          "excerpt_start": 0,
+          "excerpt_end": 287
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "We predict, instead, a greater dependency of investments to cash flow for PE-backed companies, driven by the renewed interest for growth of their management combined with higher leverage. We find evidence confirming our hypotheses on a large panel of Spanish unlisted firms in low and medium technology sectors, where both VC and PE firms are active.",
+          "excerpt_start": 474,
+          "excerpt_end": 824
+        }
+      ]
+    },
+    {
+      "paper_id": "2-s2.0-85060646387",
+      "cluster": 1,
+      "citation": "Corsi & Prencipe (2019)",
+      "role": "VC/PE investment and innovation across institutional settings",
+      "why_representative": "Studies VC and PE investment as the central explanatory setting for innovation, comparing institutional conditions across 12 EU countries. It complements the investment study with an innovation outcome.",
+      "private_equity_focus": "The research question explicitly concerns both VC and PE investments, rather than mentioning PE only in a background list.",
+      "scope_note": "The abstract reports combined VC/PE effects; it does not establish a PE-only effect or a causal comparison of VC against PE. The sample covers 326 high-tech firms observed during 2009–2013.",
+      "title": "High-tech entrepreneurial firms’ innovation in different institutional settings. Do venture capital and private equity have complementary or substitute effects?",
+      "authors": "Corsi C.; Prencipe A.",
+      "year": "2019",
+      "journal": "Industry and Innovation",
+      "doi": "10.1080/13662716.2018.1561358",
+      "url": "https://www.scopus.com/pages/publications/85060646387?origin=resultslist",
+      "document_type": "Article",
+      "source_record": "1741",
+      "embedding_text_sha256": "566887634bb366719090e8d0359a0c57884816ef65686c4243b79919ce2e7cbc",
+      "abstract_sha256": "07bc34cc86cbd1086fcb4879c27d3f6147af142cc2d8692f17f973200a255f6f",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "The paper explores whether venture capital (VC) and private equity (PE) investments have complementary or substitute effects on innovation in high-tech entrepreneurial firms in different institutional settings, focusing on different levels of capital market development, entrepreneurial culture, and intellectual property rights protection.",
+          "excerpt_start": 0,
+          "excerpt_end": 340
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "Using a panel sample of 326 firms from 12 EU countries observed from 2009–2013, the empirical results show that the VC/PE effect on high-tech entrepreneurial firms’ innovation is stronger in countries with a less-developed capital market. This suggests that VC/PE investments play a substitute role.",
+          "excerpt_start": 341,
+          "excerpt_end": 640
+        }
+      ]
+    },
+    {
+      "paper_id": "2-s2.0-85131317782",
+      "cluster": 2,
+      "citation": "Manac, Martin & Wood (2022)",
+      "role": "Performance differences across eleven PE fund types",
+      "why_representative": "Directly fits the requested comparison of fund performance across criteria: it separates eleven fund types and evaluates public-market equivalents, rather than treating all PE strategies as interchangeable.",
+      "private_equity_focus": "PE funds, general partners, limited partners and heterogeneity within the PE industry are the central subject.",
+      "scope_note": "The abstract reports both relative differences among fund types and stock-market outperformance under PME. These are distinct comparisons, not a universal return forecast.",
+      "title": "Varieties of funds and performance: the case of private equity",
+      "authors": "Manac R.-D.; Martin J.; Wood G.",
+      "year": "2022",
+      "journal": "European Journal of Finance",
+      "doi": "10.1080/1351847x.2022.2037681",
+      "url": "https://www.scopus.com/pages/publications/85131317782?origin=resultslist",
+      "document_type": "Article",
+      "source_record": "1010",
+      "embedding_text_sha256": "ff0e3db5db9769dae41696d3aa7e87f180f395b0b049e630ee40a4acc2d5a755",
+      "abstract_sha256": "97c2733a481355eca7ca35184f5299072849cb6aacbe1e7f348601e29e7efaba",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "This study identifies and explores variations in performance according to eleven different types of fund, providing a much more fine-grained picture than preceding studies.",
+          "excerpt_start": 346,
+          "excerpt_end": 518
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "We evidence considerable heterogeneity in performance results between fund types, with funds typically associated with riskier areas of activity having divergent outcomes and generally underperforming compared to buyout funds. We also find that all eleven fund types outperform the stock market when evaluating PMEs.",
+          "excerpt_start": 519,
+          "excerpt_end": 835
+        }
+      ]
+    },
+    {
+      "paper_id": "2-s2.0-85077457128",
+      "cluster": 2,
+      "citation": "Korteweg (2019)",
+      "role": "Performance assessment after risk and fee adjustment",
+      "why_representative": "Explains why PE return conclusions depend on risk adjustment, fees, data source, period and benchmark. It complements fund-type comparisons with the methodological criteria used to assess performance.",
+      "private_equity_focus": "Risk and return in PE, including buyout and venture-capital investments, are explicitly the subject of the review.",
+      "scope_note": "A review of empirical methods and findings, not a new single-sample causal study. It also discusses deal-level and listed-partnership data; these are distinguished from fund-level results.",
+      "title": "Risk Adjustment in Private Equity Returns",
+      "authors": "Korteweg A.",
+      "year": "2019",
+      "journal": "Annual Review of Financial Economics",
+      "doi": "10.1146/annurev-financial-110118-123057",
+      "url": "https://www.scopus.com/pages/publications/85077457128?origin=resultslist",
+      "document_type": "Review",
+      "source_record": "1623",
+      "embedding_text_sha256": "c6846992d4c9a4393a0fa420b8dbaa08ce9959e7befc67e40d11a5f0c30f7794",
+      "abstract_sha256": "bfa960b6eeb076ab4df7c57c93f0eea9bdab3c92627fc24e2d7bc2cab6c4a502",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "This article reviews empirical methods to assess risk and return in private equity. I discuss data and econometric issues for fund-level, deal-level, and publicly traded partnerships data. Risk-adjusted return estimates vary substantially by method, time period, and data source.",
+          "excerpt_start": 0,
+          "excerpt_end": 279
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "Average leveraged buyout (BO) investments have generally earned positive risk-adjusted returns both before and after fees, compared with a levered stock portfolio.",
+          "excerpt_start": 553,
+          "excerpt_end": 716
+        }
+      ]
+    },
+    {
+      "paper_id": "2-s2.0-78650060707",
+      "cluster": 3,
+      "citation": "Heed (2010)",
+      "role": "PE industry, leveraged finance and financial-system regulation",
+      "why_representative": "Connects the PE market to debt availability, changing funding techniques, financial institutions and possible systemic risks. It supports an industry/capital-markets interpretation beyond individual fund returns.",
+      "private_equity_focus": "The regulatory question concerns the structure and financing of the PE industry itself.",
+      "scope_note": "A historical regulatory analysis. The abstract frames PE narrowly through leveraged acquisition activity; it should not be used as a definition of every PE strategy or as a statement of current regulation.",
+      "title": "Regulation of private equity",
+      "authors": "Heed A.",
+      "year": "2010",
+      "journal": "Journal of Banking Regulation",
+      "doi": "10.1057/jbr.2010.4",
+      "url": "https://www.scopus.com/pages/publications/78650060707?origin=resultslist",
+      "document_type": "Article",
+      "source_record": "3173",
+      "embedding_text_sha256": "4495f6261e1511ff9d6afd48c59d603b3dc59bd77f7948e055e9e46f9410f7ae",
+      "abstract_sha256": "b93c01b15d879401b716a6274d7f6ec6db9e26468711cacb856606c8af977405",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "Increase in the availability of debt capital and the emergence of new funding techniques led to a private equity boom in the beginning of the 2000s, with a resulting magnification in transaction frequency and value.",
+          "excerpt_start": 649,
+          "excerpt_end": 864
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "These new properties of the private equity market raised concerns about the risks associated with the provision of leveraged finance by various financial institutions. Providers of leveraged finance are now subjected to distinctive risks that in the case of realisation may have implications on financial stability.",
+          "excerpt_start": 955,
+          "excerpt_end": 1270
+        }
+      ]
+    },
+    {
+      "paper_id": "2-s2.0-84890478602",
+      "cluster": 3,
+      "citation": "Klonowski (2013)",
+      "role": "PE industry development in emerging capital markets",
+      "why_representative": "Provides an international industry overview of PE in emerging economies, discussing investor attraction, growth, transition challenges and risk/return profiles. It complements the financing/regulation perspective.",
+      "private_equity_focus": "The entire abstract concerns private-equity investment and its industry development in emerging markets.",
+      "scope_note": "An overview with a short abstract, not a causal test of capital-market development or current return estimates.",
+      "title": "Private equity in emerging markets: The new frontiers of international finance",
+      "authors": "Klonowski D.",
+      "year": "2013",
+      "journal": "Journal of Private Equity",
+      "doi": "10.3905/jpe.2013.16.2.020",
+      "url": "https://www.scopus.com/pages/publications/84890478602?origin=resultslist",
+      "document_type": "Article",
+      "source_record": "2732",
+      "embedding_text_sha256": "c3996666e6e894daf7815d686fc6372d815dae89a12f3fac6c1db65bb8013c67",
+      "abstract_sha256": "081c3b69ee1708ba7a26cde57c6e56787be09a4935c72fd4ab215b9e89d9c933",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "Although investing in private equity in emerging markets has not been immune to evolutionary and transition challenges, international investors are attracted to the general storyline of private equity in emerging markets due to these regions' rapid economic growth, their adaptability to economic downturns and evolving export conditions, favorable risk/return profiles, and strong returns.",
+          "excerpt_start": 70,
+          "excerpt_end": 460
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "This article aims to provide a comprehensive overview of private equity in emerging economies.",
+          "excerpt_start": 461,
+          "excerpt_end": 555
+        }
+      ]
+    },
+    {
+      "paper_id": "2-s2.0-84951775502",
+      "cluster": 4,
+      "citation": "Wei, Lee, Huang & Dong (2015)",
+      "role": "Deal partners: contractual alignment of PE sponsors, target and banks",
+      "why_representative": "The HCA acquisition case studies covenants connecting PE firms, the target company and lenders, and explains how their diverse interests can be aligned. It is a substantive study of deal-partner coordination within this cluster.",
+      "private_equity_focus": "The focal transaction is a PE buyout and the analysis explicitly includes PE firms as contracting parties.",
+      "scope_note": "Thematic boundary example: its negative cosine silhouette means it is not a typical vector representative. It addresses contractual coordination and commitment, not how to search for or select a capital partner. HCA is a hospital company, but this paper’s focus is deal contracting rather than patient outcomes.",
+      "title": "Covenant design in financial contracts: a case study of the private equity acquisition of HCA",
+      "authors": "Wei T.-W.; Lee J.-A.; Huang C.-J.; Dong T.-P.",
+      "year": "2015",
+      "journal": "International Journal of Strategic Property Management",
+      "doi": "10.3846/1648715x.2015.1073192",
+      "url": "https://www.scopus.com/pages/publications/84951775502?origin=resultslist",
+      "document_type": "Article",
+      "source_record": "2291",
+      "embedding_text_sha256": "760d479b429ed8dd968c785ade6237f70f3f2910093ef54016f658c4316f01ef",
+      "abstract_sha256": "be3a3c0883a790a903a77129b76efbab0a276c9257d6b0f78c508039376f9df5",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "A buyout deal involves several parties, including private equity firms, the target company, and lending banks. All these parties are legally connected by contractual arrangements, and covenants among all interest parties are important.",
+          "excerpt_start": 0,
+          "excerpt_end": 235
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "This paper concludes that well-designed covenants in buy-out deals can appropriately align all participants’ diversified interests.",
+          "excerpt_start": 652,
+          "excerpt_end": 783
+        }
+      ]
+    },
+    {
+      "paper_id": "2-s2.0-84904438571",
+      "cluster": 4,
+      "citation": "Calandro (2013)",
+      "role": "A PE partnership in practice: the Heinz take-private deal",
+      "why_representative": "Examines Berkshire Hathaway and its PE partner 3G Capital taking Heinz private, then relates deal terms and post-acquisition management to value-realization risk. This gives an actual partnership setting alongside the HCA contract study.",
+      "private_equity_focus": "The case explicitly features a PE partner and derives implications for private-equity acquirers.",
+      "scope_note": "Thematic boundary example with negative cosine silhouette. It analyses one partnered acquisition, not the causal effect of having a partner or a method for finding one. Its valuation/risk focus overlaps with other clusters.",
+      "title": "Taking Heinz private: Managing value realization risk",
+      "authors": "Calandro Jr. J.",
+      "year": "2013",
+      "journal": "Journal of Private Equity",
+      "doi": "10.3905/jpe.2013.16.4.046",
+      "url": "https://www.scopus.com/pages/publications/84904438571?origin=resultslist",
+      "document_type": "Article",
+      "source_record": "2734",
+      "embedding_text_sha256": "31a8e47423a50ec0f15a93359c146ce18b59f254d1d43c922a44c1d793a3acca",
+      "abstract_sha256": "e0d5846b9d561a65c35c8011f3e2de72f11e1d91af47804b87b9fd31549da18c",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "On February 14, 2013, it was announced that Heinz was being taken private by Berkshire Hathaway and their Brazilian private equity partner, 3G Capital, at a price approximately 20% higher than Heinz's February 13, 2013, stock price- which was eight times Heinz's book value.",
+          "excerpt_start": 0,
+          "excerpt_end": 274
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "Given low interest rates and the resulting higher valuations, our findings on joint contractual and operational value realization risk management could prove useful to future private equity acquirers.",
+          "excerpt_start": 670,
+          "excerpt_end": 870
+        }
+      ]
+    },
+    {
+      "paper_id": "2-s2.0-85091440429",
+      "cluster": 5,
+      "citation": "Bruch, Gondi & Song (2020)",
+      "role": "PE hospital acquisitions: income, utilization and quality",
+      "why_representative": "Compares 204 PE-acquired hospitals with 532 matched hospitals and follows income, use and quality after acquisition. It provides an empirical health-care example alongside the nursing-home study.",
+      "private_equity_focus": "PE acquisition is the central exposure and nonacquired hospitals supply the comparison group.",
+      "scope_note": "Observational difference-in-differences evidence; outcome associations and HCA/non-HCA heterogeneity should be retained. The abstract does not support a blanket claim that every quality measure worsens after PE acquisition.",
+      "title": "Changes in Hospital Income, Use, and Quality Associated with Private Equity Acquisition",
+      "authors": "Bruch J.D.; Gondi S.; Song Z.",
+      "year": "2020",
+      "journal": "JAMA Internal Medicine",
+      "doi": "10.1001/jamainternmed.2020.3552",
+      "url": "https://www.scopus.com/pages/publications/85091440429?origin=resultslist",
+      "document_type": "Article",
+      "source_record": "1767",
+      "embedding_text_sha256": "36fd04fdc03afb77ea768dad2f6bb756a9e289d48a301080ad06ee13ffb887cc",
+      "abstract_sha256": "76f4ffae67c92ba9f98e66d4362939ae9e537907547ab0d1a9ca48b3c09c3348",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "Objective: To examine changes in hospital income, use, and quality measures that may be associated with private equity acquisition.",
+          "excerpt_start": 160,
+          "excerpt_end": 291
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "Conclusions and Relevance: Hospitals acquired by private equity were associated with larger increases in net income, charges, charge to cost ratios, and case mix index as well as with improvement in some quality measures after acquisition relative to nonacquired controls. Heterogeneity in some findings was observed between HCA and non-HCA hospitals.",
+          "excerpt_start": 3099,
+          "excerpt_end": 3450
+        }
+      ]
+    },
+    {
+      "paper_id": "2-s2.0-85130544244",
+      "cluster": 5,
+      "citation": "Braun, Jung, Casalino, Myslinski & Unruh (2021)",
+      "role": "PE nursing-home acquisitions: resident outcomes and costs",
+      "why_representative": "Uses nursing-home acquisition and resident data to examine quality and Medicare costs, comparing acquired homes with other for-profit homes. It directly validates the nursing-home strand of the requested focus.",
+      "private_equity_focus": "PE ownership/acquisition of nursing homes is the exposure being studied, rather than general for-profit ownership.",
+      "scope_note": "US long-stay residents and observational difference-in-differences evidence. The reported increases concern particular utilization/cost outcomes; several other quality outcomes showed no significant association.",
+      "title": "Association of Private Equity Investment in US Nursing Homes with the Quality and Cost of Care for Long-Stay Residents",
+      "authors": "Braun R.T.; Jung H.-Y.; Casalino L.P.; Myslinski Z.; Unruh M.A.",
+      "year": "2021",
+      "journal": "JAMA Health Forum",
+      "doi": "10.1001/jamahealthforum.2021.3817",
+      "url": "https://www.scopus.com/pages/publications/85130544244?origin=resultslist",
+      "document_type": "Article",
+      "source_record": "1462",
+      "embedding_text_sha256": "425bcce6e3a18c76b3f2786392aa20b7b0fd278255c2e9478034eeeafdb1f399",
+      "abstract_sha256": "74e194f85a2d6800683b3cf66a8e8b7234378eaee4c0d48f5d8ad996558eeec2",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "Objective: To examine the association of private equity acquisition of nursing homes with the quality and cost of care for long-stay residents.",
+          "excerpt_start": 142,
+          "excerpt_end": 285
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "Conclusions and Relevance: This cohort study with difference-in-differences analysis found that private equity acquisition of nursing homes was associated with increases in ACS emergency department visits and hospitalizations and higher Medicare costs.",
+          "excerpt_start": 2717,
+          "excerpt_end": 2969
+        }
+      ]
+    }
+  ]
+}

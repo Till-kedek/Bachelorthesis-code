@@ -1,0 +1,117 @@
+{
+  "description": "Manually reviewed DOI corrections, pinned to PDF SHA-256. Working-paper versions allowed by user. No corpus exclusions.",
+  "overrides": {
+    "5cf091d56bc84240ec2a34eb85a396ade994bb897907c991427bdc966eb36660": {
+      "paper_id": "P028",
+      "doi": "10.1016/0304-405x(89)90080-9",
+      "reason": "PDF title and Baker/Wruck authors agree; OpenAlex omits the subtitle.",
+      "version_status": "publication_identity_confirmed",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "8f11ebd6399fc24ccf06c8e7a32d80e55c87c50889521cc00e8833476ded9723": {
+      "paper_id": "P073",
+      "doi": "10.1093/rfs/hhaf111",
+      "reason": "DOI printed on the PDF first page.",
+      "version_status": "publication_identity_confirmed",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "341cd800c9544acbd3eb5e5270d643ddae9aa5b57aa872e4cd9401a306b6f448": {
+      "paper_id": "P084",
+      "doi": "10.1016/s0304-405x(98)00013-0",
+      "reason": "Exact bibliographic DOI; title and all three authors agree. OpenAlex appends the acknowledgement footnote to its title.",
+      "version_status": "publication_identity_confirmed",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "95755a3416c744f12bde1209c7921cceb2bb2cc12cce03a66617cffc145ce821": {
+      "paper_id": "P127",
+      "doi": "10.2139/ssrn.4641071",
+      "reason": "Title and all three authors agree with PDF first page; 2023 database record versus 2026 PDF. User permits working-paper versions.",
+      "version_status": "same_work_version_not_verified",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "8f766757876d335aff1db92c0777a7a0cc31b53bc645fde0f1e00dcb73d91714": {
+      "paper_id": "P154",
+      "doi": "10.1111/fima.12264",
+      "reason": "DOI on PDF first page; same work as P155. Keep duplicate identity unresolved until corpus review.",
+      "version_status": "publication_identity_confirmed",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "4ae6b2cd03aa509c2f37268691984c436f744fdc1802eb831ef2546fe29c0d5a": {
+      "paper_id": "P155",
+      "doi": "10.1111/fima.12264",
+      "reason": "DOI on PDF first page; same work as P154. Keep duplicate identity unresolved until corpus review.",
+      "version_status": "publication_identity_confirmed",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "810885f2a60ae5d4999da1967e18df84638a3582158299e898d03a31afeac7f7": {
+      "paper_id": "P159",
+      "doi": "10.1093/ser/mwv026",
+      "reason": "Bibliographic DOI and review-symposium title agree; first reviewer Froud confirmed on PDF page 1. OpenAlex repeats the symposium title three times.",
+      "version_status": "publication_identity_confirmed",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "8c4bf87280336421b235153d4425253c697727aac5937afdd1fc3b6da532347a": {
+      "paper_id": "P170",
+      "doi": "10.67929/ecgi-law-086-2007",
+      "reason": "Exact title and Gilson/Whitehead authors agree with PDF; use 2007 working-paper record for 2008 article under user version policy.",
+      "version_status": "same_work_version_not_verified",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "9c828babf9fdb003789d04899b397757876dc15bb424fea62967aa45253e3a73": {
+      "paper_id": "P189",
+      "doi": "10.2139/ssrn.3535677",
+      "reason": "Exact title and Gredil/Liu/Sensoy authors agree with PDF; 2020 indexed record versus 2025 PDF.",
+      "version_status": "same_work_version_not_verified",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "2e1d09e815b5e01e2bb758d2cfe0bff0bbd2253241efff4ac0f0411dca7c8f07": {
+      "paper_id": "P220",
+      "doi": "10.2139/ssrn.4271808",
+      "reason": "Exact title and Jiang/Mason/Qian/Utke authors agree with PDF; 2022 indexed record versus 2025 PDF.",
+      "version_status": "same_work_version_not_verified",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "e002913268024f99119fba6a8aa361048b289017314a21b13542cc7e01cbce12": {
+      "paper_id": "P240",
+      "doi": "10.2139/ssrn.5351770",
+      "reason": "Exact title and Kowalik/Torna authors agree with PDF. Choose the more recent 2025 record rather than 2022 version; references can differ from PDF.",
+      "version_status": "same_work_version_not_verified",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "6a6bcc44a85103e61eda8057ed0eb70131d828874fa1395523a5c53cb86c252a": {
+      "paper_id": "P257",
+      "doi": "10.2139/ssrn.2714916",
+      "reason": "PDF cover explicitly prints SSRN 2714916. All three authors agree; the indexed title has changed.",
+      "version_status": "same_work_version_not_verified",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "ca9985085af7b8887b9ea84384bb17cc83850a18c909fb73bdeaa03836dc7309": {
+      "paper_id": "P263",
+      "doi": "10.67929/ecgi-fin-253-2008",
+      "reason": "Exact title and Masulis/Thomas authors agree with filename and prior reviewed identity; use 2008 working-paper record for 2009 article.",
+      "version_status": "same_work_version_not_verified",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "058110c99f0f9251ce686781753b508d37185f62c089725dd8f000ec24e92a9d": {
+      "paper_id": "P265",
+      "doi": "10.1093/rfs/hhp044",
+      "reason": "DOI printed on PDF first page; prefer published article to the two search-result working papers.",
+      "version_status": "publication_identity_confirmed",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "322c1baf0f7d200de2f9cf8dbafb13a4fb58f4d328741efad52bb4b7da825dba": {
+      "paper_id": "P300",
+      "doi": "10.1016/0304-405x(90)90024-t",
+      "reason": "PDF title and Abbie Smith author agree; OpenAlex omits the subtitle.",
+      "version_status": "publication_identity_confirmed",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    },
+    "31a96f9af497b290b3886360a353c539f039d01a691b211f9570ecfbb630d63d": {
+      "paper_id": "P310",
+      "doi": "10.1111/j.1540-6261.2011.01667.x",
+      "reason": "Search candidate matches exact PDF title, year 2011 and both Shivdasani/Wang authors. Local filename has author prefix contamination.",
+      "version_status": "publication_identity_confirmed",
+      "evidence": "outputs/citation_graph_openalex/9ad47e071ee12c2f/review/pdf_identity_evidence.json"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "pdf_dir": "data/pdfs",
+  "output_dir": "outputs/corpus",
+  "embedding": {
+    "model": "Qwen/Qwen3-Embedding-4B",
+    "revision": "5cf2132abc99cad020ac570b19d031efec650f2b",
+    "max_tokens": 32768,
+    "embedding_dimension": 2560,
+    "math_policy": "omit",
+    "instruction": "Represent this research paper for clustering by its economic topic, research question, and mechanisms."
+  },
+  "runtime": {
+    "device": "cuda",
+    "dtype": "float16",
+    "attention": "sdpa",
+    "sdpa_backend": "auto"
+  }
+}

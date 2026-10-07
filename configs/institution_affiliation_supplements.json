@@ -1,0 +1,1810 @@
+{
+  "review_date": "2026-10-05",
+  "policy": "Supplement missing author affiliations using explicit work-level evidence. Preserve OpenAlex institution IDs where available; local IDs are manual name normalization, not claimed OpenAlex matches. Independent researchers do not become institutions. Business schools within a named university are counted at university level. Evidence may refer to the local PDF or a stated version of the same study.",
+  "entries": [
+    {
+      "paper_id": "P020",
+      "pdf_sha256": "741967ca9a4eb2faed548028285e9e254e8a77147037db3bbeaf102a76a89919",
+      "author_index": 0,
+      "author_name": "Ulf Axelson",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I180242103",
+          "display_name": "Stockholm School of Economics",
+          "ror": "https://ror.org/01s5jzh92",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I180242103"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210131059",
+          "display_name": "Institute for Financial Research",
+          "ror": "https://ror.org/03k09ka51",
+          "country_code": "SE",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210131059"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/edde7b0e02f8cac274637034124bc2883b698fad3d876b21eb0986a39527886f.json",
+      "source_block": "/page/0/Footnote/10",
+      "source_page": 1,
+      "source_sha256": "bf3c0506f7d1d079327a221223055d98e21e91c13aec59db450ee5c021dbd4f8",
+      "evidence": "∗Ulf Axelson is with the Stockholm School of Economics and SIFR. Per Stromberg is with the ¨ Stockholm School of Economics, SIFR, CEPR, and NBER. Michael S. Weisbach is with Ohio State University and NBER. "
+    },
+    {
+      "paper_id": "P020",
+      "pdf_sha256": "741967ca9a4eb2faed548028285e9e254e8a77147037db3bbeaf102a76a89919",
+      "author_index": 1,
+      "author_name": "Per Johan Strömberg",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I180242103",
+          "display_name": "Stockholm School of Economics",
+          "ror": "https://ror.org/01s5jzh92",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I180242103"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210131059",
+          "display_name": "Institute for Financial Research",
+          "ror": "https://ror.org/03k09ka51",
+          "country_code": "SE",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210131059"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210140326",
+          "display_name": "Centre for Economic Policy Research",
+          "ror": "https://ror.org/04jzmdh37",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210140326"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1321305853",
+          "display_name": "National Bureau of Economic Research",
+          "ror": "https://ror.org/04grmx538",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1321305853"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/edde7b0e02f8cac274637034124bc2883b698fad3d876b21eb0986a39527886f.json",
+      "source_block": "/page/0/Footnote/10",
+      "source_page": 1,
+      "source_sha256": "bf3c0506f7d1d079327a221223055d98e21e91c13aec59db450ee5c021dbd4f8",
+      "evidence": "∗Ulf Axelson is with the Stockholm School of Economics and SIFR. Per Stromberg is with the ¨ Stockholm School of Economics, SIFR, CEPR, and NBER. Michael S. Weisbach is with Ohio State University and NBER. "
+    },
+    {
+      "paper_id": "P021",
+      "pdf_sha256": "483d51dc0085e76ae07e90df790b9d009198c8bafad94e4c1bee5934a74ea684",
+      "author_index": 2,
+      "author_name": "Per Johan Strömberg",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210131059",
+          "display_name": "Institute for Financial Research",
+          "ror": "https://ror.org/03k09ka51",
+          "country_code": "SE",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210131059"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I180242103",
+          "display_name": "Stockholm School of Economics",
+          "ror": "https://ror.org/01s5jzh92",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I180242103"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210140326",
+          "display_name": "Centre for Economic Policy Research",
+          "ror": "https://ror.org/04jzmdh37",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210140326"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1321305853",
+          "display_name": "National Bureau of Economic Research",
+          "ror": "https://ror.org/04grmx538",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1321305853"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/84c9cfb3d6d6136667eaa2c305aab2764af688d98bd0573afc99329169dc8abb.json",
+      "source_block": "/page/0/Footnote/11",
+      "source_page": 1,
+      "source_sha256": "eedb3e0471dc42ec3e153f9c75b9e29abe2be9e9f14ba8bc9daaa9687d961e58",
+      "evidence": "∗Axelson is with the London School of Economics and SIFR; Jenkinson is with the Said Business School, Oxford University and CEPR; Stromberg is with SIFR, Stockholm School of Economics, ¨ CEPR, and NBER; and Weisbach is with Ohio State University, NBER, and SIFR. We are extremely grateful to Steve Kaplan for sharing his data on 1980s LBOs, and to Joakim Bang, Ji-Woong Chung, ˚ and Reimo Juks for excellent research assistance. We would also like to thank Viral Acharya, Malcolm Baker, Laura Bottazzi, Phil Canfield, Chris Collins, Marco DaRin, Francois Derrien, Chris James, Steve Kaplan, Steven Ongena, Morten Sorensen, David Sraer, Ayako Yasuda, "
+    },
+    {
+      "paper_id": "P045",
+      "pdf_sha256": "d911ce451cd69a81094910c158dfd8427bcf6c64c5ad34c3497adc6fe38af81c",
+      "author_index": 1,
+      "author_name": "KYLE E. ZIMMERSCHIED",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I78715868",
+          "display_name": "University of Arkansas at Fayetteville",
+          "ror": "https://ror.org/05jbt9m15",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I78715868"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/f91d3f9098c174d7d2d2b00746fe58be24b3255abffbff4dd643b4f8994a3a39.json",
+      "source_block": "/page/0/Text/9",
+      "source_page": 1,
+      "source_sha256": "5fafaad593094121fac9e20ac458a30616a7743e00522fafcf73000e0f5e740f",
+      "evidence": "*Matteo Binfarè is with the University of Missouri; Robert J. Trulaske; Sr. College of Business. Kyle Zimmerschied is with the University of Arkansas, Sam M. Walton College of Business. "
+    },
+    {
+      "paper_id": "P055",
+      "pdf_sha256": "c1c30476ef0afb70fe37a5b3c52239fa322ff9f7422796d2cc5a1fa252796188",
+      "author_index": 1,
+      "author_name": "Taylor D. Nadauld",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I100005738",
+          "display_name": "Brigham Young University",
+          "ror": "https://ror.org/047rhhm47",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I100005738"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/0ec4f795ce30fc2a4a1e864332aefe2492b5e44a7cba926307f360fd09ddb560.json",
+      "source_block": "/page/0/Text/10",
+      "source_page": 1,
+      "source_sha256": "3c9f635fb34176e66066576ce84aad215240d105004d60eb9947a306ff87d115",
+      "evidence": "*Brian H. Boyer, Taylor D. Nadauld, and Keith P. Vorkink are at the Marriott School of Business, Brigham Young University. Michael S. Weisbach is at the Fisher School of Business, Ohio State University, and NBER. "
+    },
+    {
+      "paper_id": "P055",
+      "pdf_sha256": "c1c30476ef0afb70fe37a5b3c52239fa322ff9f7422796d2cc5a1fa252796188",
+      "author_index": 2,
+      "author_name": "Keith Vorkink",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I100005738",
+          "display_name": "Brigham Young University",
+          "ror": "https://ror.org/047rhhm47",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I100005738"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/0ec4f795ce30fc2a4a1e864332aefe2492b5e44a7cba926307f360fd09ddb560.json",
+      "source_block": "/page/0/Text/10",
+      "source_page": 1,
+      "source_sha256": "3c9f635fb34176e66066576ce84aad215240d105004d60eb9947a306ff87d115",
+      "evidence": "*Brian H. Boyer, Taylor D. Nadauld, and Keith P. Vorkink are at the Marriott School of Business, Brigham Young University. Michael S. Weisbach is at the Fisher School of Business, Ohio State University, and NBER. "
+    },
+    {
+      "paper_id": "P062",
+      "pdf_sha256": "7e062eefaa6cce38b8bc428672f9bca32be19c489a9eb60cfab7bf929170d871",
+      "author_index": 0,
+      "author_name": "Reiner Braun",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I62916508",
+          "display_name": "Technical University of Munich",
+          "ror": "https://ror.org/02kkvpp62",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I62916508"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/92ba3f4b53915660e45aff01dfb499b67b6c4d297e1ceda6970ab07a30f9adc7.json",
+      "source_block": "/page/0/Text/9",
+      "source_page": 1,
+      "source_sha256": "d64cf55629b7759eff09c9e47f3e2723d133b81d4ea26037847b1512a5d5e8ce",
+      "evidence": "*Reiner Braun is at Technical University Munich. Nils Dorau is at Technical University Munich. Tim Jenkinson is at the Said Business School, University of Oxford. Daniel Urban is at Erasmus University Rotterdam. "
+    },
+    {
+      "paper_id": "P062",
+      "pdf_sha256": "7e062eefaa6cce38b8bc428672f9bca32be19c489a9eb60cfab7bf929170d871",
+      "author_index": 1,
+      "author_name": "Nils Dorau",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I62916508",
+          "display_name": "Technical University of Munich",
+          "ror": "https://ror.org/02kkvpp62",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I62916508"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/92ba3f4b53915660e45aff01dfb499b67b6c4d297e1ceda6970ab07a30f9adc7.json",
+      "source_block": "/page/0/Text/9",
+      "source_page": 1,
+      "source_sha256": "d64cf55629b7759eff09c9e47f3e2723d133b81d4ea26037847b1512a5d5e8ce",
+      "evidence": "*Reiner Braun is at Technical University Munich. Nils Dorau is at Technical University Munich. Tim Jenkinson is at the Said Business School, University of Oxford. Daniel Urban is at Erasmus University Rotterdam. "
+    },
+    {
+      "paper_id": "P067",
+      "pdf_sha256": "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc",
+      "author_index": 2,
+      "author_name": "Wendy Hu",
+      "institutions": [
+        {
+          "id": "local:burgiss",
+          "display_name": "Burgiss",
+          "country_code": "US",
+          "type": "company",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Burgiss, 111 River St., 10th Floor, Hoboken, NJ 07030, United States; Burgiss"
+    },
+    {
+      "paper_id": "P068",
+      "pdf_sha256": "e45b081aff84960cb8e4135050639ae91692b643f77c88e72f0da41d6da6ff8d",
+      "author_index": 2,
+      "author_name": "Wendy Hu",
+      "institutions": [
+        {
+          "id": "local:burgiss",
+          "display_name": "Burgiss",
+          "country_code": "US",
+          "type": "company",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Burgiss, United States"
+    },
+    {
+      "paper_id": "P077",
+      "pdf_sha256": "ecd4f8971f262cfbf5f01c5fba3968f7cc2b733ba4f99d571d0972cbb9c06a91",
+      "author_index": 0,
+      "author_name": "Matthew D. Cain",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I95457486",
+          "display_name": "University of California, Berkeley",
+          "ror": "https://ror.org/01an7q238",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I95457486"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/93e3cc2876ea9236396e8add55288523c483c7c7b0dc7411befa5eb475677b63.json",
+      "source_block": "/page/0/Footnote/8",
+      "source_page": 1,
+      "source_sha256": "6eb518e347cb806bd6373c86fe9e9ebaaf2b33a00725fac5001f8c50ca00c843",
+      "evidence": "*Cain (corresponding author), mdcain@outlook.com, University of California Berkeley Center for Law and Business; McKeon, smckeon@uoregon.edu, University of Oregon Lundquist College of Business; and Solomon, steven.solomon@law.berkeley.edu, University of California Berkeley School of Law. "
+    },
+    {
+      "paper_id": "P077",
+      "pdf_sha256": "ecd4f8971f262cfbf5f01c5fba3968f7cc2b733ba4f99d571d0972cbb9c06a91",
+      "author_index": 1,
+      "author_name": "Stephen B. McKeon",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I181233156",
+          "display_name": "University of Oregon",
+          "ror": "https://ror.org/0293rh119",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I181233156"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/93e3cc2876ea9236396e8add55288523c483c7c7b0dc7411befa5eb475677b63.json",
+      "source_block": "/page/0/Footnote/8",
+      "source_page": 1,
+      "source_sha256": "6eb518e347cb806bd6373c86fe9e9ebaaf2b33a00725fac5001f8c50ca00c843",
+      "evidence": "*Cain (corresponding author), mdcain@outlook.com, University of California Berkeley Center for Law and Business; McKeon, smckeon@uoregon.edu, University of Oregon Lundquist College of Business; and Solomon, steven.solomon@law.berkeley.edu, University of California Berkeley School of Law. "
+    },
+    {
+      "paper_id": "P077",
+      "pdf_sha256": "ecd4f8971f262cfbf5f01c5fba3968f7cc2b733ba4f99d571d0972cbb9c06a91",
+      "author_index": 2,
+      "author_name": "Steven Davidoff Solomon",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I95457486",
+          "display_name": "University of California, Berkeley",
+          "ror": "https://ror.org/01an7q238",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I95457486"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/93e3cc2876ea9236396e8add55288523c483c7c7b0dc7411befa5eb475677b63.json",
+      "source_block": "/page/0/Footnote/8",
+      "source_page": 1,
+      "source_sha256": "6eb518e347cb806bd6373c86fe9e9ebaaf2b33a00725fac5001f8c50ca00c843",
+      "evidence": "*Cain (corresponding author), mdcain@outlook.com, University of California Berkeley Center for Law and Business; McKeon, smckeon@uoregon.edu, University of Oregon Lundquist College of Business; and Solomon, steven.solomon@law.berkeley.edu, University of California Berkeley School of Law. "
+    },
+    {
+      "paper_id": "P080",
+      "pdf_sha256": "60b7166a7d96539c05c8c92a150fdf45708144bb9890e834868c062bf7eb977e",
+      "author_index": 0,
+      "author_name": "Daniel R. Cavagnaro",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I142934699",
+          "display_name": "California State University, Fullerton",
+          "ror": "https://ror.org/02avqqw26",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142934699"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/2114a907bbcb32e99429c06242610d9b57b8f10173a0f3e97e464e22f4bd4825.json",
+      "source_block": "/page/0/Footnote/11",
+      "source_page": 1,
+      "source_sha256": "20c19bbfc90b697f9a7de87fdca675b01629aea11dae81fed42f65bae44ec49f",
+      "evidence": "∗Daniel R. Cavagnaro and Yingdi Wang are with California State University, Fullerton. Berk A. Sensoy is at Owen Graduate School of Management, Vanderbilt University. Michael S. Weisbach is with Ohio State University and NBER. Andrea Rossi provided exceptional research assistance. "
+    },
+    {
+      "paper_id": "P080",
+      "pdf_sha256": "60b7166a7d96539c05c8c92a150fdf45708144bb9890e834868c062bf7eb977e",
+      "author_index": 1,
+      "author_name": "Berk A. Sensoy",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I200719446",
+          "display_name": "Vanderbilt University",
+          "ror": "https://ror.org/02vm5rt34",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I200719446"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/2114a907bbcb32e99429c06242610d9b57b8f10173a0f3e97e464e22f4bd4825.json",
+      "source_block": "/page/0/Footnote/11",
+      "source_page": 1,
+      "source_sha256": "20c19bbfc90b697f9a7de87fdca675b01629aea11dae81fed42f65bae44ec49f",
+      "evidence": "∗Daniel R. Cavagnaro and Yingdi Wang are with California State University, Fullerton. Berk A. Sensoy is at Owen Graduate School of Management, Vanderbilt University. Michael S. Weisbach is with Ohio State University and NBER. Andrea Rossi provided exceptional research assistance. "
+    },
+    {
+      "paper_id": "P080",
+      "pdf_sha256": "60b7166a7d96539c05c8c92a150fdf45708144bb9890e834868c062bf7eb977e",
+      "author_index": 2,
+      "author_name": "Yingdi Wang",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I142934699",
+          "display_name": "California State University, Fullerton",
+          "ror": "https://ror.org/02avqqw26",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142934699"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/2114a907bbcb32e99429c06242610d9b57b8f10173a0f3e97e464e22f4bd4825.json",
+      "source_block": "/page/0/Footnote/11",
+      "source_page": 1,
+      "source_sha256": "20c19bbfc90b697f9a7de87fdca675b01629aea11dae81fed42f65bae44ec49f",
+      "evidence": "∗Daniel R. Cavagnaro and Yingdi Wang are with California State University, Fullerton. Berk A. Sensoy is at Owen Graduate School of Management, Vanderbilt University. Michael S. Weisbach is with Ohio State University and NBER. Andrea Rossi provided exceptional research assistance. "
+    },
+    {
+      "paper_id": "P087",
+      "pdf_sha256": "b42079a137dd604115a96ac06e154652256e695b3884ae016e86018a5b5df061",
+      "author_index": 0,
+      "author_name": "Judith A. Chevalier",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40347166",
+          "display_name": "University of Chicago",
+          "ror": "https://ror.org/024mw5h28",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40347166"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1321305853",
+          "display_name": "National Bureau of Economic Research",
+          "ror": "https://ror.org/04grmx538",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1321305853"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/ab3982c1501e68a144921b098882609a69e4b2edb8996ecc09f02670c4d0d6c5.json",
+      "source_block": "/page/0/Footnote/6",
+      "source_page": 1,
+      "source_sha256": "6b3acaa8f664b2a291b66044e69335fdcaabc5bca9a149bfeb9fea6e1bd55bfd",
+      "evidence": "* Graduate School of Business, University of Chicago, 1101 East 58th Street, Chicago, IL 60637, and National Bureau of Economic Research. This paper is a revised version of Chapters 1 and 2 of my M.l.T. dissertation. My advisors, Paul Joskow and David Scharfstein, provided invaluable guidance and advice. Christopher Avery, Tasneem Chipty, Glenn Ellison, Franklin Fisher, Ruth Judson, Steven Kaplan, Brigitte Madrian, Christopher Mayer, Wallace Mullin, James Poterba, Nancy Rose, Julio Rotemberg, Fiona Scott Morton, Jeremy Stein, and two anonymous referees provided helpful comments. Charles Hadlock provided invaluable data guidance. Financial ass"
+    },
+    {
+      "paper_id": "P095",
+      "pdf_sha256": "7c14fad7e491db7500527584004d365bded7d799214146d80c1ec86eab79de22",
+      "author_index": 2,
+      "author_name": "Florian Mölders",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1288059949",
+          "display_name": "International Finance Corporation",
+          "ror": "https://ror.org/049rm1a24",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1288059949"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "Washington DC affiliation; corrects cached country KZ to US for this supplemental institution.",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "International Finance Corporation, Washington, District of Columbia 20433"
+    },
+    {
+      "paper_id": "P099",
+      "pdf_sha256": "3e4665286d86b0a43e8fb3e7a1f4ea948853ad41a9d05abca0df482b6fb246e1",
+      "author_index": 0,
+      "author_name": "Francesca Cornelli",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I61544103",
+          "display_name": "London Business School",
+          "ror": "https://ror.org/001c2sn75",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I61544103"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210140326",
+          "display_name": "Centre for Economic Policy Research",
+          "ror": "https://ror.org/04jzmdh37",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210140326"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/0cf70450f67f137fe7b81813ae6875a60a43900db525df30a0830d786369dbcc.json",
+      "source_block": "/page/0/Footnote/10",
+      "source_page": 1,
+      "source_sha256": "2af2ae132833ddc72435202bb6f8bcd50d7adbdb295349c852befa5ea3ece384",
+      "evidence": "∗Cornelli is at London Business School and CEPR, Kominek is at the European Bank of Reconstruction and Development (EBRD), and Ljungqvist is at New York University Stern School of Business and NBER. The views expressed in this paper are those of the authors and not necessarily of the EBRD. "
+    },
+    {
+      "paper_id": "P099",
+      "pdf_sha256": "3e4665286d86b0a43e8fb3e7a1f4ea948853ad41a9d05abca0df482b6fb246e1",
+      "author_index": 1,
+      "author_name": "Zbigniew W. Kominek",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I35841627",
+          "display_name": "European Bank for Reconstruction and Development",
+          "ror": "https://ror.org/02sstxn62",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I35841627"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/0cf70450f67f137fe7b81813ae6875a60a43900db525df30a0830d786369dbcc.json",
+      "source_block": "/page/0/Footnote/10",
+      "source_page": 1,
+      "source_sha256": "2af2ae132833ddc72435202bb6f8bcd50d7adbdb295349c852befa5ea3ece384",
+      "evidence": "∗Cornelli is at London Business School and CEPR, Kominek is at the European Bank of Reconstruction and Development (EBRD), and Ljungqvist is at New York University Stern School of Business and NBER. The views expressed in this paper are those of the authors and not necessarily of the EBRD. "
+    },
+    {
+      "paper_id": "P111",
+      "pdf_sha256": "43fdd370fbe2e308d6e43439dc6d7f076dfadd583beb5b24dbf5f5d4b6c74d0a",
+      "author_index": 3,
+      "author_name": "Mai Takeuchi",
+      "institutions": [
+        {
+          "id": "local:wilshire-private-markets-wilshire-japan",
+          "display_name": "Wilshire Private Markets (Wilshire Japan)",
+          "country_code": "JP",
+          "type": "company",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Wilshire Private Markets, Wilshire Japan K.K., 4th Floor, East Tower, Otemachi First Square, 1-5-1 Otemachi, Chiyoda-ku, Tokyo, 100-0004, Japan; Wilshire Private Markets, Wilshire Japan K.K"
+    },
+    {
+      "paper_id": "P117",
+      "pdf_sha256": "f36a32771977dc14aef29be6b8c0e6318b7eaa37105e895defffc195aa1fedb5",
+      "author_index": 3,
+      "author_name": "Ben Lipsius",
+      "institutions": [],
+      "status": "independent",
+      "replace": false,
+      "note": "Explicitly Independent Scholar; not an institution.",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Independent Scholar, New York, New York 10002"
+    },
+    {
+      "paper_id": "P123",
+      "pdf_sha256": "974521c0240175030b00ffe557e14980a62ce8044e90284fd628164fcd873416",
+      "author_index": 0,
+      "author_name": "Amy K. Dittmar",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I27837315",
+          "display_name": "University of Michigan",
+          "ror": "https://ror.org/00jmfr291",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I27837315"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/578d026bb771468fc4a9fea5e3eb26f28409401ebc5221a9aed995335a899c62.json",
+      "source_block": "/page/0/Footnote/8",
+      "source_page": 1,
+      "source_sha256": "71e5fdfde7844cc470477bcc4148b97652179e610c3f20240edf9a769c65b683",
+      "evidence": "∗Dittmar, adittmar@umich.edu, Ross School of Business, University of Michigan, 701 Tappan St, Ann Arbor, MI 48109; Li, dili@gsu.edu, Robinson College of Business, Georgia State University, 35 Broad St, Atlanta, GA 30303; and Nain, amrita-nain@uiowa.edu, Tippie College of Business, University of Iowa, 108 Pappajohn Business Building, Iowa City, IA 52242. "
+    },
+    {
+      "paper_id": "P123",
+      "pdf_sha256": "974521c0240175030b00ffe557e14980a62ce8044e90284fd628164fcd873416",
+      "author_index": 1,
+      "author_name": "Di Li",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I181565077",
+          "display_name": "Georgia State University",
+          "ror": "https://ror.org/03qt6ba18",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I181565077"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/578d026bb771468fc4a9fea5e3eb26f28409401ebc5221a9aed995335a899c62.json",
+      "source_block": "/page/0/Footnote/8",
+      "source_page": 1,
+      "source_sha256": "71e5fdfde7844cc470477bcc4148b97652179e610c3f20240edf9a769c65b683",
+      "evidence": "∗Dittmar, adittmar@umich.edu, Ross School of Business, University of Michigan, 701 Tappan St, Ann Arbor, MI 48109; Li, dili@gsu.edu, Robinson College of Business, Georgia State University, 35 Broad St, Atlanta, GA 30303; and Nain, amrita-nain@uiowa.edu, Tippie College of Business, University of Iowa, 108 Pappajohn Business Building, Iowa City, IA 52242. "
+    },
+    {
+      "paper_id": "P123",
+      "pdf_sha256": "974521c0240175030b00ffe557e14980a62ce8044e90284fd628164fcd873416",
+      "author_index": 2,
+      "author_name": "Amrita S. Nain",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126307644",
+          "display_name": "University of Iowa",
+          "ror": "https://ror.org/036jqmy94",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126307644"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/578d026bb771468fc4a9fea5e3eb26f28409401ebc5221a9aed995335a899c62.json",
+      "source_block": "/page/0/Footnote/8",
+      "source_page": 1,
+      "source_sha256": "71e5fdfde7844cc470477bcc4148b97652179e610c3f20240edf9a769c65b683",
+      "evidence": "∗Dittmar, adittmar@umich.edu, Ross School of Business, University of Michigan, 701 Tappan St, Ann Arbor, MI 48109; Li, dili@gsu.edu, Robinson College of Business, Georgia State University, 35 Broad St, Atlanta, GA 30303; and Nain, amrita-nain@uiowa.edu, Tippie College of Business, University of Iowa, 108 Pappajohn Business Building, Iowa City, IA 52242. "
+    },
+    {
+      "paper_id": "P128",
+      "pdf_sha256": "9cd4ec810391ad0674d3ef4a71d8cbbb520f085dbc31593d12ac804ff67cb2a1",
+      "author_index": 1,
+      "author_name": "Łukasz Pomorski",
+      "institutions": [
+        {
+          "id": "local:aqr-capital-management",
+          "display_name": "AQR Capital Management",
+          "country_code": "US",
+          "type": "company",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "2 AQR Capital Management, LLC; AQR Capital Management, LLC"
+    },
+    {
+      "paper_id": "P137",
+      "pdf_sha256": "ed68397b7747da3155b76473f5772c2b867b3101b5ce6d836b33d6f5b4d24cfe",
+      "author_index": 0,
+      "author_name": "Christian Diller",
+      "institutions": [
+        {
+          "id": "local:capital-dynamics",
+          "display_name": "Capital Dynamics",
+          "country_code": "CH",
+          "type": "company",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Capital Dynamics, Bahnhofstr. 22, CH-6301 ZugiE-mail: [email protected]"
+    },
+    {
+      "paper_id": "P145",
+      "pdf_sha256": "4ad4448933a6169004725cb67481e2b1fcbfe9cf5f010339ba09a96418af3673",
+      "author_index": 1,
+      "author_name": "Kairong Xiao",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I78577930",
+          "display_name": "Columbia University",
+          "ror": "https://ror.org/00hj8s172",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I78577930"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/412d5f37696b2f77f639b8edef1b29df7ad688a795b69bcf61b5f25bf8268c4c.json",
+      "source_block": "/page/0/Footnote/11",
+      "source_page": 1,
+      "source_sha256": "34603ac9e9d372a1ca514d1fff900436dd6653f4074aa6dd7512b3d16dc4aece",
+      "evidence": "b Columbia Business School, United States of America"
+    },
+    {
+      "paper_id": "P157",
+      "pdf_sha256": "855efe46ff89712325cadcbb0f9843168204083795c4451333e879c986dcbc66",
+      "author_index": 2,
+      "author_name": "Albert Sheen",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1313313744",
+          "display_name": "United States Securities and Exchange Commission",
+          "ror": "https://ror.org/01xqwbk25",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1313313744"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/7fd3f25b4ff2ccc61ab0f02e0800955a5ba6c226672678aeb3cd93dc409a7cb0.json",
+      "source_block": "/page/0/Text/11",
+      "source_page": 1,
+      "source_sha256": "abd88bfa6838e2a9bd13eb2cef4707e2aeab6b137f8038cfbe186c298f7f29b1",
+      "evidence": "*Cesare Fracassi is with the University of Texas at Austin, McCombs School of Business, Alessandro Previtero is with Indiana University, Kelley School of Business, and NBER. Albert Sheen is with the Securities and Exchange Commission. "
+    },
+    {
+      "paper_id": "P159",
+      "pdf_sha256": "810885f2a60ae5d4999da1967e18df84638a3582158299e898d03a31afeac7f7",
+      "author_index": 1,
+      "author_name": "Marco Hauptmeier",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79510175",
+          "display_name": "Cardiff University",
+          "ror": "https://ror.org/03kk7td41",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79510175"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/cf55788f8d60338f452bac87be658f7a72bf1427b42b060da3960e8c2b9cd84d.json",
+      "source_block": "/page/2/Text/10",
+      "source_page": 3,
+      "source_sha256": "1a64db31dd6de6451e3d8a70307d53051e24a5f814e3995bed62b3a50a01f5d1",
+      "evidence": "Cardiff Business School, Cardiff University, Cardiff, UK"
+    },
+    {
+      "paper_id": "P159",
+      "pdf_sha256": "810885f2a60ae5d4999da1967e18df84638a3582158299e898d03a31afeac7f7",
+      "author_index": 2,
+      "author_name": "Geoffrey Wood",
+      "institutions": [
+        {
+          "id": "local:university-of-essex",
+          "display_name": "University of Essex",
+          "country_code": "GB",
+          "type": "education",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/cf55788f8d60338f452bac87be658f7a72bf1427b42b060da3960e8c2b9cd84d.json",
+      "source_block": "/page/5/Text/5",
+      "source_page": 6,
+      "source_sha256": "1a64db31dd6de6451e3d8a70307d53051e24a5f814e3995bed62b3a50a01f5d1",
+      "evidence": "Essex Business School, University of Essex, Colchester, UK"
+    },
+    {
+      "paper_id": "P168",
+      "pdf_sha256": "d76c2ff836cfed6b9c8d92f0e09671abf262a722f64237bf60bb05001e5cf2f4",
+      "author_index": 0,
+      "author_name": "Mark Gilreath",
+      "institutions": [
+        {
+          "id": "local:frazier-healthcare-partners",
+          "display_name": "Frazier Healthcare Partners",
+          "country_code": "US",
+          "type": "company",
+          "ror": ""
+        },
+        {
+          "id": "local:united-digestive",
+          "display_name": "United Digestive",
+          "country_code": "US",
+          "type": "healthcare",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Frazier Healthcare Partners, United Digestive, Atlanta, Georgia; United Digestive, Atlanta, Georgia. Electronic address: mark.gilreath@uniteddigestive.com; Frazier Healthcare Partners, United Digestive, Atlanta, Georgia; United Digestive, Atlanta, Georgia"
+    },
+    {
+      "paper_id": "P168",
+      "pdf_sha256": "d76c2ff836cfed6b9c8d92f0e09671abf262a722f64237bf60bb05001e5cf2f4",
+      "author_index": 2,
+      "author_name": "Joel V. Brill",
+      "institutions": [
+        {
+          "id": "local:predictive-health",
+          "display_name": "Predictive Health",
+          "country_code": "US",
+          "type": "company",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Predictive Health, Paradise Valley, Arizona"
+    },
+    {
+      "paper_id": "P169",
+      "pdf_sha256": "85e6325abcae3003ca8c4d4ebd3b5629d0f6a86c3006cfe4ef49ec9fe804578a",
+      "author_index": 0,
+      "author_name": "Mark Gilreath",
+      "institutions": [
+        {
+          "id": "local:frazier-healthcare-partners",
+          "display_name": "Frazier Healthcare Partners",
+          "country_code": "US",
+          "type": "company",
+          "ror": ""
+        },
+        {
+          "id": "local:united-digestive",
+          "display_name": "United Digestive",
+          "country_code": "US",
+          "type": "healthcare",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Frazier Healthcare Partners and United Digestive, Atlanta, Georgia. Electronic address: mark.gilreath@uniteddigestive.com; Frazier Healthcare Partners and United Digestive, Atlanta, Georgia"
+    },
+    {
+      "paper_id": "P169",
+      "pdf_sha256": "85e6325abcae3003ca8c4d4ebd3b5629d0f6a86c3006cfe4ef49ec9fe804578a",
+      "author_index": 3,
+      "author_name": "Joel V. Brill",
+      "institutions": [
+        {
+          "id": "local:predictive-health",
+          "display_name": "Predictive Health",
+          "country_code": "US",
+          "type": "company",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Predictive Health, Paradise Valley, Arizona"
+    },
+    {
+      "paper_id": "P185",
+      "pdf_sha256": "f1f9a8624aa2c9084fbc3791f3e9f5f370916b42deff02beb51248bc8dc395df",
+      "author_index": 2,
+      "author_name": "M. Deniz Yavuz",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I219193219",
+          "display_name": "Purdue University West Lafayette",
+          "ror": "https://ror.org/02dqehb95",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I219193219"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "University name is explicit; erroneous Netherlands address in source is not used as institution country.",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Krannert Graduate School of Management, Purdue University, Netherlands"
+    },
+    {
+      "paper_id": "P187",
+      "pdf_sha256": "08f9611869a310a8aa1bba83393b0ced538f5c142ff0a3e47252776a939436af",
+      "author_index": 1,
+      "author_name": "Morten Sørensen",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I180519160",
+          "display_name": "Copenhagen Business School",
+          "ror": "https://ror.org/04sppb023",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I180519160"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I78577930",
+          "display_name": "Columbia University",
+          "ror": "https://ror.org/00hj8s172",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I78577930"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210140326",
+          "display_name": "Centre for Economic Policy Research",
+          "ror": "https://ror.org/04jzmdh37",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210140326"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210131059",
+          "display_name": "Institute for Financial Research",
+          "ror": "https://ror.org/03k09ka51",
+          "country_code": "SE",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210131059"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "Affiliations from local PDF version.",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/511ceaa12b9dcc86b7110e2a55d397692ce8b75dce6f7c33ed8ac603a2429234.json",
+      "source_block": "/page/0/Footnote/7",
+      "source_page": 1,
+      "source_sha256": "41d2c5d2595deeef629e4cc4c01401743e302f84019088a879d3a88d3f50de8e",
+      "evidence": "‡Copenhagen Business School, Columbia GSB, CEPR, and SIFR, mso.@cbs.dk"
+    },
+    {
+      "paper_id": "P188",
+      "pdf_sha256": "250a895d81d37bfde2cdab35bd58a6f513c8f3bd2c839b2a6d286e57955e9382",
+      "author_index": 2,
+      "author_name": "Rüdiger R. Stucke",
+      "institutions": [
+        {
+          "id": "local:warburg-pincus",
+          "display_name": "Warburg Pincus",
+          "country_code": "US",
+          "type": "company",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Warburg Pincus LLC, United States of America"
+    },
+    {
+      "paper_id": "P192",
+      "pdf_sha256": "d9af773a182e0cf7b242fa1a836d0cb63b96cc7116dd6565724497bb61429c9d",
+      "author_index": 2,
+      "author_name": "Constantine Yannelis",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1321305853",
+          "display_name": "National Bureau of Economic Research",
+          "ror": "https://ror.org/04grmx538",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1321305853"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40347166",
+          "display_name": "University of Chicago",
+          "ror": "https://ror.org/024mw5h28",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40347166"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "NBER and Chicago Booth , USA"
+    },
+    {
+      "paper_id": "P193",
+      "pdf_sha256": "f16d79fa870ef67f1db242233445e2d69baea47db886365c1d69cda67c86da12",
+      "author_index": 1,
+      "author_name": "Stijn Van Nieuwerburgh",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I78577930",
+          "display_name": "Columbia University",
+          "ror": "https://ror.org/00hj8s172",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I78577930"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/2609ca927bfb225d6c7ad8c1ca381189ee03c5df7da445e7a62f6526e4ea617d.json",
+      "source_block": "/page/0/Text/10",
+      "source_page": 1,
+      "source_sha256": "69d1a57750c9d95ba9d0863ed220a6ccd3384f113d66c8fbbd0a98dc152bf6c7",
+      "evidence": "Arpit Gupta is at the Department of Finance, Stern School of Business, New York University. Stijn Van Nieuwerburgh is at the Department of Finance, Columbia Business School. The authors would like to thank Stefan Nagel (the Editor), an Associate Editor, and two anonymous referees; Thomas Gilbert, Arthur Korteweg, Stavros Panageas, Antoinette Schoar, and Morten Sorensen (discussants); as well as Ralph Koijen, Clive Lipshitz, Ingo Walter, Neng Wang, and seminar and conference participants at the 2018 UNC Real Estate Research Symposium, the 2019 AFA annual meetings, the Southern California Private Equity Conference, NYU Stern, 2019 NBER Long-Ter"
+    },
+    {
+      "paper_id": "P199",
+      "pdf_sha256": "f2f7d36689984febf13ff8d4f989a581c8340cab1a07e66ead3c2dbfe01fccd8",
+      "author_index": 0,
+      "author_name": "Robert S. Harris",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I51556381",
+          "display_name": "University of Virginia",
+          "ror": "https://ror.org/0153tk833",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I51556381"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/c043ebc163fe3a79a49e74d0a121b0f5ea86d9c00a41e8a912da7992c3cb12b7.json",
+      "source_block": "/page/0/Footnote/11",
+      "source_page": 1,
+      "source_sha256": "17201311b399746a159c96c935c62caa49f460132fe5812f8f705909788f3f3f",
+      "evidence": "∗Harris is with University of Virginia, Darden School of Business; Jenkinson is with Said Business School, University of Oxford, and CEPR; and Kaplan is with University of Chicago Booth School of Business and NBER. This research has been supported by the UAI Foundation and the Center for Research in Security Prices. Rui Cui provided able research assistance. "
+    },
+    {
+      "paper_id": "P199",
+      "pdf_sha256": "f2f7d36689984febf13ff8d4f989a581c8340cab1a07e66ead3c2dbfe01fccd8",
+      "author_index": 1,
+      "author_name": "Tim Jenkinson",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210140326",
+          "display_name": "Centre for Economic Policy Research",
+          "ror": "https://ror.org/04jzmdh37",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210140326"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/c043ebc163fe3a79a49e74d0a121b0f5ea86d9c00a41e8a912da7992c3cb12b7.json",
+      "source_block": "/page/0/Footnote/11",
+      "source_page": 1,
+      "source_sha256": "17201311b399746a159c96c935c62caa49f460132fe5812f8f705909788f3f3f",
+      "evidence": "∗Harris is with University of Virginia, Darden School of Business; Jenkinson is with Said Business School, University of Oxford, and CEPR; and Kaplan is with University of Chicago Booth School of Business and NBER. This research has been supported by the UAI Foundation and the Center for Research in Security Prices. Rui Cui provided able research assistance. "
+    },
+    {
+      "paper_id": "P200",
+      "pdf_sha256": "395031c07a6ea97ed54b4fa879d94e7805cf220e2fe64bf45c60fbaf23bb17bd",
+      "author_index": 3,
+      "author_name": "Ruediger Stucke",
+      "institutions": [
+        {
+          "id": "local:warburg-pincus",
+          "display_name": "Warburg Pincus",
+          "country_code": "US",
+          "type": "company",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Warburg Pincus, LLC ,USA"
+    },
+    {
+      "paper_id": "P201",
+      "pdf_sha256": "f4a10e48271ec0b211104c0b24e8930650a20316c329ee577769dc721716fc51",
+      "author_index": 3,
+      "author_name": "Ruediger Stucke",
+      "institutions": [
+        {
+          "id": "local:warburg-pincus",
+          "display_name": "Warburg Pincus",
+          "country_code": "US",
+          "type": "company",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": true,
+      "note": "Corrects false OpenAlex match to Warburg Institute: raw affiliation explicitly says Warburg Pincus.",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Warburg Pincus, Almack House, 28 King Street, London SW1Y 6QW, UK"
+    },
+    {
+      "paper_id": "P217",
+      "pdf_sha256": "602d0965b10b5b59fd84b5bb68942a87f9dbb5fad3cc0d57ce3cc57f2b0bf094",
+      "author_index": 1,
+      "author_name": "Wayne R. Landsman",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114027177",
+          "display_name": "University of North Carolina at Chapel Hill",
+          "ror": "https://ror.org/0130frc33",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114027177"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "The University of North Carolina"
+    },
+    {
+      "paper_id": "P218",
+      "pdf_sha256": "ba8ddfe78e16556759a22d5797491c610f662a03a4a931166a869200209f99eb",
+      "author_index": 2,
+      "author_name": "Christian Rauch",
+      "institutions": [
+        {
+          "id": "local:umm-al-quwain-university",
+          "display_name": "Umm Al Quwain University",
+          "country_code": "AE",
+          "type": "education",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "College of Business Administration, Umm Al Quwain University, Umm Al Quwain, United Arab Emirates"
+    },
+    {
+      "paper_id": "P223",
+      "pdf_sha256": "0bab69d25c5bd9341b77c68fd0cb98e9829e6d946d0f3eaf56eb6b2ed7f0d117",
+      "author_index": 0,
+      "author_name": "Emily Johnston-Ross",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1320395740",
+          "display_name": "Federal Deposit Insurance Corporation",
+          "ror": "https://ror.org/01ytw4e80",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1320395740"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/da159afa6b2ce2abb533dee201ac968da350c8e8533c6fc158e0b3cd49763180.json",
+      "source_block": "/page/0/Text/10",
+      "source_page": 1,
+      "source_sha256": "1c328a97c1a6df6df35f82d1247263c0705d29f9245a176982a741db0fbe0002",
+      "evidence": "*Emily Johnston-Ross is with the Federal Deposit Insurance Corporation (FDIC). Song Ma is with Yale University and NBER. Manju Puri is with Duke University and NBER. "
+    },
+    {
+      "paper_id": "P223",
+      "pdf_sha256": "0bab69d25c5bd9341b77c68fd0cb98e9829e6d946d0f3eaf56eb6b2ed7f0d117",
+      "author_index": 1,
+      "author_name": "Song Ma",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1321305853",
+          "display_name": "National Bureau of Economic Research",
+          "ror": "https://ror.org/04grmx538",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1321305853"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/da159afa6b2ce2abb533dee201ac968da350c8e8533c6fc158e0b3cd49763180.json",
+      "source_block": "/page/0/Text/10",
+      "source_page": 1,
+      "source_sha256": "1c328a97c1a6df6df35f82d1247263c0705d29f9245a176982a741db0fbe0002",
+      "evidence": "*Emily Johnston-Ross is with the Federal Deposit Insurance Corporation (FDIC). Song Ma is with Yale University and NBER. Manju Puri is with Duke University and NBER. "
+    },
+    {
+      "paper_id": "P244",
+      "pdf_sha256": "f05438c0f04b139f44444cf0cd6fab0f39606a1c16cc0e4763486ab01a1508c0",
+      "author_index": 1,
+      "author_name": "Rosemary Batt",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I205783295",
+          "display_name": "Cornell University",
+          "ror": "https://ror.org/05bnh6r87",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "external_affiliation",
+      "source_url": "https://api.pageplace.de/preview/DT0400.9781801178006_A45617803/preview-9781801178006_A45617803.pdf",
+      "evidence": "Contributor biography identifies Rosemary Batt as professor at Cornell University (printed page ix)."
+    },
+    {
+      "paper_id": "P244",
+      "pdf_sha256": "f05438c0f04b139f44444cf0cd6fab0f39606a1c16cc0e4763486ab01a1508c0",
+      "author_index": 2,
+      "author_name": "Eileen Appelbaum",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1279858714",
+          "display_name": "Center for Economic and Policy Research",
+          "ror": "https://ror.org/01vqjmx11",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1279858714"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "external_affiliation",
+      "source_url": "https://api.pageplace.de/preview/DT0400.9781801178006_A45617803/preview-9781801178006_A45617803.pdf",
+      "evidence": "Contributor biography identifies Eileen Appelbaum as co-director at the Center for Economic and Policy Research (printed page ix)."
+    },
+    {
+      "paper_id": "P244",
+      "pdf_sha256": "f05438c0f04b139f44444cf0cd6fab0f39606a1c16cc0e4763486ab01a1508c0",
+      "author_index": 0,
+      "author_name": "Aimee La France",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1279858714",
+          "display_name": "Center for Economic and Policy Research",
+          "ror": "https://ror.org/01vqjmx11",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1279858714"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "Historical role linked to this study; current Wharton affiliation is not counted.",
+      "source_kind": "external_affiliation",
+      "source_url": "https://mgmt.wharton.upenn.edu/profile/aslafran/",
+      "evidence": "Biography explicitly links her CEPR research assistant role to co-authoring the hospital ownership and financial strategies study."
+    },
+    {
+      "paper_id": "P247",
+      "pdf_sha256": "7224f2bfd27cd5cbd14b287960e5fdf987189f09791661d92540fdb19b159014",
+      "author_index": 1,
+      "author_name": "Antoinette Schoar",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210140326",
+          "display_name": "Centre for Economic Policy Research",
+          "ror": "https://ror.org/04jzmdh37",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210140326"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1321305853",
+          "display_name": "National Bureau of Economic Research",
+          "ror": "https://ror.org/04grmx538",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1321305853"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/71f6e20e8c1418264b40811d961af9ad5e1b5875f89c95a1e95270389435346a.json",
+      "source_block": "/page/0/Text/7",
+      "source_page": 1,
+      "source_sha256": "1b0434b5c1aa221a39a6f61a9e2c308b6177a03b8e40b429910d123cb7eef2c7",
+      "evidence": "∗Josh Lerner is at Harvard University and National Bureau of Economic Research. Antoinette Schoar is at Massachusetts Institute of Technology, CEPR and NBER. Wan Wongsunwai is at Harvard University. "
+    },
+    {
+      "paper_id": "P258",
+      "pdf_sha256": "0cd784353ad3dfa767e329d984fce4049417d248b6131c89e755459a821a874f",
+      "author_index": 0,
+      "author_name": "Florencio López‐de‐Silanes",
+      "institutions": [
+        {
+          "id": "local:edhec-business-school",
+          "display_name": "EDHEC Business School",
+          "country_code": "FR",
+          "type": "education",
+          "ror": ""
+        },
+        {
+          "id": "https://openalex.org/I1321305853",
+          "display_name": "National Bureau of Economic Research",
+          "ror": "https://ror.org/04grmx538",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1321305853"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/bf7972afbbc1bb08eca129454f9b684e83e08cbdcafc199d47231e1189a9ea29.json",
+      "source_block": "/page/0/Footnote/8",
+      "source_page": 1,
+      "source_sha256": "7c0f727dc0e772d8a6b017c96d3976350808220f668e24bd924980073b680843",
+      "evidence": "∗Lopez-de-Silanes (corresponding author), florencio.lopezdesilanes@edhec.edu, EDHEC Business School, Nice 06202, France and National Bureau of Economic Research; Phalippou, ludovic .phalippou@sbs.ox.co.uk, University of Oxford, Said Business School, Oxford OX1 1HP, United Kingdom; and Gottschalg, gottschalg@hec.fr, HEC Paris (Groupe HEC), Strategy and Business Policy, Jouy-en-Josas Cedex 78351, France. "
+    },
+    {
+      "paper_id": "P258",
+      "pdf_sha256": "0cd784353ad3dfa767e329d984fce4049417d248b6131c89e755459a821a874f",
+      "author_index": 1,
+      "author_name": "Ludovic Phalippou",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/bf7972afbbc1bb08eca129454f9b684e83e08cbdcafc199d47231e1189a9ea29.json",
+      "source_block": "/page/0/Footnote/8",
+      "source_page": 1,
+      "source_sha256": "7c0f727dc0e772d8a6b017c96d3976350808220f668e24bd924980073b680843",
+      "evidence": "∗Lopez-de-Silanes (corresponding author), florencio.lopezdesilanes@edhec.edu, EDHEC Business School, Nice 06202, France and National Bureau of Economic Research; Phalippou, ludovic .phalippou@sbs.ox.co.uk, University of Oxford, Said Business School, Oxford OX1 1HP, United Kingdom; and Gottschalg, gottschalg@hec.fr, HEC Paris (Groupe HEC), Strategy and Business Policy, Jouy-en-Josas Cedex 78351, France. "
+    },
+    {
+      "paper_id": "P258",
+      "pdf_sha256": "0cd784353ad3dfa767e329d984fce4049417d248b6131c89e755459a821a874f",
+      "author_index": 2,
+      "author_name": "Oliver F. Gottschalg",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I83860666",
+          "display_name": "HEC Paris",
+          "ror": "https://ror.org/0423jsj19",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I83860666"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/bf7972afbbc1bb08eca129454f9b684e83e08cbdcafc199d47231e1189a9ea29.json",
+      "source_block": "/page/0/Footnote/8",
+      "source_page": 1,
+      "source_sha256": "7c0f727dc0e772d8a6b017c96d3976350808220f668e24bd924980073b680843",
+      "evidence": "∗Lopez-de-Silanes (corresponding author), florencio.lopezdesilanes@edhec.edu, EDHEC Business School, Nice 06202, France and National Bureau of Economic Research; Phalippou, ludovic .phalippou@sbs.ox.co.uk, University of Oxford, Said Business School, Oxford OX1 1HP, United Kingdom; and Gottschalg, gottschalg@hec.fr, HEC Paris (Groupe HEC), Strategy and Business Policy, Jouy-en-Josas Cedex 78351, France. "
+    },
+    {
+      "paper_id": "P268",
+      "pdf_sha256": "dbfea60142749b06663396f1c875ef3d35ef6dcf8dba7fe038b50288383d6174",
+      "author_index": 0,
+      "author_name": "Peter Morris",
+      "institutions": [],
+      "status": "independent",
+      "replace": false,
+      "note": "Explicitly Independent researcher; not an institution.",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "Independent researcher"
+    },
+    {
+      "paper_id": "P286",
+      "pdf_sha256": "602bba8f74081fae9e59ad15931354be579d142bbdf1b4af322a274b8ff8612d",
+      "author_index": 2,
+      "author_name": "Marc P. Umber",
+      "institutions": [
+        {
+          "id": "local:high-tech-gr-nderfonds",
+          "display_name": "High-Tech Gründerfonds",
+          "country_code": "DE",
+          "type": "company",
+          "ror": ""
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "openalex_raw_affiliation",
+      "source_path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/resolved_works.json",
+      "evidence": "HighTech Gruenderfonds, Schlegelstrasse 2, 53115 Bonn, Germany"
+    },
+    {
+      "paper_id": "P292",
+      "pdf_sha256": "2f63cb15f70efe643214e6155b278c87e2d3d9336737abbc93a37f49742a3965",
+      "author_index": 0,
+      "author_name": "David T. Robinson",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I170897317",
+          "display_name": "Duke University",
+          "ror": "https://ror.org/00py81415",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I170897317"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1321305853",
+          "display_name": "National Bureau of Economic Research",
+          "ror": "https://ror.org/04grmx538",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1321305853"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/a35837fb10afc07dfc240abb5fc609de16599a8227e1c1c10ac8f2cef8d4624a.json",
+      "source_block": "/page/0/Text/1",
+      "source_page": 1,
+      "source_sha256": "c2346e2e0dcc07d8761370a97199f4f50441600d136b6a76cf97dc2d8631d3b3",
+      "evidence": "David T. Robinson Duke University and NBER"
+    },
+    {
+      "paper_id": "P292",
+      "pdf_sha256": "2f63cb15f70efe643214e6155b278c87e2d3d9336737abbc93a37f49742a3965",
+      "author_index": 1,
+      "author_name": "Berk A. Sensoy",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I52357470",
+          "display_name": "The Ohio State University",
+          "ror": "https://ror.org/00rs6vg23",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I52357470"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/a35837fb10afc07dfc240abb5fc609de16599a8227e1c1c10ac8f2cef8d4624a.json",
+      "source_block": "/page/0/Text/2",
+      "source_page": 1,
+      "source_sha256": "c2346e2e0dcc07d8761370a97199f4f50441600d136b6a76cf97dc2d8631d3b3",
+      "evidence": "Berk A. Sensoy Ohio State University"
+    },
+    {
+      "paper_id": "P304",
+      "pdf_sha256": "ea83413efcb8bd3b5462ed5aac03f2e3e9cd025f11c9ada3a6799246225990f7",
+      "author_index": 0,
+      "author_name": "Erik Stafford",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "Author affiliation in the 2015 working-paper version of the same study; local published PDF correspondence also uses hbs.edu.",
+      "source_kind": "external_affiliation",
+      "source_url": "https://www.hbs.edu/ris/Publication%20Files/ReplicatingPE_201512_3859877f-bd53-4d3e-99aa-6daec2a3a2d3.pdf",
+      "evidence": "Stafford is at Harvard Business School."
+    },
+    {
+      "paper_id": "P309",
+      "pdf_sha256": "ea41a971405e6714db3c0f428d4175fb8c5f4976d586fc18b55487329b99c782",
+      "author_index": 0,
+      "author_name": "Paul Povel",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44461941",
+          "display_name": "University of Houston",
+          "ror": "https://ror.org/048sx0r50",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44461941"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/32a47dc87117c543a0477f21867a54803ade8298bfa96c683597073c2e640705.json",
+      "source_block": "/page/0/Footnote/8",
+      "source_page": 1,
+      "source_sha256": "277abd2cb377bcc77e4179129182a9ae15593ec2de33d00055e3865d0a5b4713",
+      "evidence": "∗Paul Povel is at the Bauer College of Business, University of Houston. Rajdeep Singh is at the Carlson School of Management, University of Minnesota. "
+    },
+    {
+      "paper_id": "P314",
+      "pdf_sha256": "c61a8c87b4e4c926fcd5205556d0a0db8f9f051440585835d834fdb6a3525096",
+      "author_index": 0,
+      "author_name": "Belén Villalonga",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/6be6c8cd44f47fd11a6eef6c8c6e6e80638ba07958c20d601e170dc041d092b9.json",
+      "source_block": "/page/0/Text/1",
+      "source_page": 1,
+      "source_sha256": "9fea472e59840c793099ecaf5bb956487468a95849f6e8303de50a5fbb400665",
+      "evidence": "Belen Villalonga ´ Harvard Business School"
+    },
+    {
+      "paper_id": "P314",
+      "pdf_sha256": "c61a8c87b4e4c926fcd5205556d0a0db8f9f051440585835d834fdb6a3525096",
+      "author_index": 1,
+      "author_name": "Raphael H Amit",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79576946",
+          "display_name": "University of Pennsylvania",
+          "ror": "https://ror.org/00b30xv10",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": false,
+      "note": "",
+      "source_kind": "pdf_affiliation",
+      "source_path": "outputs/corpus/extraction/documents/6be6c8cd44f47fd11a6eef6c8c6e6e80638ba07958c20d601e170dc041d092b9.json",
+      "source_block": "/page/0/Text/2",
+      "source_page": 1,
+      "source_sha256": "9fea472e59840c793099ecaf5bb956487468a95849f6e8303de50a5fbb400665",
+      "evidence": "Raphael Amit The Wharton School, University of Pennsylvania"
+    },
+    {
+      "paper_id": "P039",
+      "pdf_sha256": "e5b5fec065ec28e8067ec9771702661956b9fb0431aa404e3c461692c0ee800b",
+      "author_index": 2,
+      "author_name": "Filippo Mezzanotti",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111979921",
+          "display_name": "Northwestern University",
+          "ror": "https://ror.org/000e0be47",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111979921"
+          ]
+        }
+      ],
+      "status": "assigned",
+      "replace": true,
+      "source_kind": "external_affiliation",
+      "source_url": "https://insight.kellogg.northwestern.edu/article/private-equity-helped-firms-weather-the-great-recession",
+      "evidence": "Kellogg reports this study and identifies coauthor Filippo Mezzanotti as its assistant professor of finance.",
+      "note": "Corrects OpenAlex match to the Philippines institution of the same name; affiliation is Northwestern University in the United States."
+    }
+  ],
+  "institution_groups": [
+    {
+      "id": "local:insead",
+      "display_name": "INSEAD",
+      "country_code": "FR; SG; AE",
+      "type": "education",
+      "ror": "",
+      "member_ids": [
+        "https://openalex.org/I102272798",
+        "https://openalex.org/I4210152270",
+        "https://openalex.org/I4210149427"
+      ],
+      "source_url": "https://www.insead.edu/about-insead/campuses",
+      "note": "One business school with France, Singapore, and Abu Dhabi campuses. Count a paper once across these campus IDs."
+    }
+  ]
+}

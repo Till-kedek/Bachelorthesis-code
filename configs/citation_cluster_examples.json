@@ -1,0 +1,268 @@
+{
+  "schema_version": 1,
+  "solution": "citation_r0.9",
+  "resolution": 0.9,
+  "membership_id": "2ce9f1e945012dabac3c0246f41ae1cf96676b8cbb7413139550928673d5a364",
+  "full_membership_id": "c3a192a9d14ab2accbee0580e941c17ecde31792c96e5594f01eaffb54e24a1e",
+  "citation_input_id": "7418152b2c5ae71187ab792a78fe2717b013bec188c74b4b63410fe3d1207399",
+  "selection_method": "Purposive content review of retained PDF passages, guided by the requested themes and substantive PE or sponsor-backed buyout relevance. Each paper must belong to the exact saved citation community. Internal citation degree and external-link fraction provide graph context, not an automatic content-validation rule. Counts refer only to the reviewed corpus graph.",
+  "focus": {
+    "1": "health care and nursing homes",
+    "2": "management buyouts: process and operating performance",
+    "3": "financial reporting",
+    "4": "fund performance",
+    "5": "practice management"
+  },
+  "papers": [
+    {
+      "paper_id": "P050",
+      "cluster": 1,
+      "citation": "Borsa, Bejarano, Ellen & Bruch (2023)",
+      "pdf_sha256": "40efdc98e3f66a3361e4ff3f9e4309f74a430566d8de7164eb1e15c9621890da",
+      "text_sha256": "6faa377f046773cac2518cf7725902ff50c0955af8827552ca54dc9d3ef5c7a5",
+      "role": "PE ownership across health-care settings",
+      "why_representative": "Synthesizes empirical studies of PE-owned health-care operators across settings, prominently including nursing homes. Connects the requested health-care focus to patient outcomes, costs and care quality; it also has many links within this citation community.",
+      "private_equity_focus": "PE ownership is the review's inclusion criterion and the exposure being evaluated, rather than a passing mention in a general health-care study.",
+      "scope_note": "A synthesis of heterogeneous, mainly US evidence. It supports a health-care strand within the broader community, whose membership also covers employment and other real effects of PE.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/19",
+          "segment": 1,
+          "excerpt": "The main outcome measures were impact of PE ownership on health outcomes, costs to patients or payers, costs to operators, and quality. The secondary outcome measures were trends and prevalence of PE ownership of healthcare operators."
+        },
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/33",
+          "segment": 1,
+          "excerpt": "The electronic search identified 1778 studies, with 55 meeting the inclusion criteria. Studies spanned eight countries, with most (n=47) analyzing PE ownership of healthcare operators in the US. Nursing homes were the most commonly studied healthcare setting (n=17), followed by hospitals and dermatology settings (n=9 each); ophthalmology (n=7); multiple specialties or general physician groups (n=5); urology (n=4); gastroenterology and orthopedics (n=3 each); surgical centers, fertility, and obstetrics and gynecology (n=2 each); and anesthesia, hospice care, oral or maxillofacial surgery, otolaryngology, and"
+        }
+      ]
+    },
+    {
+      "paper_id": "P163",
+      "cluster": 1,
+      "citation": "Gandhi, Song & Upadrashta (2026)",
+      "pdf_sha256": "593d994f08646e48b80792353accc37de46ebc985223513614a80149963b131c",
+      "text_sha256": "9c150612fc8793a6cf1fb491ea429419545a7e64bed4e6c9595eca593eb28266",
+      "role": "PE nursing-home buyouts, competition and consumers",
+      "why_representative": "Uses nursing-home acquisitions to examine how competition shapes the effects of PE ownership on consumers. Provides a focused empirical complement to the cross-setting review and is strongly connected within Cluster 1.",
+      "private_equity_focus": "Private-equity acquisitions of nursing homes are the central research setting; ownership and competitive incentives are the explanatory mechanisms.",
+      "scope_note": "The findings depend on local competition and should not be reduced to a uniformly positive or negative effect of PE. This is a nursing-home example within a broader real-effects community.",
+      "evidence": [
+        {
+          "page": 2,
+          "block_id": "/page/1/Text/10",
+          "segment": 1,
+          "excerpt": "Abstract. This paper studies how product market competition shapes the impact of private equity (PE) acquisitions on consumers. We examine nursing home buyouts and observe that PE-owned facilities exhibit greater competitive sensitivity: competing more aggressively when competitive incentives are strong and exploiting market power more aggressively when competitive incentives are weak. We find that PE-owned facilities are more sensitive to local market competition—even when comparing effects only across facilities purchased as part of the same acquisition—and are more responsive to a pro-competitive policy helping consumers compare facilities."
+        },
+        {
+          "page": 2,
+          "block_id": "/page/1/Text/23",
+          "segment": 1,
+          "excerpt": "In contrast to the public consensus, the academic literature offers mixed evidence regarding the impact of PE on non-financial stakeholders. Prior work has shown PE ownership to improve food safety (Bernstein and Sheen 2016), workplace safety (Cohn et al. 2021), and product offerings (Fracassi et al. 2022). Although PE firms often do destroy jobs, losses are largely offset by productive reallocation and new job creation (Davis et al. 2014). On the other hand, PE firms have also been shown to raise prices (Chevalier 1995) and lower quality (Matsa 2011) in supermarkets, as well as in higher education, an industry where firms can exploit large government subsidies and the opacity of product quality (Eaton et al. 2020)."
+        }
+      ]
+    },
+    {
+      "paper_id": "P224",
+      "cluster": 2,
+      "citation": "Kaplan (1989)",
+      "pdf_sha256": "ab24ef970d91164a854daa56fb9dccae93dcbe480f3a42256621cb509cf556e8",
+      "text_sha256": "56ca165e9121c327d9aa2e29d255068b0ce05b95191181a412889efad6ad4f8b",
+      "role": "Management buyouts and subsequent operating performance",
+      "why_representative": "Studies operating results before and after large management buyouts, connecting management incentives and sponsor monitoring to income, cash flow and investment. It has the most within-community links in Cluster 2.",
+      "private_equity_focus": "Concerns the buyout ownership model, including management equity participation and the buyout specialist who structures and monitors the transaction; it is not a generic operating-performance study.",
+      "scope_note": "A historical management-buyout sample, not every form of contemporary PE acquisition. The retained scan contains OCR artefacts, so the linked PDF should be consulted before reusing numerical quotations.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/5",
+          "segment": 1,
+          "excerpt": "This paper presents evidence on changes in operating results for a sample of 76 large management buyouts of public companies completed between 1980 and 2986. In the three years after the buyout, these companies experience increases in operating income (before depreciation), decreases in capital expenditures, and increases in net cash flow. Consistent with the operating changes, the mean and median increases in market value (adjusted for market returns) are 96% and 77% from two months before the buyout announcement to the post-buyout sale. The evidence suggests the operating changes are due to improved incentives rather than layoffs or managerial exploitation of shareholders through inside information."
+        },
+        {
+          "page": 2,
+          "block_id": "/page/1/Text/3",
+          "segment": 1,
+          "excerpt": "that increase efficiency to find ways to genenate cash and equity stakes give man increasing value. Finally, the buyout specialist, who structures the transaconon, monitors and controls the management team. According to this reducedagency-cost or new-incentive hypot esis, the new incentives lead to increases in operating income and operating argins as well as reductions in wasteful capital expenditures."
+        }
+      ]
+    },
+    {
+      "paper_id": "P229",
+      "cluster": 2,
+      "citation": "Kaplan & Strömberg (2009)",
+      "pdf_sha256": "f7c12b54865d3ecbc54e21b66e401d1170c1b0dcb2a7e9eaaa44cfce5ed32761",
+      "text_sha256": "337678f2f17116cd35560b76ec01416ef4268437e6eca66f75bace67b8cfffce",
+      "role": "How sponsor-backed buyouts work: financing, control and management equity",
+      "why_representative": "Explains the acquisition of control with outside debt and sponsor equity, including the management team's equity contribution. Supplies the transaction-process context for Kaplan's management-buyout performance study; it is also one of the community's most connected papers.",
+      "private_equity_focus": "The authors explicitly focus on PE firms and leveraged buyouts of existing firms, distinguishing that activity from venture capital.",
+      "scope_note": "A PE/LBO overview, not an assertion that every PE buyout is management-led. Management buyouts are a specific case. The review draws on Kaplan's earlier work, so the pair is complementary rather than independent validation.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/4",
+          "segment": 1,
+          "excerpt": "I n a leveraged buyout, a company is acquired by a specialized investment firm using a relatively small portion of equity and a relatively large portion of outside debt financing. The leveraged buyout investment firms today refer to themselves (and are generally referred to) as private equity firms. In a typical leveraged buyout transaction, the private equity firm buys majority control of an existing or mature firm. This arrangement is distinct from venture capital firms that typically invest in young or emerging companies, and typically do not obtain majority control. In this paper, we focus specifically on private equity firms and the leveraged buyouts in which they invest, and we will use the terms private equity and leveraged buyout interchangeably."
+        },
+        {
+          "page": 5,
+          "block_id": "/page/4/Text/6",
+          "segment": 2,
+          "excerpt": "The private equity firm invests funds from its investors as equity to cover the remaining 10 to 40 percent of the purchase price. The new management team of the purchased company (which may or may not be identical to the pre-buyout management team) typically also contributes to the new equity, although the amount is usually a small fraction of the equity dollars contributed."
+        }
+      ]
+    },
+    {
+      "paper_id": "P041",
+      "cluster": 3,
+      "citation": "Beuselinck, Deloof & Manigart (2008)",
+      "pdf_sha256": "9eea7baf563b05d08a1bb532dac211223421a1d87f328ead54b7a2f3091455d6",
+      "text_sha256": "4d578b249e09c88d34dd256125acc9e2e9ac813b99d39070ae94bb24a4b8a3cc",
+      "role": "Financial disclosure around PE investment",
+      "why_representative": "Examines voluntary financial disclosure before and after PE participation in unlisted firms. Directly links changes in reporting policy to PE governance and investor information needs.",
+      "private_equity_focus": "PE investment is the financing and governance event being studied, with portfolio-company disclosure as the outcome.",
+      "scope_note": "Disclosure quantity and policy are distinct from the quality of reported earnings. The sample consists of Belgian unlisted PE-backed firms and should not be treated as evidence about all buyouts worldwide.",
+      "evidence": [
+        {
+          "page": 2,
+          "block_id": "/page/1/Text/6",
+          "segment": 1,
+          "excerpt": "ABSTRACT In the current study, we dynamically analyze unlisted firms' voluntary disclosure decisions around private equity (PE) participation. First, we disentangle the role of disclosure in attracting PE investments. In addition, we examine the extent to which a firm's disclosure policy is affected by the changing corporate setting and intensified corporate governance after having received PE. We find no evidence that firms would employ increased disclosure to signal their quality in the years preceding the PE financing. However, we document a significant switch to increased financial disclosure from the PE investment year onwards, consistent with the hypothesis that PE investor presence positively affects portfolio firms' disclosure decisions."
+        },
+        {
+          "page": 3,
+          "block_id": "/page/2/Text/2",
+          "segment": 1,
+          "excerpt": "The current study is situated in the latter stream of disclosure research and examines the impact of changes in ownership structure and corporate governance on a firm's disclosure choice. More specifically, we examine disclosure policies in a sample of Belgian unlisted firms receiving private equity (PE) financing from professional PE investment companies.1When PE investors become partial owners of previously closely held companies, this results in a considerable change in the governance structure of these companies. As such, this study differs from related studies in that we are able to dynamically study disclosure decisions of unquoted companies around a specific financing event, which strongly affects internal corporate governance structures and information requirements."
+        }
+      ]
+    },
+    {
+      "paper_id": "P042",
+      "cluster": 3,
+      "citation": "Beuselinck & Manigart (2007)",
+      "pdf_sha256": "eff52c4326000645560c302e9e088debc6596d3fe249b7e6bcffe7bfff0e4b3f",
+      "text_sha256": "79fb912017f2db9b0a77963b8f242b8c538f7c38b5856f1c784a4c6be56d1b35",
+      "role": "Accounting-information quality and PE ownership concentration",
+      "why_representative": "Studies the relationship between PE ownership stakes and the quality of publicly available accounting information. Complements the disclosure-policy paper by examining reporting quality rather than simply the amount disclosed.",
+      "private_equity_focus": "The sample consists of unquoted PE-backed companies, and the key explanatory variable is the PE investor's ownership stake.",
+      "scope_note": "The paper reports lower accounting-information quality at higher PE ownership stakes; the pair does not imply that PE always improves reporting. The authors overlap, and the related studies are not independent replications.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/4",
+          "segment": 1,
+          "excerpt": "ABSTRACT. We empirically show on a sample of 270 unquoted, private equity backed companies that the shareholder structure of private companies impacts the quality of their publicly available accounting information. More precisely, companies in which private equity (PE) investors have a high equity stake produce lower quality accounting information than companies in which PE investors have a low equity stake, after controlling for factors like company size and age. We explain our findings by arguing that PE investors with low equity stakes have a higher need for high quality accounting information whereas PE investors with high equity stakes have other means to closely monitor their portfolio companies."
+        },
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/11",
+          "segment": 1,
+          "excerpt": "In this paper we highlight the impact of PE investor governance on one specific aspect of the functioning and professionalization of their portfolio companies. More specifically, we explore the relationship between the ownership stake of a PE investor and the quality of the accounting information made public by its portfolio company, hereby extending the finding that PE investors positively affect the accounting information dissemination of their portfolio companies (Beuselinck et al., 2004; Davila and Foster, 2005; Katz, 2006). We provide evidence that the extent of PE ownership in a company significantly influences the quality of its financial accounts.We explain this finding from basic economic theory, where high financial reporting quality is a natural outcome of PE monitoring and governance but also depends on the proportional ownership of PE investors."
+        }
+      ]
+    },
+    {
+      "paper_id": "P227",
+      "cluster": 4,
+      "citation": "Kaplan & Schoar (2005)",
+      "pdf_sha256": "e4a1537519f0c150351a26b9945a2d5ac2d77f2f8416ebcb8f83367c6a780acd",
+      "text_sha256": "3ed78445b5cea9b8c34414c4761ba315463c87f11779a672f816af4ca1ea37bb",
+      "role": "Fund returns, persistence and subsequent fundraising",
+      "why_representative": "Connects net-of-fee fund returns, performance persistence and fundraising. It has the highest within-community citation degree in Cluster 4 and directly anchors the fund-performance theme.",
+      "private_equity_focus": "Studies private-equity partnerships, explicitly including buyout funds and VC funds; it is not a VC-only performance study.",
+      "scope_note": "Uses a historical fund sample and includes both buyout and venture-capital partnerships. Its historical return estimates should not be presented as current expected returns.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/5",
+          "segment": 1,
+          "excerpt": "This paper investigates the performance and capital inflows of private equity partnerships. Average fund returns (net of fees) approximately equal the S&P 500 although substantial heterogeneity across funds exists. Returns persist strongly across subsequent funds of a partnership. Better performing partnerships are more likely to raise follow-on funds and larger funds."
+        },
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/6",
+          "segment": 1,
+          "excerpt": "THE PRIVATE EQUITY INDUSTRY, primarily venture capital (VC) and buyout (LBO) investments, has grown tremendously over the last decade. While investors committed less than $10 billion to private equity partnerships in 1991, they committed more than $180 billion at the peak in 2000 (see Jesse Reyes, Private Equity Overview and Update 2002)."
+        }
+      ]
+    },
+    {
+      "paper_id": "P287",
+      "cluster": 4,
+      "citation": "Phalippou & Gottschalg (2009)",
+      "pdf_sha256": "91b43a24dfc7ceb2f38f93746c7943ca2e0962e45c533a87943d7970e54a9dff",
+      "text_sha256": "9ee7a20bf30249a2ba38bb4ecc873fdff7dc13aaf8e74fa88612612ca3c9f36c",
+      "role": "Fund-performance measurement, fees and sample bias",
+      "why_representative": "Examines residual valuations, sample selection, fees and risk adjustment in measured PE fund returns. It complements Kaplan and Schoar with a critical performance-measurement perspective and is well connected within this community.",
+      "private_equity_focus": "The object is PE fund returns; buyout and VC performance are both considered, including explicit risk adjustments for buyout leverage.",
+      "scope_note": "Contrasts with more favourable performance interpretations. The two studies illustrate a shared research question, not agreement on the size of PE outperformance.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/3",
+          "segment": 1,
+          "excerpt": "The performance of private equity funds as reported by industry associations and previous research is overstated. A large part of performance is driven by inflated accounting valuation of ongoing investments and we find a bias toward better performing funds in the data. We find an average net-of-fees fund performance of 3% per year below that of the S&P 500. Adjusting for risk brings the underperformance to 6% per year. We estimate fees to be 6% per year."
+        },
+        {
+          "page": 3,
+          "block_id": "/page/2/Text/3",
+          "segment": 1,
+          "excerpt": "A fourth issue is that of risk adjustment. Given the high leverage used by buyout (BO) funds and the nature of venture capital (VC) investments (resemble small growth companies, which typically exhibit high systematic risk), the assumption of a beta as 1 is likely to overstate relative performance. Using \"industry/size-matched cost-of-capital,\" we find a risk-adjusted PI of 0.75 for BO funds and 0.77 for VC funds."
+        }
+      ]
+    },
+    {
+      "paper_id": "P168",
+      "cluster": 5,
+      "citation": "Gilreath, Morris & Brill (2019)",
+      "pdf_sha256": "d76c2ff836cfed6b9c8d92f0e09671abf262a722f64237bf60bb05001e5cf2f4",
+      "text_sha256": "6d56f38ec398e003931a957d300bb115d5510c96c66f2290d8d0e805a47c0bf8",
+      "role": "PE partnerships and the management-services organization",
+      "why_representative": "Explains how physician practices partner with PE investors, form a management services organization (MSO), receive management services and roll equity into the new structure. This directly represents the practice-management focus.",
+      "private_equity_focus": "The article discusses PE investment as an ownership, financing and organizational alternative for physician practices, especially gastroenterology.",
+      "scope_note": "A practitioner-oriented discussion, with authors affiliated with health-care investment or practice-management organizations. It describes the proposed model and benefits; it is not an independent causal evaluation of care quality.",
+      "evidence": [
+        {
+          "page": 3,
+          "block_id": "/page/2/Text/4",
+          "segment": 3,
+          "excerpt": "When a physician practice determines that they can benefit from an experienced health care PE investment partner, the entities can form a management services organization (MSO). The MSO provides comprehensive management services to the practice in exchange for a fee. This fee creates an income stream upon which private equity investors can derive a valuation for a medical practice (Figure 1)."
+        },
+        {
+          "page": 2,
+          "block_id": "/page/1/Text/8",
+          "segment": 3,
+          "excerpt": "Private equity presents an alternative to acquisition by a health system and may help physicians feel more in control of their practices, while meeting their needs for investment capital to continue their growth. The capital provided by private equity can be used to leverage expertise in financial discipline and business operations to improve care delivery, fund new technology, hire employees, build infrastructure, make acquisitions, expand working capital, and to bolster and solidify a balance sheet, while retaining medical practice leaders as their clinical decision makers.6 PE can bring proven expertise and economies of scale to resource-intensive aspects of a medical practice including information technology, regulatory compliance, human resources, revenue cycle management, payroll, benefits, and facilities management.7 Health care executives gave PE high marks on improving regulatory compliance, tracking clinical outcomes and patient experience, and the ability to support acquisitions and grow the top line.8"
+        }
+      ]
+    },
+    {
+      "paper_id": "P169",
+      "cluster": 5,
+      "citation": "Gilreath, Patel, Suh & Brill (2021)",
+      "pdf_sha256": "85e6325abcae3003ca8c4d4ebd3b5629d0f6a86c3006cfe4ef49ec9fe804578a",
+      "text_sha256": "a8efe769a6db7b95b6f9e067803ecb28c8fbec1900b618de8056f1338e448776",
+      "role": "PE-backed practice platforms, consolidation and management services",
+      "why_representative": "Follows the expansion of PE-backed gastroenterology platforms and explains the MSO's role in providing management services. Adds the subsequent consolidation and operating context to the 2019 organizational explanation.",
+      "private_equity_focus": "PE partnerships, platform practices and their management organizations are the subject, rather than clinical gastroenterology without an ownership connection.",
+      "scope_note": "An explicit follow-up to the 2019 article with overlapping authors. The pair represents two of only three papers in a disconnected citation component; their linkage is not evidence of broad or independent validation.",
+      "evidence": [
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/11",
+          "segment": 1,
+          "excerpt": "The first PE investment in an independent gastroenterology practice occurred in March 2016. The past 5 years have seen accelerated consolidation of independent GI practices, with PE partnerships involving almost 10 platforms spanning more than 20 states.3 Since 2018, there have been more than 25 GI practice transactions/ consolidations fueled by PE investments with an estimated combined transaction value of more than $1 billion. Currently, close to 1000 gastroenterologists are a part of PE-supported practices, and despite the COVID-19 pandemic, it appears that the pace is accelerating.4"
+        },
+        {
+          "page": 1,
+          "block_id": "/page/0/Text/9",
+          "segment": 1,
+          "excerpt": "Each of these large groups has established a management services organization (MSO) in collaboration with their PE partners. The MSO provides comprehensive management services to the practice in exchange for a fee, as discussed in our previous article. These platform groups have shared numerous examples of advantages they have achieved as a direct result of their investments in leadership teams, infrastructure, and a variety of capital improvements.5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "papers": 2056,
+  "dimensions": 1024,
+  "screening_run": "5779f6345a8f5d18",
+  "screening_decisions": "reports/abstract_screening/5779f6345a8f5d18/paper_decisions.csv",
+  "source_csv": "data/abstracts/final/5779f6345a8f5d18/abstracts_clean.csv",
+  "run_dir": "outputs/abstract_embeddings/final/5779f6345a8f5d18",
+  "input_hashes": {
+    "data/abstracts/final/5779f6345a8f5d18/abstracts_clean.csv": "c09f75729fdd62eec5e087ebfcf5ea0c6464c8e8efa83e8e72f221a1aa39158b",
+    "data/abstracts/final/5779f6345a8f5d18/embedding_row_map.csv": "bf542bc464092fa08b7e70707f28347ed6a5f0027c2ded62c8df1d9403cf6024",
+    "outputs/abstract_embeddings/final/5779f6345a8f5d18/token_lengths.csv": "a254b02bdbda10f43be2407befcca43e58b5e8aaa19201c13182e55622746a3b",
+    "outputs/abstract_embeddings/final/5779f6345a8f5d18/run_summary.json": "49976edc82c4ec4c752477d957756b50b9e615a7753c080955977ef9f43dc06c",
+    "outputs/abstract_embeddings/final/5779f6345a8f5d18/selected_papers.csv": "c0b3722520100c9caac14a1f602a7ad3c436749833cff92b6a68edddb489c671",
+    "outputs/abstract_embeddings/final/5779f6345a8f5d18/paper_ids.csv": "a753082d4d7ec2c80d2af8d1e0bb8cabd8c48b2a47109e58a46e4b0341636304",
+    "outputs/abstract_embeddings/final/5779f6345a8f5d18/embeddings.npy": "6b7aa0d71a1fac49bbffa8a2c172888e8a20d57d4685ac8e9f95986b5d5e585c",
+    "reports/abstract_screening/5779f6345a8f5d18/manifest.json": "0609c2c9c34c08a0d5444e0c33aeb316f8c97514044e5291fa5db39f57ecb9b2",
+    "reports/abstract_screening/5779f6345a8f5d18/paper_decisions.csv": "94aad90230a177d6c7e587423a1cfdcffda5a2c687571bfbfd1b6a92c7f4e74c"
+  }
+}

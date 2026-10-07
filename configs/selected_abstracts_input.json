@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "run_dir": "outputs/selected_abstracts/embeddings/e606ddb5c9ddf172c49d/20261006T113841_841075Z_0d7099bb",
+  "source_csv": "outputs/selected_abstracts/prepared/14fe916595b8103d8cd9/abstracts_clean.csv",
+  "corpus_size": 282,
+  "representation_id": "e606ddb5c9ddf172c49d450f6426c8da3cc72b7a7c8dbd3bd2e5c1f0662c310e",
+  "run_summary_sha256": "556c8e47ae6524c216d21fd52e67e4fd5fde7d0174eb9a08cc6e83f519d87f36"
+}

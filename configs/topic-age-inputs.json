@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "reference_year": 2026,
+  "minimum_year": 1800,
+  "year_policy": {
+    "pdfs": "reviewed OpenAlex openalex_year, joined via PDF hash and canonical work mapping",
+    "citations": "reviewed OpenAlex openalex_year",
+    "abstracts": "Scopus year saved in named_memberships.csv"
+  },
+  "periods": [
+    {
+      "label": "≤1999",
+      "start": 1800,
+      "end": 1999
+    },
+    {
+      "label": "2000–2009",
+      "start": 2000,
+      "end": 2009
+    },
+    {
+      "label": "2010–2019",
+      "start": 2010,
+      "end": 2019
+    },
+    {
+      "label": "2020–2026",
+      "start": 2020,
+      "end": 2026
+    }
+  ],
+  "comparison_periods": [
+    "2000–2009",
+    "2020–2026"
+  ],
+  "sources": {
+    "pdfs": {
+      "source_notebook": "Topic analysis PDFs.ipynb",
+      "unit": "canonical PDF",
+      "expected_papers_per_solution": 292,
+      "solutions": {
+        "kmeans_k5": 5,
+        "embedding_leiden_k5": 5
+      },
+      "memberships": {
+        "path": "reports/topic_analysis_pdfs/d4437a4c2460707a/fcedaa46fb095bbb/named_memberships.csv",
+        "sha256": "958795a6aa1833a507122ea4e87cfda217efcaf94fb9827c51849a781a995139"
+      },
+      "profiles": {
+        "path": "reports/topic_analysis_pdfs/d4437a4c2460707a/fcedaa46fb095bbb/named_cluster_profiles.csv",
+        "sha256": "3a94b06195ef0ddafea53c9c2d72064bd162bdaa91d9f27ee5142866b9b06dd7"
+      }
+    },
+    "abstracts": {
+      "source_notebook": "Topic analysis Abstracts.ipynb",
+      "unit": "Scopus record",
+      "expected_papers_per_solution": 3819,
+      "solutions": {
+        "kmeans_k6": 6,
+        "embedding_leiden_k6": 6
+      },
+      "memberships": {
+        "path": "reports/topic_analysis_abstracts/fab1ccb1023ccc11/ec7e33864e70a323/named_memberships.csv",
+        "sha256": "5ada5a79c7906c305d3bb3916133a0bfa9804ba004d99e5664354e209b7892fa"
+      },
+      "profiles": {
+        "path": "reports/topic_analysis_abstracts/fab1ccb1023ccc11/ec7e33864e70a323/named_cluster_profiles.csv",
+        "sha256": "f0c7d94f22b9507e9471a5fb4d0e43d61a2aa71d410cfcddbd5f93f654a90994"
+      }
+    },
+    "citations": {
+      "source_notebook": "Topic analysis Citations.ipynb",
+      "unit": "canonical work",
+      "expected_papers_per_solution": 292,
+      "solutions": {
+        "citation_r1": 6
+      },
+      "memberships": {
+        "path": "reports/topic_analysis_citations/9ad47e071ee12c2f/20563542c693f5e4/named_memberships.csv",
+        "sha256": "0ce4d18b36d76c3ec3aa689557cd931fd94191f73fa84259b958441054a287e4"
+      },
+      "profiles": {
+        "path": "reports/topic_analysis_citations/9ad47e071ee12c2f/20563542c693f5e4/named_cluster_profiles.csv",
+        "sha256": "773cd0a20d846e95f7559b0bf74ed3e2fc9f629ea093f57abcf7a67413bc55b9"
+      }
+    }
+  },
+  "reviewed_nodes": {
+    "path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/reviewed/nodes.csv",
+    "sha256": "67796206b58fa2e3ef7b53de42fd4d678d315af0f93982328a6edf95d648e510"
+  },
+  "pdf_to_work": {
+    "path": "outputs/citation_graph_openalex/9ad47e071ee12c2f/reviewed/pdf_to_work.csv",
+    "sha256": "4b356198f10c558b22f529e3dfb7a3dcf4a26247032ffd55db480c25d9ba9659"
+  }
+}

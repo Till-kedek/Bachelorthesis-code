@@ -1,0 +1,30 @@
+{
+  "ff6517660be391254a8e60874e89ad36447e538081b3d91f025f116543fad6f0": {
+    "paper_id": "P047",
+    "source_kind": "external_full_abstract",
+    "source_path": "data/selected_abstracts/supplements/P047.json",
+    "source_sha256": "1f3e7c160c97dfe262e8f2dbc00889a54af5fd69508f0b2b5476649ff5eca0a3",
+    "identity_review": "Exact DOI and publication identity reviewed against the publisher/PubMed record. User approved this full abstract; short publisher descriptions were subsequently excluded."
+  },
+  "f7c12b54865d3ecbc54e21b66e401d1170c1b0dcb2a7e9eaaa44cfce5ed32761": {
+    "paper_id": "P229",
+    "source_kind": "external_full_abstract",
+    "source_path": "data/selected_abstracts/supplements/P229.json",
+    "source_sha256": "7dfa0eca122ee36e0668638c7569989720e5f9ca84cf26263490d646c6865bf8",
+    "identity_review": "Exact DOI and publication identity reviewed against the publisher/PubMed record. User approved this full abstract; short publisher descriptions were subsequently excluded."
+  },
+  "ca9985085af7b8887b9ea84384bb17cc83850a18c909fb73bdeaa03836dc7309": {
+    "paper_id": "P263",
+    "source_kind": "external_full_abstract",
+    "source_path": "data/selected_abstracts/supplements/P263.json",
+    "source_sha256": "ab3bffa035507773c772d3c1803bac6fe7847c0b1412f78964770d7e7643d920",
+    "identity_review": "Scopus DOI blank; 2009 Chicago Law Review article matched by title, both authors, journal, volume 76, issue 1, pages 219-259. Existing selected-work DOI refers to a working-paper version; no DOI match is claimed. User approved this full abstract; short publisher descriptions were subsequently excluded."
+  },
+  "f841f89fd954682789569ca595623c09e0f1a30fabc87790c4c2b200cf2f49e5": {
+    "paper_id": "P284",
+    "source_kind": "external_full_abstract",
+    "source_path": "data/selected_abstracts/supplements/P284.json",
+    "source_sha256": "0f990dcc817883e32ece7841a88bccc08e6ba82cce626ec3fcddcf74dab2a231",
+    "identity_review": "Exact DOI and publication identity reviewed against the publisher/PubMed record. User approved this full abstract; short publisher descriptions were subsequently excluded."
+  }
+}

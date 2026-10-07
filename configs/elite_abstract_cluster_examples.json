@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "solution": "leiden_r0.7",
+  "resolution": 0.7,
+  "membership_id": "c7718b774cf6d37b2d16aec4e9ea00978a42cfd68cf963a58be68d16da380589",
+  "embedding_input_id": "5367af2726e44471cc3bcaf5b80d6ff2d90a2c781f96879ba19b664fe99c230a",
+  "catalog_manifest_sha256": "f39498fb9f279f074ffe127414808773e120088005cd6ff15a9b8aeaf114f48f",
+  "selection_method": "Purposive reading of the exact included abstracts and identified supplementary PDF passages, guided by the requested themes and substantive PE relevance. Exact saved elite abstract memberships are required. Centrality and cosine silhouette use only the title-and-abstract vectors and are diagnostic context, not automatic selection thresholds.",
+  "focus": {
+    "1": "going private: PE acquisition of a listed firm",
+    "2": "leveraged buyouts and management buyouts: process",
+    "3": "fund performance across evaluation criteria",
+    "4": "health care and nursing homes"
+  },
+  "papers": [
+    {
+      "paper_id": "P006",
+      "cluster": 1,
+      "citation": "Achleitner, Betzer, Goergen & Hinterramskogler (2013)",
+      "role": "PE acquisition of publicly listed companies",
+      "why_representative": "Directly studies PE takeovers of listed continental-European firms. It connects incumbent ownership and control incentives to the likelihood of acquisition by a PE investor, matching the requested public-to-private transaction setting.",
+      "private_equity_focus": "The acquirer is explicitly a private-equity investor, and the targets are publicly listed firms; private ownership in general is not substituted for a PE acquisition.",
+      "scope_note": "Examines takeover motives and likelihood rather than providing a transaction-execution manual. It validates a going-private strand within a cluster that also includes governance and disclosure studies.",
+      "embedding_text_sha256": "3c5fc3aa41f9fa0d127eb0d067e3c601c4220043a147820dc5ee0ad3a09f9d0c",
+      "abstract_sha256": "0e69489e82de6538b391f4f2f6a8f70f624f9e1debc2fbf763f24f3c1c45b335",
+      "pdf_sha256": "42f3d055e720b8c1cd5cfe112f9ddbe039b6b218261bc087c0805eca56646911",
+      "abstract_source_kind": "pdf_abstract",
+      "abstract_source_path": "outputs/corpus/extraction/documents/68c27bff867aca6a59a273efa35f31c0a0aa0058fe6a96a76c1a827e4f9f0d20.json",
+      "abstract_source_sha256": "5651cfab0604fdf597438c335de83824b1903a8060ecf48b246e46b67188e70d",
+      "abstract_source_url": "",
+      "abstract_source_record_id": "",
+      "abstract_spans": "[{\"block_id\": \"/page/0/Text/13\", \"page\": 1, \"start\": 0, \"end\": 616}]",
+      "document_path": "outputs/corpus/extraction/documents/68c27bff867aca6a59a273efa35f31c0a0aa0058fe6a96a76c1a827e4f9f0d20.json",
+      "document_sha256": "5651cfab0604fdf597438c335de83824b1903a8060ecf48b246e46b67188e70d",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "This paper studies the motives behind private equity acquisitions of publicly listed firms in continental Europe.",
+          "excerpt_start": 0,
+          "excerpt_end": 113
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "As corporate control and ownership in continental Europe tend to be highly concentrated, we argue that it is important to take into account the incentives of the incumbent large shareholder to monitor the management and the private benefits of control the latter may derive from the firm when measuring the likelihood of the firm being taken over by a private equity investor. We find strong and consistent evidence that both have a significant impact on the likelihood of a private equity acquisition.",
+          "excerpt_start": 114,
+          "excerpt_end": 616
+        }
+      ]
+    },
+    {
+      "paper_id": "P043",
+      "cluster": 1,
+      "citation": "Bharath & Dittmar (2010)",
+      "role": "The decision to leave public markets through a buyout",
+      "why_representative": "Follows firms from IPO to going private and examines information, liquidity, access to capital and control. The supplementary PDF passage identifies the PE-acquirer subgroup, complementing the European takeover study.",
+      "private_equity_focus": "PE-backed going-private transactions are an explicit subgroup of the analysis, with other acquisition types used for comparison.",
+      "scope_note": "The overall sample also includes management-led and private-operating-company acquisitions. Its full-paper subgroup discussion substantiates the PE interpretation; the abstract alone describes going private more broadly.",
+      "embedding_text_sha256": "f81f7bfcde3a475de39ad58781c545e95a0f34b0b71b0c81541233296d8b2335",
+      "abstract_sha256": "cd4dbfd7d6048ea04ae83c7badb3d6cc44883e68d2f38700b113b368e5e75280",
+      "pdf_sha256": "5bae6783052fee787250228c68d775577588280c975b7cc84a01fa6a221992e8",
+      "abstract_source_kind": "pdf_abstract",
+      "abstract_source_path": "outputs/corpus/extraction/documents/cca6718ad33fb1cdf100c4f4e6ecb201ba5ac4e8369041083b6b274fa08c10d6.json",
+      "abstract_source_sha256": "29483ece0a8529f5c0ae662d33a9f09755fc8b5884f7e5339946cd244b0824ac",
+      "abstract_source_url": "",
+      "abstract_source_record_id": "",
+      "abstract_spans": "[{\"block_id\": \"/page/0/Text/7\", \"page\": 1, \"start\": 0, \"end\": 908}]",
+      "document_path": "outputs/corpus/extraction/documents/cca6718ad33fb1cdf100c4f4e6ecb201ba5ac4e8369041083b6b274fa08c10d6.json",
+      "document_sha256": "29483ece0a8529f5c0ae662d33a9f09755fc8b5884f7e5339946cd244b0824ac",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "We investigate how firms weigh the costs and benefits of being public in the decision to opt out of the public market and go private. We draw on previous studies of going private and on the subsequent well-developed theoretical literature on why firms go public to develop our hypotheses. We employ a comprehensive sample of going-private transactions from 1980 to 2004 in the United States and examine how these firms differ over their public life (from IPO to going private) relative to a sample of firms that went and remained public.",
+          "excerpt_start": 0,
+          "excerpt_end": 537
+        },
+        {
+          "source_field": "pdf_context",
+          "excerpt": "Our analysis examines why firms go private. Since there are multiple ways a firm can go private, our sample includes transactions that are driven by private equity firms, management, and private operating firms.",
+          "excerpt_start": 0,
+          "excerpt_end": 211,
+          "page": 5,
+          "block_id": "/page/4/Text/3"
+        }
+      ]
+    },
+    {
+      "paper_id": "P229",
+      "cluster": 2,
+      "citation": "Kaplan & Strömberg (2009)",
+      "role": "LBO mechanics: sponsor control, outside debt and equity participation",
+      "why_representative": "Explains how a PE firm acquires a company using a small equity contribution and substantial outside borrowing. A supplementary transaction passage describes sponsor equity and the management team's contribution, providing the process context for the MBO example.",
+      "private_equity_focus": "The included abstract explicitly identifies the specialist leveraged-buyout investor as a PE firm and discusses PE firms and transactions.",
+      "scope_note": "A review of PE/LBOs, not a claim that all LBOs are management-led. Its abstract is an approved external full abstract; the additional PDF passage was not used to build the abstract embeddings.",
+      "embedding_text_sha256": "8004ad754d544298ee5242ef74060f17c68140c35cf6274b7c34ec610f0ab4db",
+      "abstract_sha256": "87b3e5a7c10afee183700d2cbbd7bcf4ca2fda653b2ec77ac6a87321db2d6a88",
+      "pdf_sha256": "f7c12b54865d3ecbc54e21b66e401d1170c1b0dcb2a7e9eaaa44cfce5ed32761",
+      "abstract_source_kind": "external_full_abstract",
+      "abstract_source_path": "data/selected_abstracts/supplements/P229.json",
+      "abstract_source_sha256": "7dfa0eca122ee36e0668638c7569989720e5f9ca84cf26263490d646c6865bf8",
+      "abstract_source_url": "https://www.aeaweb.org/articles?id=10.1257/jep.23.1.121",
+      "abstract_source_record_id": "10.1257/jep.23.1.121",
+      "abstract_spans": "[]",
+      "document_path": "outputs/corpus/extraction/documents/bb798976d8802a6d0416fe4b71c32a5ff792498e7bae7f08cf4a0e7d069af94c.json",
+      "document_sha256": "7c13397338e30f7ec238d9660e1f46e6ae1c9eab8b48b2e462cfb8ab6929a37a",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "In a leveraged buyout, a company is acquired by a specialized investment firm using a relatively small portion of equity and a relatively large portion of outside debt financing. The leveraged buyout investment firms today refer to themselves (and are generally referred to) as private equity firms.",
+          "excerpt_start": 0,
+          "excerpt_end": 299
+        },
+        {
+          "source_field": "pdf_context",
+          "excerpt": "The private equity firm invests funds from its investors as equity to cover the remaining 10 to 40 percent of the purchase price. The new management team of the purchased company (which may or may not be identical to the pre-buyout management team) typically also contributes to the new equity, although the amount is usually a small fraction of the equity dollars contributed.",
+          "excerpt_start": 0,
+          "excerpt_end": 377,
+          "page": 5,
+          "block_id": "/page/4/Text/6"
+        }
+      ]
+    },
+    {
+      "paper_id": "P224",
+      "cluster": 2,
+      "citation": "Kaplan (1989)",
+      "role": "Management buyouts: ownership incentives and post-buyout operations",
+      "why_representative": "Studies operating income, cash flow and investment after management buyouts. The supplementary PDF passage explains the buyout specialist's role in structuring the transaction and monitoring management, linking the process to operational consequences.",
+      "private_equity_focus": "The subject is the buyout ownership and incentive model, including management participation and specialist monitoring, rather than general corporate operating performance.",
+      "scope_note": "Historical MBO evidence, complemented by a later review that draws on this literature. The retained scan contains OCR errors, including a malformed sample year; quotations are preserved and the PDF is linked for checking.",
+      "embedding_text_sha256": "f58db6bff01f68b5b8ec4169baa96dc5108f66ed413e1243ca662651b44ebe44",
+      "abstract_sha256": "1f7a7ad9a43301a1a28d16f99cafc3bd6677c5d7b97ca6ffebc94fcc86de305c",
+      "pdf_sha256": "ab24ef970d91164a854daa56fb9dccae93dcbe480f3a42256621cb509cf556e8",
+      "abstract_source_kind": "pdf_abstract",
+      "abstract_source_path": "outputs/corpus/extraction/documents/16e38daea8c1715219e3547a749cf7c9bc05641dbcec642f935b47e54a484f3c.json",
+      "abstract_source_sha256": "404a676574b322bb7d98941b964b264ca3a0e52ea419631e2a92e727b5359c3d",
+      "abstract_source_url": "",
+      "abstract_source_record_id": "",
+      "abstract_spans": "[{\"block_id\": \"/page/0/Text/5\", \"page\": 1, \"start\": 0, \"end\": 710}]",
+      "document_path": "outputs/corpus/extraction/documents/16e38daea8c1715219e3547a749cf7c9bc05641dbcec642f935b47e54a484f3c.json",
+      "document_sha256": "404a676574b322bb7d98941b964b264ca3a0e52ea419631e2a92e727b5359c3d",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "This paper presents evidence on changes in operating results for a sample of 76 large management buyouts of public companies completed between 1980 and 2986. In the three years after the buyout, these companies experience increases in operating income (before depreciation), decreases in capital expenditures, and increases in net cash flow. Consistent with the operating changes, the mean and median increases in market value (adjusted for market returns) are 96% and 77% from two months before the buyout announcement to the post-buyout sale. The evidence suggests the operating changes are due to improved incentives rather than layoffs or managerial exploitation of shareholders through inside information.",
+          "excerpt_start": 0,
+          "excerpt_end": 710
+        },
+        {
+          "source_field": "pdf_context",
+          "excerpt": "Finally, the buyout specialist, who structures the transaconon, monitors and controls the management team. According to this reducedagency-cost or new-incentive hypot esis, the new incentives lead to increases in operating income and operating argins as well as reductions in wasteful capital expenditures.",
+          "excerpt_start": 100,
+          "excerpt_end": 406,
+          "page": 2,
+          "block_id": "/page/1/Text/3"
+        }
+      ]
+    },
+    {
+      "paper_id": "P227",
+      "cluster": 3,
+      "citation": "Kaplan & Schoar (2005)",
+      "role": "Fund returns, persistence, fundraising and market cycles",
+      "why_representative": "Evaluates PE fund performance using net-of-fee returns against the S&P 500, persistence across successive funds, subsequent fundraising and industry cycles. These provide several concrete fund-performance criteria.",
+      "private_equity_focus": "The units of analysis are private-equity partnerships and their funds, including buyout as well as venture-capital funds.",
+      "scope_note": "Results describe the study's historical sample. The paper supports comparison across performance criteria, not a universal or current expected return for PE.",
+      "embedding_text_sha256": "ea26ae705bd3d8b15f093e1429727abc9579427b059bb3bc8b5d8d511ff81849",
+      "abstract_sha256": "0909264c5bd32aa7027872d89694fd9a14ced6e08c48a66579c22c513e85f710",
+      "pdf_sha256": "e4a1537519f0c150351a26b9945a2d5ac2d77f2f8416ebcb8f83367c6a780acd",
+      "abstract_source_kind": "pdf_abstract",
+      "abstract_source_path": "outputs/corpus/extraction/documents/96a5268a6b633946fd8cee9eb1dd9595885eba226e4d58f6634fd0d5b38b5340.json",
+      "abstract_source_sha256": "0eea37d0aa54d03f45f7c837e19a96f4790f2dcce557cdf020ed220c40e49f39",
+      "abstract_source_url": "",
+      "abstract_source_record_id": "",
+      "abstract_spans": "[{\"block_id\": \"/page/0/Text/5\", \"page\": 1, \"start\": 0, \"end\": 701}]",
+      "document_path": "outputs/corpus/extraction/documents/96a5268a6b633946fd8cee9eb1dd9595885eba226e4d58f6634fd0d5b38b5340.json",
+      "document_sha256": "0eea37d0aa54d03f45f7c837e19a96f4790f2dcce557cdf020ed220c40e49f39",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "This paper investigates the performance and capital inflows of private equity partnerships. Average fund returns (net of fees) approximately equal the S&P 500 although substantial heterogeneity across funds exists. Returns persist strongly across subsequent funds of a partnership.",
+          "excerpt_start": 0,
+          "excerpt_end": 281
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "Better performing partnerships are more likely to raise follow-on funds and larger funds. This relationship is concave, so top performing partnerships grow proportionally less than average performers. At the industry level, market entry and fund performance are procyclical; however, established funds are less sensitive to cycles than new entrants. Several of these results differ markedly from those for mutual funds.",
+          "excerpt_start": 282,
+          "excerpt_end": 701
+        }
+      ]
+    },
+    {
+      "paper_id": "P235",
+      "cluster": 3,
+      "citation": "Korteweg (2019)",
+      "role": "Risk-adjusted performance across methods, periods and data sources",
+      "why_representative": "Reviews how PE return estimates change with risk adjustment, fees, data sources, econometric methods and sample periods. Separates buyout and VC evidence and discusses liquidity and idiosyncratic risk, complementing the persistence/fundraising study.",
+      "private_equity_focus": "Private-equity risk and return are the central subject, with explicit leveraged-buyout evidence rather than VC-only performance analysis.",
+      "scope_note": "A methodological review covering fund-level, deal-level and listed-partnership data, not one new fund sample. Different benchmarks and adjustments need not yield the same assessment of performance.",
+      "embedding_text_sha256": "c6846992d4c9a4393a0fa420b8dbaa08ce9959e7befc67e40d11a5f0c30f7794",
+      "abstract_sha256": "bfa960b6eeb076ab4df7c57c93f0eea9bdab3c92627fc24e2d7bc2cab6c4a502",
+      "pdf_sha256": "c3a7f4988ceccf1ea34ee8de0f25ee10be0872a97fb159d60b7a255728b1a483",
+      "abstract_source_kind": "pdf_abstract",
+      "abstract_source_path": "outputs/corpus/extraction/documents/5f6fa5ff5d4ffe65b019dfb8f493a2a96b4687b8f8f056a39a0c45d1d76ebf9d.json",
+      "abstract_source_sha256": "dae084cc8d99fbf7218ff3085aec547e9783049f4d3b970a9c1997ba9154c60d",
+      "abstract_source_url": "",
+      "abstract_source_record_id": "",
+      "abstract_spans": "[{\"block_id\": \"/page/0/Text/15\", \"page\": 1, \"start\": 0, \"end\": 937}]",
+      "document_path": "outputs/corpus/extraction/documents/5f6fa5ff5d4ffe65b019dfb8f493a2a96b4687b8f8f056a39a0c45d1d76ebf9d.json",
+      "document_sha256": "dae084cc8d99fbf7218ff3085aec547e9783049f4d3b970a9c1997ba9154c60d",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "This article reviews empirical methods to assess risk and return in private equity. I discuss data and econometric issues for fund-level, deal-level, and publicly traded partnerships data. Risk-adjusted return estimates vary substantially by method, time period, and data source.",
+          "excerpt_start": 0,
+          "excerpt_end": 279
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "The weight of evidence suggests that, relative to a similarly risky investment in the stock market, the average venture capital (VC) fund earned positive risk-adjusted returns before the turn of the millennium, but net-of-fee returns have been zero or even negative since. Average leveraged buyout (BO) investments have generally earned positive risk-adjusted returns both before and after fees, compared with a levered stock portfolio. Based on an expanded set of risk factors from the literature, VC resembles a small-growth investment, while BO loads mostly on value. I also discuss the empirical evidence on liquidity and idiosyncratic volatility risks.",
+          "excerpt_start": 280,
+          "excerpt_end": 937
+        }
+      ]
+    },
+    {
+      "paper_id": "P069",
+      "cluster": 4,
+      "citation": "Bruch, Gondi & Song (2020)",
+      "role": "PE hospital acquisitions: financial outcomes and care quality",
+      "why_representative": "Compares PE-acquired hospitals with matched controls and examines income, charges, patient mix, use and quality after acquisition. Provides the hospital example alongside nursing-home evidence.",
+      "private_equity_focus": "Private-equity acquisition is the ownership change of interest, not a passing mention in a clinical study.",
+      "scope_note": "An observational difference-in-differences study. Some results vary between HCA and other hospitals, so the findings should not be generalized to every PE-owned provider.",
+      "embedding_text_sha256": "ca327f003ad73077839dd172f75d16cc480d69840dfc9a61f8548f01c3af42f1",
+      "abstract_sha256": "3d7285cdd46030e5cd40d5960acd9d1fa5d4133d4d6f0c88bde880383c43509a",
+      "pdf_sha256": "9817f0834ce1564946c1e45014119d21c7957219d97e195caae1c913fa39fa4f",
+      "abstract_source_kind": "pdf_abstract",
+      "abstract_source_path": "outputs/corpus/extraction/documents/1954beb57f89b80e554811c819455878f416fd12146261cdaa6ca14f43bb22f2.json",
+      "abstract_source_sha256": "959fc328dbcc9c1f7b8addd960e1e318b348cd9ae6544280af684153919ab470",
+      "abstract_source_url": "",
+      "abstract_source_record_id": "",
+      "abstract_spans": "[{\"block_id\": \"/page/0/Text/6\", \"page\": 1, \"start\": 0, \"end\": 158}, {\"block_id\": \"/page/0/Text/8\", \"page\": 1, \"start\": 0, \"end\": 130}, {\"block_id\": \"/page/0/Text/9\", \"page\": 1, \"start\": 0, \"end\": 848}, {\"block_id\": \"/page/0/Text/10\", \"page\": 1, \"start\": 0, \"end\": 125}, {\"block_id\": \"/page/0/Text/11\", \"page\": 1, \"start\": 0, \"end\": 1855}, {\"block_id\": \"/page/0/Text/13\", \"page\": 1, \"start\": 0, \"end\": 350}]",
+      "document_path": "outputs/corpus/extraction/documents/1954beb57f89b80e554811c819455878f416fd12146261cdaa6ca14f43bb22f2.json",
+      "document_sha256": "959fc328dbcc9c1f7b8addd960e1e318b348cd9ae6544280af684153919ab470",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "DESIGN, SETTING, AND PARTICIPANTS This cohort study identified 204 hospitals acquired by private equity firms from 2005 to 2017 and 532 matched hospitals not acquired by private equity. Using a difference-in-differences design, this study evaluated changes in net income, charges, charge to cost ratios, case mix index (a measure of reported illness burden), share of discharges for patients with Medicare or Medicaid coverage, discharges per year, and aggregate hospital quality measures associated with private equity acquisition through 3 years after acquisition, adjusted for case mix, hospital beds, calendar year, and adjustment for multiple hypothesis testing. In subgroup analyses, changes in outcomes for private equity–owned Hospital Corporation of America (HCA) hospitals and non-HCA hospitals relative to matched controls were assessed.",
+          "excerpt_start": 290,
+          "excerpt_end": 1138
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "CONCLUSIONS AND RELEVANCE Hospitals acquired by private equity were associated with larger increases in net income, charges, charge to cost ratios, and case mix index as well as with improvement in some quality measures after acquisition relative to nonacquired controls. Heterogeneity in some findings was observed between HCA and non-HCA hospitals.",
+          "excerpt_start": 3121,
+          "excerpt_end": 3471
+        }
+      ]
+    },
+    {
+      "paper_id": "P061",
+      "cluster": 4,
+      "citation": "Braun, Jung, Casalino, Myslinski & Unruh (2021)",
+      "role": "PE nursing-home acquisitions: quality and costs for long-stay residents",
+      "why_representative": "Compares residents in PE-acquired nursing homes with residents in other for-profit homes, examining emergency visits, hospitalizations and Medicare costs. Directly represents the nursing-home part of the requested theme.",
+      "private_equity_focus": "PE ownership is the exposure; comparing with other for-profit homes separates the PE acquisition question from for-profit status alone.",
+      "scope_note": "Applies to long-stay nursing-home residents and the outcomes examined. The hospital and nursing-home studies provide complementary settings rather than a universal causal claim about health care.",
+      "embedding_text_sha256": "2574c3590ee6e572fa20b52cfb6e53b2b8d7160b128069fd52225a80d7222a92",
+      "abstract_sha256": "e408fce82e84cde177d4361191999a6cdf8e962fca8e3b7c2dbce8f4fee3dd02",
+      "pdf_sha256": "09acb39e45f5d3d803f4842b77364ff5d3a5ddc57989e28a00842a5bee6ae240",
+      "abstract_source_kind": "pdf_abstract",
+      "abstract_source_path": "outputs/corpus/extraction/documents/7a1ce416ab9ac2ea6f219305fa8b8bd0e87507b613cd31112c8b3a1ff789d0d4.json",
+      "abstract_source_sha256": "b62fa5d54555377c9c5f45000845ac818cfdef5af90323b7a0541c662cd71e09",
+      "abstract_source_url": "",
+      "abstract_source_record_id": "",
+      "abstract_spans": "[{\"block_id\": \"/page/0/Text/8\", \"page\": 1, \"start\": 0, \"end\": 140}, {\"block_id\": \"/page/0/Text/9\", \"page\": 1, \"start\": 0, \"end\": 142}, {\"block_id\": \"/page/0/Text/11\", \"page\": 1, \"start\": 0, \"end\": 542}, {\"block_id\": \"/page/0/Text/12\", \"page\": 1, \"start\": 0, \"end\": 80}, {\"block_id\": \"/page/0/Text/13\", \"page\": 1, \"start\": 0, \"end\": 432}, {\"block_id\": \"/page/0/Text/15\", \"page\": 1, \"start\": 0, \"end\": 1388}, {\"block_id\": \"/page/1/Text/3\", \"page\": 2, \"start\": 0, \"end\": 251}]",
+      "document_path": "outputs/corpus/extraction/documents/7a1ce416ab9ac2ea6f219305fa8b8bd0e87507b613cd31112c8b3a1ff789d0d4.json",
+      "document_sha256": "b62fa5d54555377c9c5f45000845ac818cfdef5af90323b7a0541c662cd71e09",
+      "evidence": [
+        {
+          "source_field": "abstract",
+          "excerpt": "DESIGN, SETTING, AND PARTICIPANTS In this cohort study of 302 private equity nursing homes with 9632 residents and 9562 other for-profit homes with 249 771 residents, a novel national database of private equity nursing home acquisitions was merged with Medicare claims and Minimum Data Set assessments for the period from 2012 to 2018. Changes in outcomes for residents in private equity–acquired nursing homes were compared with changes for residents in other for-profit nursing homes. Analyses were performed from March 25 to June 23, 2021.",
+          "excerpt_start": 284,
+          "excerpt_end": 826
+        },
+        {
+          "source_field": "abstract",
+          "excerpt": "CONCLUSIONS AND RELEVANCE This cohort study with difference-in-differences analysis found that private equity acquisition of nursing homes was associated with increases in ACS emergency department visits and hospitalizations and higher Medicare costs.",
+          "excerpt_start": 2730,
+          "excerpt_end": 2981
+        }
+      ]
+    }
+  ]
+}

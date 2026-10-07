@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "reference_year": 2026,
+  "minimum_year": 1800,
+  "periods": [
+    {"label": "2020–2026", "start": 2020, "end": 2026},
+    {"label": "2010–2019", "start": 2010, "end": 2019},
+    {"label": "2000–2009", "start": 2000, "end": 2009},
+    {"label": "≤1999", "start": 1800, "end": 1999}
+  ],
+  "partitions": [
+    {"analysis": "pdfs", "solution": "kmeans_k5", "label": "PDFs · K-means k=5", "clusters": 5},
+    {"analysis": "pdfs", "solution": "embedding_leiden_k5", "label": "PDFs · Leiden 0.95", "clusters": 5, "resolution": 0.95},
+    {"analysis": "abstracts", "solution": "kmeans_k5", "label": "Abstracts · K-means k=5", "clusters": 5},
+    {"analysis": "abstracts", "solution": "leiden_r0.45", "label": "Abstracts · Leiden 0.45", "clusters": 5, "resolution": 0.45},
+    {"analysis": "citations", "solution": "citation_r0.9", "label": "Citations · Leiden 0.9", "clusters": 5, "resolution": 0.9}
+  ]
+}

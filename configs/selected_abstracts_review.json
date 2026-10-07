@@ -1,0 +1,2043 @@
+{
+  "e6251c6079bb34d2e3f83028a4eae7028e5af8805be7e17726d2f6f86ae1ac39": {
+    "document_sha256": "2f6969d76625f0ef8cf6b2526cc7fedb361c56a0af055789418bee9d41df0709",
+    "paper_id": "P019",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/7",
+        "page": 1,
+        "start": 0,
+        "end": 526
+      }
+    ]
+  },
+  "5cf091d56bc84240ec2a34eb85a396ade994bb897907c991427bdc966eb36660": {
+    "document_sha256": "0a5355ec5a56c00c5b596f184bd89b1c0506ce2500bdcef24b9924e4b1c27b4f",
+    "paper_id": "P028",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/5",
+        "page": 1,
+        "start": 0,
+        "end": 648
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/1",
+        "page": 1,
+        "start": 0,
+        "end": 105
+      }
+    ]
+  },
+  "bcb486f728a70e99a33450c8d6b463a0e5f9b271a63b8de4891629ca755068f8": {
+    "document_sha256": "83e81d0b58d6b1d875a5fd36034ca70a41a365984c9b3c6b9054f445183028b5",
+    "paper_id": "P040",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Excluded the trailing JEL classification.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/6",
+        "page": 1,
+        "start": 0,
+        "end": 691
+      }
+    ]
+  },
+  "41044b481be1200f9b56902696ffbae4ec27f8d004ab00fc1ea3781efa330e74": {
+    "document_sha256": "ce2307c290cdc298eb7232b74dfec2d59706cfa047f8450aca67c1cabff6b13a",
+    "paper_id": "P064",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/1/Text/2",
+        "page": 2,
+        "start": 0,
+        "end": 816
+      }
+    ]
+  },
+  "8f11ebd6399fc24ccf06c8e7a32d80e55c87c50889521cc00e8833476ded9723": {
+    "document_sha256": "1a57a4dc7b0947c67a0c9ff78f4687066af3c2daf4616a4bcf66196e782d7467",
+    "paper_id": "P073",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Excluded the trailing JEL classification.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/13",
+        "page": 1,
+        "start": 0,
+        "end": 626
+      }
+    ]
+  },
+  "b21d849563bcc6fa2036e7a66c3d3f2442558aee82b5d175442bcf3a570e5eaa": {
+    "document_sha256": "7ab9cda8efcf6f7c09bb3d3ca2b0a568ec8da2a49fe30a4af35bb07da349318e",
+    "paper_id": "P075",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Excluded the trailing JEL classification. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/1/Text/9",
+        "page": 2,
+        "start": 0,
+        "end": 618
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/1/SectionHeader/2",
+        "page": 2,
+        "start": 0,
+        "end": 22
+      }
+    ]
+  },
+  "25b16fd1279af99245457161e5ad4425d607979d0322f1e36401f4bffa89665f": {
+    "document_sha256": "bc97afac16c023700966ea1ea3da1fe0044ac6a73a610e33c8cd2ed2c33c8fbe",
+    "paper_id": "P086",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/8",
+        "page": 1,
+        "start": 0,
+        "end": 637
+      }
+    ]
+  },
+  "b42079a137dd604115a96ac06e154652256e695b3884ae016e86018a5b5df061": {
+    "document_sha256": "6b3acaa8f664b2a291b66044e69335fdcaabc5bca9a149bfeb9fea6e1bd55bfd",
+    "paper_id": "P087",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Excluded the trailing JEL classification.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/2",
+        "page": 1,
+        "start": 0,
+        "end": 607
+      }
+    ]
+  },
+  "10493dde56a2cd7b4524d6673f49200f4ebe6fc8c85c2c2e6f07024be66ef7e7": {
+    "document_sha256": "40de7f63ea1bb85e52702b77c95959b078c8dadbe82f1de2b83d6a20eb0cb30a",
+    "paper_id": "P096",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Excluded the trailing JEL classification.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/14",
+        "page": 1,
+        "start": 0,
+        "end": 728
+      }
+    ]
+  },
+  "2110ff3cc1245d5c9dbf981e7f2d13627b46319568baa71e8270e42a138ff206": {
+    "document_sha256": "8c0d7baf14e1672e2d6e1d7c3b7c7082f9034798b03dc122d19d874ae0f8dc68",
+    "paper_id": "P115",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/6",
+        "page": 1,
+        "start": 0,
+        "end": 779
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/1",
+        "page": 1,
+        "start": 0,
+        "end": 78
+      },
+      {
+        "block_id": "/page/0/Text/2",
+        "page": 1,
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  "3b3e83e33e6549d8876932164373fffc5b945fc176103de6e8f5fbe0a3720de4": {
+    "document_sha256": "df4fba1b4517729492a9514ac702631dfa20b9bbd40038265db711213c60bdb6",
+    "paper_id": "P124",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Excluded the trailing JEL classification.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/9",
+        "page": 1,
+        "start": 0,
+        "end": 757
+      }
+    ]
+  },
+  "4ad4448933a6169004725cb67481e2b1fcbfe9cf5f010339ba09a96418af3673": {
+    "document_sha256": "34603ac9e9d372a1ca514d1fff900436dd6653f4074aa6dd7512b3d16dc4aece",
+    "paper_id": "P145",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/15",
+        "page": 1,
+        "start": 0,
+        "end": 912
+      }
+    ]
+  },
+  "dc5db6eb742733f4ad0f254d1255433b574be58830994501ecf8fd60dcfd7110": {
+    "document_sha256": "34de67d7ede9987ce5e328d0ad7c170fb6f3be813d952441b8f0bc157c9a8313",
+    "paper_id": "P166",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Excluded the trailing JEL classification.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/10",
+        "page": 1,
+        "start": 0,
+        "end": 562
+      }
+    ]
+  },
+  "8c4bf87280336421b235153d4425253c697727aac5937afdd1fc3b6da532347a": {
+    "document_sha256": "2e3913e4772b305585937f4d734f0e6b20706221ffe5b8357142ad2dc8ae7243",
+    "paper_id": "P170",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/3",
+        "page": 1,
+        "start": 0,
+        "end": 715
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/1",
+        "page": 1,
+        "start": 0,
+        "end": 83
+      }
+    ]
+  },
+  "67601d34d163c43f9c5df70ab195325c8e6fbce49299cdd32b4e3c718b2c0eed": {
+    "document_sha256": "1822097e2ebc7a8b68990a8c621f950eea3e423cafc8b78657f0b67062203fa2",
+    "paper_id": "P177",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/1/Text/2",
+        "page": 2,
+        "start": 0,
+        "end": 1124
+      }
+    ]
+  },
+  "1b2a3b1e3f0681d099d7d768769b59126fe2f4920d33e65a239230956ad4ab4f": {
+    "document_sha256": "bed1e550085ca40298a70c2acf3784b966f73add05c447cf56aa04ba78c829f5",
+    "paper_id": "P182",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/8",
+        "page": 1,
+        "start": 0,
+        "end": 675
+      }
+    ]
+  },
+  "4e22931ea66d0d335a72fae7cc54e49d0688f335fdbf3253209862101627acbd": {
+    "document_sha256": "3b29d7a524dda975c73db64f17261ba04c574106915426bf1301c7e48013d2ae",
+    "paper_id": "P191",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/5",
+        "page": 1,
+        "start": 0,
+        "end": 697
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/2",
+        "page": 1,
+        "start": 0,
+        "end": 32
+      }
+    ]
+  },
+  "78fe35dd3d04023742f5c68c11e759bab9fbe90e119cfa8d07f12983c119035f": {
+    "document_sha256": "cef01ec422477ff3e62dfc17c0f79565ddbee40d716c314a5199eabf887d0245",
+    "paper_id": "P195",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 562
+      }
+    ]
+  },
+  "ab24ef970d91164a854daa56fb9dccae93dcbe480f3a42256621cb509cf556e8": {
+    "document_sha256": "404a676574b322bb7d98941b964b264ca3a0e52ea419631e2a92e727b5359c3d",
+    "paper_id": "P224",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. The PDF title extraction is missing or damaged; use the already reviewed version title in reviewed/nodes.csv. This title repair does not supply an abstract.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/5",
+        "page": 1,
+        "start": 0,
+        "end": 710
+      }
+    ],
+    "use_reviewed_version_title": true
+  },
+  "78ed0afcfd07724f26d3b249e20d97558e24c552d1137c441a77b049f1176de3": {
+    "document_sha256": "0efde842d3d69944e1dc016a5238576b73c5ebce953e56d76068eb8283de3eaf",
+    "paper_id": "P225",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/6",
+        "page": 1,
+        "start": 0,
+        "end": 624
+      }
+    ]
+  },
+  "b5b70007206ee1e393ef293dba92a3adec9cfd2e31dae6fb50707e95ce3c24bd": {
+    "document_sha256": "72aed60d3513be2e3f49a0205306b46f50ca08422d0e37c6bd51af1c28708d8c",
+    "paper_id": "P228",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/3",
+        "page": 1,
+        "start": 0,
+        "end": 673
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/1",
+        "page": 1,
+        "start": 0,
+        "end": 69
+      }
+    ]
+  },
+  "8f2dff4d030cee4472c161b26996a603e68f89f8c46cfb4945c63749bd091da9": {
+    "document_sha256": "efb98a08e2c9448584cdead9562c356f108f77c13f0eed4ca3071a557051ef82",
+    "paper_id": "P237",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/8",
+        "page": 1,
+        "start": 0,
+        "end": 674
+      }
+    ]
+  },
+  "ced50b46fcb727a286e8c79c01f6dd24e0a8a1b42c98058ac8568c890c947856": {
+    "document_sha256": "6fc3d2a75fe992ff90d857d566ec6a8236680344505bcd6682f519abc2cf7b7d",
+    "paper_id": "P245",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/10",
+        "page": 1,
+        "start": 0,
+        "end": 657
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/1",
+        "page": 1,
+        "start": 0,
+        "end": 31
+      },
+      {
+        "block_id": "/page/0/SectionHeader/2",
+        "page": 1,
+        "start": 0,
+        "end": 55
+      }
+    ]
+  },
+  "524b3ba2a30227761db97e109292410f4272f1f80308b71d9514b67e7937640d": {
+    "document_sha256": "df6ede362fac12d58c35d1231ec1aa0ad2cac02502579f4d9e14d4ac13ac4a4a",
+    "paper_id": "P254",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/7",
+        "page": 1,
+        "start": 0,
+        "end": 659
+      }
+    ]
+  },
+  "6a6bcc44a85103e61eda8057ed0eb70131d828874fa1395523a5c53cb86c252a": {
+    "document_sha256": "a65fac3638d560213252ec8053a66d70d3b2b2bc0a1011a27c81a792d0cb1e4a",
+    "paper_id": "P257",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/2/Text/1",
+        "page": 3,
+        "start": 0,
+        "end": 705
+      }
+    ]
+  },
+  "5caf7b294d4bfac2d1cce5db78c21a41e0c87fffe672a822bf7841a2a0fc035b": {
+    "document_sha256": "91784782ee0a3628f009a96a144a6a2ff14df1e8087459845de280a7aa9f1edb",
+    "paper_id": "P260",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. The PDF title extraction is missing or damaged; use the already reviewed version title in reviewed/nodes.csv. This title repair does not supply an abstract.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/5",
+        "page": 1,
+        "start": 0,
+        "end": 721
+      }
+    ],
+    "use_reviewed_version_title": true
+  },
+  "058110c99f0f9251ce686781753b508d37185f62c089725dd8f000ec24e92a9d": {
+    "document_sha256": "7c7577f5f1b382ebc27fd11142639f1caf7be9916fe1054f3e39f20347ebb04c",
+    "paper_id": "P265",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Excluded the trailing JEL classification.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/7",
+        "page": 1,
+        "start": 0,
+        "end": 740
+      }
+    ]
+  },
+  "4622cc4051ede1b6af07f5ecbfb4e28eea41a1aab1aed73879fd8ff5f949021d": {
+    "document_sha256": "b23be6e474e55322ea141c46ce214f69c13af94623489bb915940011bd239081",
+    "paper_id": "P281",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/5",
+        "page": 1,
+        "start": 0,
+        "end": 718
+      }
+    ]
+  },
+  "0587332edfc846bc0159ff82476677c305512fa37f27b672597bd6615228b68a": {
+    "document_sha256": "5e5b660cc760d666df07332021a19f32d855695f7836309622766ea73ce03196",
+    "paper_id": "P285",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/3",
+        "page": 1,
+        "start": 0,
+        "end": 1043
+      }
+    ]
+  },
+  "322c1baf0f7d200de2f9cf8dbafb13a4fb58f4d328741efad52bb4b7da825dba": {
+    "document_sha256": "f1ebb50b81171f550dcd978a2b2da77f9a5f27a509df66c5bda98c234afa9c0b",
+    "paper_id": "P300",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/7",
+        "page": 1,
+        "start": 0,
+        "end": 687
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/1",
+        "page": 1,
+        "start": 0,
+        "end": 45
+      },
+      {
+        "block_id": "/page/0/SectionHeader/2",
+        "page": 1,
+        "start": 0,
+        "end": 30
+      }
+    ]
+  },
+  "ea41a971405e6714db3c0f428d4175fb8c5f4976d586fc18b55487329b99c782": {
+    "document_sha256": "277abd2cb377bcc77e4179129182a9ae15593ec2de33d00055e3865d0a5b4713",
+    "paper_id": "P309",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/5",
+        "page": 1,
+        "start": 0,
+        "end": 608
+      }
+    ]
+  },
+  "31a96f9af497b290b3886360a353c539f039d01a691b211f9570ecfbb630d63d": {
+    "document_sha256": "7790b33afcf965ffdde21bfba9a9a76215fbf8dddaa4ce2cf801080f2dbe845d",
+    "paper_id": "P310",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/5",
+        "page": 1,
+        "start": 0,
+        "end": 667
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/2",
+        "page": 1,
+        "start": 0,
+        "end": 40
+      }
+    ]
+  },
+  "973a16e0c66c7d42380f3d2bda306b129c25a5c748f86ca2839f26dce876e01d": {
+    "document_sha256": "407dfcce06d3e15a73d2c94309f1e10492e7c4afc4325ec154c3a7c1164470ca",
+    "paper_id": "P311",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/8",
+        "page": 1,
+        "start": 0,
+        "end": 582
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/5",
+        "page": 1,
+        "start": 0,
+        "end": 47
+      }
+    ]
+  },
+  "c61a8c87b4e4c926fcd5205556d0a0db8f9f051440585835d834fdb6a3525096": {
+    "document_sha256": "9fea472e59840c793099ecaf5bb956487468a95849f6e8303de50a5fbb400665",
+    "paper_id": "P314",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only. Excluded the trailing JEL classification.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 691
+      }
+    ]
+  },
+  "c602e64ec46fdce5a09ab2776cc8a157c47a860fea78cd3a9306d3c779300392": {
+    "document_sha256": "38b915c8737a7f00a9c373bee6305a96523820ef34cdc45009c96d36f1c63b3b",
+    "paper_id": "P315",
+    "reason": "Reviewed the unlabelled summary and surrounding PDF blocks: this is the article abstract preceding its main text. Selected the exact abstract paragraph only.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/2",
+        "page": 1,
+        "start": 0,
+        "end": 747
+      }
+    ]
+  },
+  "b87701a573df443374b263f59e2706fb6b0fb7c9286c6c832b3d8d59d33f0ae1": {
+    "document_sha256": "df6d12eaf976595e61107ab09cc4b7c74792ec67d7e904058412d0e5f704853e",
+    "paper_id": "P001",
+    "reason": "Abstract continues from page 1 to page 2 across affiliations and a publisher notice. Joined only its two prose blocks, stopping before JEL codes and keywords.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/8",
+        "page": 1,
+        "start": 0,
+        "end": 151
+      },
+      {
+        "block_id": "/page/1/Text/2",
+        "page": 2,
+        "start": 0,
+        "end": 711
+      }
+    ]
+  },
+  "09acb39e45f5d3d803f4842b77364ff5d3a5ddc57989e28a00842a5bee6ae240": {
+    "document_sha256": "b62fa5d54555377c9c5f45000845ac818cfdef5af90323b7a0541c662cd71e09",
+    "paper_id": "P061",
+    "reason": "Complete structured JAMA abstract, including conclusions on page 2. Excluded sidebar Key Points, author information, citation and the main text.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/8",
+        "page": 1,
+        "start": 0,
+        "end": 140
+      },
+      {
+        "block_id": "/page/0/Text/9",
+        "page": 1,
+        "start": 0,
+        "end": 142
+      },
+      {
+        "block_id": "/page/0/Text/11",
+        "page": 1,
+        "start": 0,
+        "end": 542
+      },
+      {
+        "block_id": "/page/0/Text/12",
+        "page": 1,
+        "start": 0,
+        "end": 80
+      },
+      {
+        "block_id": "/page/0/Text/13",
+        "page": 1,
+        "start": 0,
+        "end": 432
+      },
+      {
+        "block_id": "/page/0/Text/15",
+        "page": 1,
+        "start": 0,
+        "end": 1388
+      },
+      {
+        "block_id": "/page/1/Text/3",
+        "page": 2,
+        "start": 0,
+        "end": 251
+      }
+    ]
+  },
+  "bb793909914da7350d74ccde8c739b40c7d853553ed8d0d60059cc761abb5b08": {
+    "document_sha256": "f47fb56df4ea4611248dd8581e510bca8bcbd8fdbf1291c0aae1c27fc55f1ed4",
+    "paper_id": "P082",
+    "reason": "Complete structured JAMA abstract. Results continue on page 2, followed by conclusions. Excluded the separate Key Points sidebar and Abstract (continued) header.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/8",
+        "page": 1,
+        "start": 0,
+        "end": 188
+      },
+      {
+        "block_id": "/page/0/Text/9",
+        "page": 1,
+        "start": 0,
+        "end": 195
+      },
+      {
+        "block_id": "/page/0/Text/10",
+        "page": 1,
+        "start": 0,
+        "end": 1186
+      },
+      {
+        "block_id": "/page/0/Text/12",
+        "page": 1,
+        "start": 0,
+        "end": 47
+      },
+      {
+        "block_id": "/page/0/Text/13",
+        "page": 1,
+        "start": 0,
+        "end": 204
+      },
+      {
+        "block_id": "/page/0/Text/15",
+        "page": 1,
+        "start": 0,
+        "end": 1144
+      },
+      {
+        "block_id": "/page/1/Text/4",
+        "page": 2,
+        "start": 0,
+        "end": 524
+      },
+      {
+        "block_id": "/page/1/Text/5",
+        "page": 2,
+        "start": 0,
+        "end": 307
+      }
+    ]
+  },
+  "3e68c21c19e6a7cf55cd697436b02f1a1f2622cb6c6db71a4b55eb54895c712a": {
+    "document_sha256": "1231f8f9991ea8f60fcbcbd36f4e0d3f22441979fd9d80ffeede4f08df750e6d",
+    "paper_id": "P090",
+    "reason": "Unlabelled summary immediately under the article title and authors, continuing onto page 3 before the table of contents. Excluded intervening footnotes and the subsequent introduction.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/1/Text/3",
+        "page": 2,
+        "start": 0,
+        "end": 504
+      },
+      {
+        "block_id": "/page/1/Text/4",
+        "page": 2,
+        "start": 0,
+        "end": 1319
+      },
+      {
+        "block_id": "/page/1/Text/5",
+        "page": 2,
+        "start": 0,
+        "end": 293
+      },
+      {
+        "block_id": "/page/2/Text/2",
+        "page": 3,
+        "start": 0,
+        "end": 118
+      }
+    ]
+  },
+  "0ec0bc9fa2ecdde5743b77d5499b490ddec3f2e0c7a33fd6aaa5394a3da83167": {
+    "document_sha256": "79ccfa55334307ecc3bfc156ff0fc52e47a68125a4b0246116d85d0dc4f8f2ea",
+    "paper_id": "P288",
+    "reason": "The early Abstract entry is a table of contents item. Selected the actual abstract paragraph on PDF page 5, ending before Keywords and JEL codes; excluded the subsequent non-technical summary. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/4/Text/1",
+        "page": 5,
+        "start": 0,
+        "end": 673
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/Text/6",
+        "page": 1,
+        "start": 0,
+        "end": 48
+      },
+      {
+        "block_id": "/page/0/Text/7",
+        "page": 1,
+        "start": 0,
+        "end": 35
+      }
+    ]
+  },
+  "5e263f515b95b4705cdab9ff6e21dc4e7b86f700d24abcfaf0d12c4216711eb1": {
+    "document_sha256": "03fda765b8666075c5ec1830ce90834431cc303864d204f89078fbca695dd624",
+    "paper_id": "P312",
+    "reason": "Abstract shares a block with an Available online date. Selected the prose beginning In this study and excluded the publication date and following copyright notice.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/12",
+        "page": 1,
+        "start": 33,
+        "end": 855
+      }
+    ]
+  },
+  "0039a9be156781f1a78fb649848f85ef41a840cc56308439e3694a781747b47c": {
+    "document_sha256": "0b4460f8bc2c3abf9a820bdca7756bedbb0e81d99f44879ea2aca67e2b1a0aca",
+    "paper_id": "P007",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/16",
+        "page": 1,
+        "start": 0,
+        "end": 682
+      }
+    ]
+  },
+  "81ad0757eff545e59d05d95f0ae47d2fdd56a2e08906e66dc679adc45e9f779a": {
+    "document_sha256": "e3367a07d04958cdab0c90cb4ad8bd724be547e0187046a5b85155c88b49c137",
+    "paper_id": "P008",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/2/Text/2",
+        "page": 3,
+        "start": 0,
+        "end": 690
+      }
+    ]
+  },
+  "7c384e8c83b717df2ec9584862eeef02d71579b4a29a5b349a34a4d902017a35": {
+    "document_sha256": "65cbe133da17c9479e5f81c7ee772d589a99f1f5ac3bbadc42a42cdf023f8ec5",
+    "paper_id": "P009",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/3",
+        "page": 1,
+        "start": 0,
+        "end": 661
+      }
+    ]
+  },
+  "7b5e1546a2419438cc557f16aee95277c4023f0654d0e480e1231404f0a58fbe": {
+    "document_sha256": "0b28eadb4785d30627b47480618b50ca0ddb2da249edb3e02b847a3f8b691078",
+    "paper_id": "P016",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/7",
+        "page": 1,
+        "start": 0,
+        "end": 753
+      },
+      {
+        "block_id": "/page/1/Text/0",
+        "page": 2,
+        "start": 0,
+        "end": 327
+      }
+    ]
+  },
+  "c429d89acee11eedee42706a0b5c29f7e246051ec25fef8a862585e0135c4972": {
+    "document_sha256": "49e985aa760cf98a6d99ecad6a02976df4ec01871e45627da26fce5d9dae3fdd",
+    "paper_id": "P032",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 803
+      }
+    ]
+  },
+  "04d33315f96d219aeb0e2794b500e5776a78d88d3ca798b450b5f2aadde5bbb3": {
+    "document_sha256": "0fe39af8a5276ffaa8afb5ba903164540f2f431d316984e4201c8f6f7b4925c9",
+    "paper_id": "P035",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Excluded the publisher/preprint notice.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/10",
+        "page": 1,
+        "start": 0,
+        "end": 572
+      }
+    ]
+  },
+  "880980b20605b95bc760f47a6a487078d5e89e264c4c3b4e802642f50fd9ed27": {
+    "document_sha256": "4c48fdbc0a8082da966bf54f8e898764df63a743879c8b0aae0c5fd7a3b5b8be",
+    "paper_id": "P036",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/15",
+        "page": 1,
+        "start": 0,
+        "end": 678
+      }
+    ]
+  },
+  "d7fd08574f26c72d9b606caa6118da338896eaf29f8e86898c79b660ea5321cd": {
+    "document_sha256": "0671cfb750c62735a4a8b18cd33d337af79751226c0db632fddc8292595f1f96",
+    "paper_id": "P044",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/1/Text/2",
+        "page": 2,
+        "start": 0,
+        "end": 755
+      }
+    ]
+  },
+  "40efdc98e3f66a3361e4ff3f9e4309f74a430566d8de7164eb1e15c9621890da": {
+    "document_sha256": "380b0243f3e46542300887db88b0a804a30758d7baa6fb0d4a599ff1348b32ba",
+    "paper_id": "P050",
+    "reason": "Selected the entire structured abstract through Conclusions and registration. The original candidate stopped at Main outcome measures and omitted results and conclusions.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/SectionHeader/7",
+        "page": 1,
+        "start": 0,
+        "end": 9
+      },
+      {
+        "block_id": "/page/0/Text/8",
+        "page": 1,
+        "start": 0,
+        "end": 102
+      },
+      {
+        "block_id": "/page/0/SectionHeader/10",
+        "page": 1,
+        "start": 0,
+        "end": 6
+      },
+      {
+        "block_id": "/page/0/Text/11",
+        "page": 1,
+        "start": 0,
+        "end": 18
+      },
+      {
+        "block_id": "/page/0/SectionHeader/13",
+        "page": 1,
+        "start": 0,
+        "end": 12
+      },
+      {
+        "block_id": "/page/0/Text/14",
+        "page": 1,
+        "start": 0,
+        "end": 49
+      },
+      {
+        "block_id": "/page/0/SectionHeader/15",
+        "page": 1,
+        "start": 0,
+        "end": 40
+      },
+      {
+        "block_id": "/page/0/Text/16",
+        "page": 1,
+        "start": 0,
+        "end": 86
+      },
+      {
+        "block_id": "/page/0/SectionHeader/18",
+        "page": 1,
+        "start": 0,
+        "end": 21
+      },
+      {
+        "block_id": "/page/0/Text/19",
+        "page": 1,
+        "start": 0,
+        "end": 234
+      },
+      {
+        "block_id": "/page/0/SectionHeader/24",
+        "page": 1,
+        "start": 0,
+        "end": 14
+      },
+      {
+        "block_id": "/page/0/Text/25",
+        "page": 1,
+        "start": 0,
+        "end": 296
+      },
+      {
+        "block_id": "/page/0/SectionHeader/31",
+        "page": 1,
+        "start": 0,
+        "end": 7
+      },
+      {
+        "block_id": "/page/0/Text/33",
+        "page": 1,
+        "start": 0,
+        "end": 614
+      },
+      {
+        "block_id": "/page/0/Text/5",
+        "page": 1,
+        "start": 0,
+        "end": 703
+      },
+      {
+        "block_id": "/page/0/SectionHeader/20",
+        "page": 1,
+        "start": 0,
+        "end": 12
+      },
+      {
+        "block_id": "/page/0/Text/22",
+        "page": 1,
+        "start": 0,
+        "end": 334
+      },
+      {
+        "block_id": "/page/0/Text/28",
+        "page": 1,
+        "start": 0,
+        "end": 55
+      }
+    ]
+  },
+  "ce44f269b7dcdc531ab5f05d44f53ddf5a97a403837436351c615555b38fbbcc": {
+    "document_sha256": "061c454bff8e949d09693d0d65eaf9463acd1296cd7b67214cb0b0bb865f2c07",
+    "paper_id": "P054",
+    "reason": "Joined the two abstract blocks across the page break. Excluded intervening author affiliations and copyright; ended before JEL codes.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/8",
+        "page": 1,
+        "start": 0,
+        "end": 600
+      },
+      {
+        "block_id": "/page/1/Text/2",
+        "page": 2,
+        "start": 0,
+        "end": 95
+      }
+    ]
+  },
+  "6ed32db2d02971d8eee194ca5d97860f233297d67c4abae27e3c4b6086a6749d": {
+    "document_sha256": "9a8fcbbd5c4bf8a2297243860739bf43321c152681cb31109b282b5566ee38d6",
+    "paper_id": "P058",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/10",
+        "page": 1,
+        "start": 0,
+        "end": 983
+      }
+    ]
+  },
+  "6297d182af57c38726b874eef8568deceefa324a604b37458f321b0083d429fc": {
+    "document_sha256": "be4bb81fae4151e9f47328b04f7d01fe52fa559f0add4f2adfe83f9c9dae8067",
+    "paper_id": "P067",
+    "reason": "Selected the complete abstract paragraph and excluded the separate version date. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 1317
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/1/SectionHeader/0",
+        "page": 2,
+        "start": 0,
+        "end": 73
+      }
+    ]
+  },
+  "341cd800c9544acbd3eb5e5270d643ddae9aa5b57aa872e4cd9401a306b6f448": {
+    "document_sha256": "3effac53fc2809be23cdd0c574646c286f2bbb13e5f1e7bccfc8e278b0bcdcde",
+    "paper_id": "P084",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Excluded the publisher/preprint notice.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/11",
+        "page": 1,
+        "start": 0,
+        "end": 967
+      }
+    ]
+  },
+  "5048e16239c39b0be5f05d17fcd349337f0748d4666001cd0e2e0d3c3afef89b": {
+    "document_sha256": "88ddbf4df0c556ad429867fb4adf0cfb55e5a7b37b2d37db6a8d3cf6148e82a0",
+    "paper_id": "P100",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 759
+      }
+    ]
+  },
+  "ae1547913d560d4937cd0914264643868b5be89275b13a535b20f561b8a63183": {
+    "document_sha256": "cdd3a9ad3af53faf2f1bfa3fe745fba510441d12dfb9a6af879d5917a51d8fdc",
+    "paper_id": "P103",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/SectionHeader/5",
+        "page": 1,
+        "start": 0,
+        "end": 26
+      },
+      {
+        "block_id": "/page/0/Text/6",
+        "page": 1,
+        "start": 0,
+        "end": 324
+      },
+      {
+        "block_id": "/page/0/Text/7",
+        "page": 1,
+        "start": 0,
+        "end": 430
+      },
+      {
+        "block_id": "/page/0/Text/8",
+        "page": 1,
+        "start": 0,
+        "end": 583
+      },
+      {
+        "block_id": "/page/0/Text/9",
+        "page": 1,
+        "start": 0,
+        "end": 383
+      }
+    ]
+  },
+  "3f74a7fd0faf2cb11a02d8a2283acf52485f325e9d2cbc696896929c5f70c22d": {
+    "document_sha256": "f42f3e9d53b948edd5d65c68d81886f286b6e7af0b2be7cf3116e064f70bf2d3",
+    "paper_id": "P104",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Excluded the publisher/preprint notice.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/13",
+        "page": 1,
+        "start": 0,
+        "end": 873
+      }
+    ]
+  },
+  "f36a32771977dc14aef29be6b8c0e6318b7eaa37105e895defffc195aa1fedb5": {
+    "document_sha256": "30b2c6e351bb048d25d17b8fef3f85e6c22527a66c93643f2a8d31279a898959",
+    "paper_id": "P117",
+    "reason": "Selected only Abstract prose. Excluded History, Funding and Supplemental Material blocks before Keywords.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/7",
+        "page": 1,
+        "start": 10,
+        "end": 1274
+      }
+    ]
+  },
+  "4f215d99c13a9bb47c5786cfcee01d952a7ee76561784622025a76955087c276": {
+    "document_sha256": "8d9dae640aba28063f60af515dfe8d8aec32aebcac0196ae36afd730f3b188d7",
+    "paper_id": "P121",
+    "reason": "Selected the abstract paragraph. Excluded the following OCR-damaged Key words and JEL classification block. The PDF title extraction is missing or damaged; use the already reviewed version title in reviewed/nodes.csv. This title repair does not supply an abstract.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/10",
+        "page": 1,
+        "start": 0,
+        "end": 658
+      }
+    ],
+    "use_reviewed_version_title": true
+  },
+  "95755a3416c744f12bde1209c7921cceb2bb2cc12cce03a66617cffc145ce821": {
+    "document_sha256": "77ff1f522867abfaea04cf6f2a6fcf905d9ded9d9954b2f7f4002329fdd8d1c1",
+    "paper_id": "P127",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 753
+      }
+    ]
+  },
+  "c98e7915cc16b32e9fa717b08c2e5e09cd7fff7df36aae6d02a614a8665002fd": {
+    "document_sha256": "9191482e04e86a1fb8c3697e4ca4e2c4d7ee97199da262a1d7208d6b3548696b",
+    "paper_id": "P133",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/15",
+        "page": 1,
+        "start": 0,
+        "end": 580
+      }
+    ]
+  },
+  "fba65ff76bea4134ef0885c116943cae4583d19ae87a0e12296fbe9cdfcfe9ed": {
+    "document_sha256": "3d6438c3d9a53414a5917726b3d5dc6ba17daea9c2bee90b66599cbdf886c39e",
+    "paper_id": "P134",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Excluded the publisher/preprint notice.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/15",
+        "page": 1,
+        "start": 0,
+        "end": 594
+      }
+    ]
+  },
+  "a2c4e8e5ba53c5ea2781afd1fcd6a995bca3db69b004eb34d26975ba7788df83": {
+    "document_sha256": "247f5f2346403e194ad657d4ba282292c898cb5b05a0af83b4ffdbd01a87dddc",
+    "paper_id": "P136",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 1038
+      }
+    ]
+  },
+  "b1a04b5a76b1b0db92395d4e47b815318b0095b7bb77b7cc327b5ee1caaaad72": {
+    "document_sha256": "9f6ac64b6d667a3f535adf0519e0a4238fdb8f98c10c42137ce485fe8f07c8b3",
+    "paper_id": "P144",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 656
+      }
+    ]
+  },
+  "24a9ecc468f53a88bc97bbd258e2aca25812a3b139840148a8448ae1d7644dce": {
+    "document_sha256": "e227bc750052f609fcbdf044e287b9c11f9999408f8606dab16d784443ad7453",
+    "paper_id": "P151",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Excluded the publisher/preprint notice.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/7",
+        "page": 1,
+        "start": 0,
+        "end": 419
+      }
+    ]
+  },
+  "c8a9f9414bfa732eaeef9648ede24f0221630b16ab3a0d6ac5bc70d7054ec926": {
+    "document_sha256": "8c67b57bd58e08f62b8c7e1ac2d31580d7f9af6958b8d4e44aa6349e368337b1",
+    "paper_id": "P156",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/8",
+        "page": 1,
+        "start": 0,
+        "end": 704
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/4",
+        "page": 1,
+        "start": 0,
+        "end": 87
+      }
+    ]
+  },
+  "e07d47dd3fff19802de5546d3d9cf93104605d5ce53412b6037f3952e64e99b3": {
+    "document_sha256": "c99e74b1dfbad1d4d83c8533b6987cfe2b0ddcb56d130a881974d4fc70fddf4d",
+    "paper_id": "P162",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/5",
+        "page": 1,
+        "start": 0,
+        "end": 1572
+      }
+    ]
+  },
+  "593d994f08646e48b80792353accc37de46ebc985223513614a80149963b131c": {
+    "document_sha256": "dc33b14cdf41e28fe6df3abdefab9104a57d8b12485176bd8eaf033f198ba239",
+    "paper_id": "P163",
+    "reason": "Selected only the Abstract prose. Excluded History, open-access licence, funding and supplemental material. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/1/Text/10",
+        "page": 2,
+        "start": 10,
+        "end": 910
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/1/SectionHeader/2",
+        "page": 2,
+        "start": 0,
+        "end": 83
+      }
+    ]
+  },
+  "6d3ebe20153193c0891834751dcf4b8bfd3974e7f9f0750db7f11e44f5fc5069": {
+    "document_sha256": "38d7d9e3f2c88a2c5602da5d822150637c9fa124cbc67881b05c8b29574403c5",
+    "paper_id": "P164",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/18",
+        "page": 1,
+        "start": 0,
+        "end": 737
+      }
+    ]
+  },
+  "cb0f7e6dcb5c3621acfed52effc36ae4cbf7c020affb9bf975e1ea482588e9aa": {
+    "document_sha256": "54be750b4ba7b5fa319e040c4b358e87568f436c4164a7fd9f315fdd5ae5f974",
+    "paper_id": "P179",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Excluded the publisher/preprint notice. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/12",
+        "page": 1,
+        "start": 0,
+        "end": 663
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/6",
+        "page": 1,
+        "start": 0,
+        "end": 75
+      }
+    ]
+  },
+  "08f9611869a310a8aa1bba83393b0ced538f5c142ff0a3e47252776a939436af": {
+    "document_sha256": "41d2c5d2595deeef629e4cc4c01401743e302f84019088a879d3a88d3f50de8e",
+    "paper_id": "P187",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/3",
+        "page": 1,
+        "start": 0,
+        "end": 1158
+      }
+    ]
+  },
+  "9c828babf9fdb003789d04899b397757876dc15bb424fea62967aa45253e3a73": {
+    "document_sha256": "785e1ebc64cbcf7575cbf2757ac43923db5208a0685cb07f95181cb129dc47c6",
+    "paper_id": "P189",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 826
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/1/SectionHeader/0",
+        "page": 2,
+        "start": 0,
+        "end": 27
+      }
+    ]
+  },
+  "01df94e82c4b7cf1a5f6e2108bcf8ad5f5cc2fc1f7d575acf104a76dc26869e4": {
+    "document_sha256": "f81b7897cc38ec4b01ad199b2d19ed3e35b5c2c60891b987387390ae43d40907",
+    "paper_id": "P194",
+    "reason": "Selected the complete NBER abstract on page 2. Excluded author addresses and the unlabelled introduction beginning on page 3. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/1/Text/2",
+        "page": 2,
+        "start": 0,
+        "end": 643
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/1",
+        "page": 1,
+        "start": 0,
+        "end": 55
+      }
+    ]
+  },
+  "c20534251a055b4118ff951311419c2cf03b06dfa94191a0e8948351648f42ef": {
+    "document_sha256": "cf756e005d4af698ce45056a89d4b41e84a98073f9a0d905a4b1c9408559c3b6",
+    "paper_id": "P197",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Excluded the publisher/preprint notice.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/15",
+        "page": 1,
+        "start": 0,
+        "end": 680
+      }
+    ]
+  },
+  "e1492089e8ba5bb0cee09500f571303eb1038823959fd7c377e18d52474c1963": {
+    "document_sha256": "ae72e54eb605112e7856eac8f7eec0b6febbe82db690eed51b0b3a7eb77a75b6",
+    "paper_id": "P203",
+    "reason": "Selected only the abstract paragraph. Excluded the following OCR-damaged Key words and JEL classification blocks.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/10",
+        "page": 1,
+        "start": 0,
+        "end": 738
+      }
+    ]
+  },
+  "f841b594e2ebb52a36d4151e8efca5c3722908deb3608778684de8b0e44f998d": {
+    "document_sha256": "f76c73e168d94f8d5c6fb37b25ab07acb2beaf96976afcbfd2a039cda5341fe4",
+    "paper_id": "P205",
+    "reason": "Selected the complete NBER abstract on page 3. Excluded the subsequent author addresses and the introduction. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/2/Text/2",
+        "page": 3,
+        "start": 0,
+        "end": 1155
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/1/SectionHeader/1",
+        "page": 2,
+        "start": 0,
+        "end": 92
+      }
+    ]
+  },
+  "4cf9ccd4e03e0c633517c00f503e4cc3a899150c524a2ccb2faa82473bb7b91a": {
+    "document_sha256": "45878d4f585e8da70e28ac270a3755ecc979e6c38617a7b6c8e01b22615348e8",
+    "paper_id": "P210",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 676
+      }
+    ]
+  },
+  "2e1d09e815b5e01e2bb758d2cfe0bff0bbd2253241efff4ac0f0411dca7c8f07": {
+    "document_sha256": "3f5074267fe3d4f64058ff5f7e7b759021c1dce82376e3dcb9e8998809b3dae9",
+    "paper_id": "P220",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/1/Text/2",
+        "page": 2,
+        "start": 0,
+        "end": 863
+      }
+    ]
+  },
+  "74311df5cea185c647be51c86ee4eaebe1fc98947c4f7fb60dab23b7a2a943be": {
+    "document_sha256": "6089aa47aa284e3e30c1c59ddd89d78663b343e3f5cdde12450e31f4f07b44f8",
+    "paper_id": "P232",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/15",
+        "page": 1,
+        "start": 0,
+        "end": 1292
+      }
+    ]
+  },
+  "e002913268024f99119fba6a8aa361048b289017314a21b13542cc7e01cbce12": {
+    "document_sha256": "5c187f30eeb3d5c42d48926ade249b4c9bbf5c0888976e05eebd97c27e94f216",
+    "paper_id": "P240",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/3",
+        "page": 1,
+        "start": 10,
+        "end": 715
+      }
+    ],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/0",
+        "page": 1,
+        "start": 0,
+        "end": 54
+      }
+    ]
+  },
+  "243d2bbc044353cce75c20de7a40a110abec4f0eca859cc66aea75c20cec904d": {
+    "document_sha256": "827a20f101d25a2b44f8a5e6a14f196255cff66d38bf1e70806760242414ab09",
+    "paper_id": "P252",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Excluded the publisher/preprint notice.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/13",
+        "page": 1,
+        "start": 0,
+        "end": 1006
+      }
+    ]
+  },
+  "76af053645a2c745cfa0931782c06bbe5f93866e88645525dad057f1871fbdcf": {
+    "document_sha256": "c1a8046cab94adf78ab647edb4b7be7791e54fcb82420ca9e37f110163ab21dd",
+    "paper_id": "P256",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/5",
+        "page": 1,
+        "start": 0,
+        "end": 711
+      }
+    ]
+  },
+  "ef94acc48c12109d985d1120c793cd4b6e8289aa9dc0447413b441d2e790db18": {
+    "document_sha256": "52ff4023a5ad18f4457e3ec0b9f473e522064114913820838d0bced0dfc70d15",
+    "paper_id": "P272",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/15",
+        "page": 1,
+        "start": 0,
+        "end": 899
+      }
+    ]
+  },
+  "44e9590f4d2e7311a73228e2d99be9466f1a211e447bf8f6fe36d4ebc3600253": {
+    "document_sha256": "9eef4bf158f7c3da9494a9a7fdee7c84b48b51a8931369f5d8dce732a75a845a",
+    "paper_id": "P282",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/9",
+        "page": 1,
+        "start": 0,
+        "end": 682
+      }
+    ]
+  },
+  "f9591a97427c3a198270b2fc4e7e9ae1b479f50b9b06777e58bf5cb15da75936": {
+    "document_sha256": "d632bff0bffeb9536bc908590ea1d682c1db9a3411ccc63ce26a2b616a11fe88",
+    "paper_id": "P283",
+    "reason": "Selected only the abstract paragraph. Excluded the following OCR-damaged Key words and JEL classification blocks.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/9",
+        "page": 1,
+        "start": 0,
+        "end": 571
+      }
+    ]
+  },
+  "e244883ecdada5a22e9ec397ce74a07ec1948d7a64bc4713e6afb59346f52f7c": {
+    "document_sha256": "4ea9fa2048b314f6e90cb6a82d8041342e260023a329404fac11fa4edb745394",
+    "paper_id": "P291",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used. Excluded the publisher/preprint notice.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 762
+      }
+    ]
+  },
+  "12dc358351c92e8d712988e9a50f76f99cec978d53f77c3a575fb9de77ee228e": {
+    "document_sha256": "1d20a9efee1540b93d35423fd90e354f9e45b581c23d53c3572c7c1e81e643fd",
+    "paper_id": "P294",
+    "reason": "Reviewed the explicit abstract and its boundaries in the cached PDF extraction. Selected exact abstract text; no introduction or generated summary is used.",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/4",
+        "page": 1,
+        "start": 0,
+        "end": 656
+      }
+    ]
+  },
+  "ff6517660be391254a8e60874e89ad36447e538081b3d91f025f116543fad6f0": {
+    "document_sha256": "b891181358475c59a9f5ae99a4479da96f02f79552c855f2631d95c76ccd2c6b",
+    "paper_id": "P047",
+    "reason": "AER proceedings article: the PDF begins with narrative background and proceeds into I. Measuring Management; there is no separate abstract.",
+    "action": "no_abstract",
+    "spans": []
+  },
+  "56356f99b3116f5a144af0d959a2ab26f0034a53c894bed29042e9d652b2a907": {
+    "document_sha256": "877776674941787619ffa810f3debd18d174bcd7a7e8d2f182061a8fcf5787dd",
+    "paper_id": "P066",
+    "reason": "Viewpoint: title is followed by the article narrative and interview-based discussion. No separate abstract is present.",
+    "action": "no_abstract",
+    "spans": []
+  },
+  "3aa427caacc1e6d13f07f7fe7695d337c78717a9f89c09775091de8ea9405bfc": {
+    "document_sha256": "065c3389aa4d94c72984ee6d6a5b27a651fbd85634327e7ea80995f700c135a5",
+    "paper_id": "P070",
+    "reason": "Research letter: the PDF begins with the end of another article. The selected article begins at Expansion of Private Equity Involvement in Women's Health Care and proceeds directly from background into Methods. No separate abstract is present; the preceding article is not an abstract.",
+    "action": "no_abstract",
+    "spans": []
+  },
+  "810885f2a60ae5d4999da1967e18df84638a3582158299e898d03a31afeac7f7": {
+    "document_sha256": "1a64db31dd6de6451e3d8a70307d53051e24a5f814e3995bed62b3a50a01f5d1",
+    "paper_id": "P159",
+    "reason": "Review Symposium/book review: keywords and reviewer details are followed by a narrative book review. No separate abstract is present.",
+    "action": "no_abstract",
+    "spans": []
+  },
+  "d76c2ff836cfed6b9c8d92f0e09671abf262a722f64237bf60bb05001e5cf2f4": {
+    "document_sha256": "27e31abcf7bc264612b1359671d79065d0191a3ed40ceafef7849d26024a695e",
+    "paper_id": "P168",
+    "reason": "Practice Management article: introductory narrative is followed by The Need for Scale and Sophistication in Practice Management. No separate abstract is present. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "no_abstract",
+    "spans": [],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/2",
+        "page": 1,
+        "start": 0,
+        "end": 76
+      }
+    ]
+  },
+  "85e6325abcae3003ca8c4d4ebd3b5629d0f6a86c3006cfe4ef49ec9fe804578a": {
+    "document_sha256": "074fad344f4b7f82840fd58a96ddcb9ab7e44637ce0adf84d846d6708d84fbf8",
+    "paper_id": "P169",
+    "reason": "Practice Management follow-up article: introductory narrative is followed by Gastroenterology Practice Consolidation Accelerates. No separate abstract is present. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "no_abstract",
+    "spans": [],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/2",
+        "page": 1,
+        "start": 0,
+        "end": 94
+      }
+    ]
+  },
+  "99894c01b6cf4cd54b07729f549a2ef0b24832276fdaccbee8edef83f762ed96": {
+    "document_sha256": "fbc80df87ced25b9ff1abe482ed462fe6154a539da4a05e3e7e0dc4d998b6a95",
+    "paper_id": "P180",
+    "reason": "Viewpoint: introductory narrative proceeds into What Is Private Equity? and the subsequent discussion. No separate abstract is present.",
+    "action": "no_abstract",
+    "spans": []
+  },
+  "1bca26d253979edf7877292340be47e6cb50dd3c2c6f649cacd02f3d578a5d01": {
+    "document_sha256": "de404655c3cffc519b9f2fc9bfd6266f3af4c4d86ddb7a089456e47f80ada977",
+    "paper_id": "P204",
+    "reason": "The cached PDF is an erratum, containing a correction notice and a quoted passage to eliminate, not a separate abstract. The original selection is preserved, but this correction is not embedded as an abstract. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "no_abstract",
+    "spans": [],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/5",
+        "page": 1,
+        "start": 0,
+        "end": 115
+      }
+    ]
+  },
+  "f7c12b54865d3ecbc54e21b66e401d1170c1b0dcb2a7e9eaaa44cfce5ed32761": {
+    "document_sha256": "7c13397338e30f7ec238d9660e1f46e6ae1c9eab8b48b2e462cfb8ab6929a37a",
+    "paper_id": "P229",
+    "reason": "Journal of Economic Perspectives article: the PDF starts with explanatory narrative about leveraged buyouts and proceeds into the article. No separate abstract is present in this PDF.",
+    "action": "no_abstract",
+    "spans": []
+  },
+  "f841f89fd954682789569ca595623c09e0f1a30fabc87790c4c2b200cf2f49e5": {
+    "document_sha256": "fe9e7eb229237774c18b04d2e64c4bf77f2ff44ee6d8b665fd50475ad462a08e",
+    "paper_id": "P284",
+    "reason": "Journal of Economic Perspectives article: the PDF starts with narrative background and proceeds into The Puzzle: Low Average Returns on Private Equity Funds. No separate abstract is present in this PDF.",
+    "action": "no_abstract",
+    "spans": []
+  },
+  "d61bcfbf12d77521995cc05c043f31241f7e7142ef59901f2021dbab2528d15b": {
+    "document_sha256": "32f039a94a9f2d60084a79f22e5f97141e4c7534b3219f0c2442fe998198824f",
+    "paper_id": "P297",
+    "reason": "Commentary: title, author details and Keywords are followed directly by commentary text. No separate abstract is present.",
+    "action": "no_abstract",
+    "spans": []
+  },
+  "d7c98d9434341e30d8f8c93d261ae6a5e5d4985b3e0bcafd836906d835432cce": {
+    "document_sha256": "f36327eaa3bffcbdc053f2613ed14985aef714ec0725318d6fe02577018c5660",
+    "paper_id": "P299",
+    "reason": "Research Letter: title and authors are followed directly by Introduction, Methods and Results. No separate abstract is present.",
+    "action": "no_abstract",
+    "spans": []
+  },
+  "5d3b1fdd62ebde76f0a7bbff6e0d8d23dcdf8c55bd78c91392d0730b3571393c": {
+    "document_sha256": "fd10be71ebf0bac28ebc7b7306274bda00b38fe00fd9b5338e82850a0f204707",
+    "paper_id": "P318",
+    "reason": "Research Letter: title is followed by background, Methods and Results, with no separate abstract. Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "action": "no_abstract",
+    "spans": [],
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/3",
+        "page": 1,
+        "start": 0,
+        "end": 85
+      }
+    ]
+  },
+  "ca9985085af7b8887b9ea84384bb17cc83850a18c909fb73bdeaa03836dc7309": {
+    "document_sha256": "a9587d885e0673b3f45357dd4fba90315ca17cb3324b87f9063e99c8e56d42d6",
+    "paper_id": "P263",
+    "reason": "An abstract is present, but the cached PDF extraction interleaves fragments into the wrong reading order (for example Private equity reason for this success ...). Kept pending for corrected extraction; this is not classified as a paper without an abstract. The PDF title extraction is missing or damaged; use the already reviewed version title in reviewed/nodes.csv. This title repair does not supply an abstract.",
+    "action": "needs_review",
+    "use_reviewed_version_title": true
+  },
+  "483d51dc0085e76ae07e90df790b9d009198c8bafad94e4c1bee5934a74ea684": {
+    "document_sha256": "eedb3e0471dc42ec3e153f9c75b9e29abe2be9e9f14ba8bc9daaa9687d961e58",
+    "paper_id": "P021",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/5",
+        "page": 1,
+        "start": 0,
+        "end": 75
+      }
+    ]
+  },
+  "e462bbd9b1aa13b624ef4633630f3c4fd330c57e86ce33fa00471d685c3318ac": {
+    "document_sha256": "fa67fd508e28d681aab3fc3dd5d6b090de1f8776551ddae939a9a2fccc1f0be3",
+    "paper_id": "P023",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/2",
+        "page": 1,
+        "start": 0,
+        "end": 35
+      }
+    ]
+  },
+  "d911ce451cd69a81094910c158dfd8427bcf6c64c5ad34c3497adc6fe38af81c": {
+    "document_sha256": "5fafaad593094121fac9e20ac458a30616a7743e00522fafcf73000e0f5e740f",
+    "paper_id": "P045",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/4",
+        "page": 1,
+        "start": 0,
+        "end": 57
+      }
+    ]
+  },
+  "6553b922beee2b4777920b4c3e6cdf50d7a5c919e5f7b6274a3604bcd32ce2a6": {
+    "document_sha256": "1b6aab569b8e5da435292257d65f2423cc23da11ac0c25d679ffcab6ace91527",
+    "paper_id": "P046",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/7",
+        "page": 1,
+        "start": 0,
+        "end": 125
+      }
+    ]
+  },
+  "c1c30476ef0afb70fe37a5b3c52239fa322ff9f7422796d2cc5a1fa252796188": {
+    "document_sha256": "3c9f635fb34176e66066576ce84aad215240d105004d60eb9947a306ff87d115",
+    "paper_id": "P055",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/5",
+        "page": 1,
+        "start": 0,
+        "end": 81
+      }
+    ]
+  },
+  "21be0c9ff87fe42f3c59749f0f1b2b58ac015af032c2585713aa9d2947f29b0c": {
+    "document_sha256": "c9c65d4bd09d065badc9210b19d23a4af2ce82d756612a6a634a332a1c76bc76",
+    "paper_id": "P076",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/1",
+        "page": 1,
+        "start": 0,
+        "end": 47
+      }
+    ]
+  },
+  "42aa9e7108585a4705ffc44314b028ffc889e72f2e334566042d766ee4568fe0": {
+    "document_sha256": "d98947f4638a318357eeb70279ab9806a9e93f75d14827f3db5b3e131c783292",
+    "paper_id": "P079",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/6",
+        "page": 1,
+        "start": 0,
+        "end": 51
+      }
+    ]
+  },
+  "60b7166a7d96539c05c8c92a150fdf45708144bb9890e834868c062bf7eb977e": {
+    "document_sha256": "20c19bbfc90b697f9a7de87fdca675b01629aea11dae81fed42f65bae44ec49f",
+    "paper_id": "P080",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/5",
+        "page": 1,
+        "start": 0,
+        "end": 77
+      }
+    ]
+  },
+  "d8a10a6082f2110aa1c55850f9e86164aabed66535192db9992e2078af2f94fd": {
+    "document_sha256": "6dda7b6e8de788e7422e4f6eef89dadd33b63169269b8e0c2247f96a89eca645",
+    "paper_id": "P088",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/0",
+        "page": 1,
+        "start": 0,
+        "end": 70
+      }
+    ]
+  },
+  "3e4665286d86b0a43e8fb3e7a1f4ea948853ad41a9d05abca0df482b6fb246e1": {
+    "document_sha256": "2af2ae132833ddc72435202bb6f8bcd50d7adbdb295349c852befa5ea3ece384",
+    "paper_id": "P099",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/5",
+        "page": 1,
+        "start": 0,
+        "end": 36
+      }
+    ]
+  },
+  "5b8aebc86a86030cf4499111d58b93630902d7b2692a186468ae30e7e280ad71": {
+    "document_sha256": "486b9786e13400a958053bafed67afeb55128c1509f44608c15a482608cc7074",
+    "paper_id": "P129",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/2",
+        "page": 1,
+        "start": 0,
+        "end": 91
+      }
+    ]
+  },
+  "b9b50f74a737075e4fbe1ebefcdfa97ea0e0727e03ecf1ee49567a9eab685002": {
+    "document_sha256": "2c345359a0f0832e4e6136c23ad2946d9d933f9e96d4d5acdaa3488e745b222f",
+    "paper_id": "P131",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/4",
+        "page": 1,
+        "start": 0,
+        "end": 82
+      }
+    ]
+  },
+  "8f766757876d335aff1db92c0777a7a0cc31b53bc645fde0f1e00dcb73d91714": {
+    "document_sha256": "b072edda52f4349c39b0af0af297c70d33dc5ea8951c7e4d8e8e99c45b3ba6ab",
+    "paper_id": "P154",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/5",
+        "page": 1,
+        "start": 0,
+        "end": 60
+      }
+    ]
+  },
+  "855efe46ff89712325cadcbb0f9843168204083795c4451333e879c986dcbc66": {
+    "document_sha256": "abd88bfa6838e2a9bd13eb2cef4707e2aeab6b137f8038cfbe186c298f7f29b1",
+    "paper_id": "P157",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/5",
+        "page": 1,
+        "start": 0,
+        "end": 64
+      }
+    ]
+  },
+  "8de1c0d899271e4ac8382560eae5a2665d515202d905d2bfb088e93d0455f8e8": {
+    "document_sha256": "73dc2ebd2b25d32c818e6295bc2170fdd956dbc6d694ce9169008e55706568b1",
+    "paper_id": "P158",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/5",
+        "page": 1,
+        "start": 0,
+        "end": 45
+      }
+    ]
+  },
+  "f16d79fa870ef67f1db242233445e2d69baea47db886365c1d69cda67c86da12": {
+    "document_sha256": "69d1a57750c9d95ba9d0863ed220a6ccd3384f113d66c8fbbd0a98dc152bf6c7",
+    "paper_id": "P193",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/5",
+        "page": 1,
+        "start": 0,
+        "end": 49
+      }
+    ]
+  },
+  "e4a1537519f0c150351a26b9945a2d5ac2d77f2f8416ebcb8f83367c6a780acd": {
+    "document_sha256": "0eea37d0aa54d03f45f7c837e19a96f4790f2dcce557cdf020ed220c40e49f39",
+    "paper_id": "P227",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/2",
+        "page": 1,
+        "start": 0,
+        "end": 67
+      }
+    ]
+  },
+  "7224f2bfd27cd5cbd14b287960e5fdf987189f09791661d92540fdb19b159014": {
+    "document_sha256": "1b0434b5c1aa221a39a6f61a9e2c308b6177a03b8e40b429910d123cb7eef2c7",
+    "paper_id": "P247",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/2",
+        "page": 1,
+        "start": 0,
+        "end": 75
+      }
+    ]
+  },
+  "602bba8f74081fae9e59ad15931354be579d142bbdf1b4af322a274b8ff8612d": {
+    "document_sha256": "f9aab34950900d4a78f4c18bed1baada64a909d3a801b7bb2aaa79707ef8b6ea",
+    "paper_id": "P286",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/7",
+        "page": 1,
+        "start": 0,
+        "end": 37
+      }
+    ]
+  },
+  "23600ed739ff0645229011be4295c58756f6da8b0e2f5b8ff9b7086482d067a0": {
+    "document_sha256": "d998d46ae7a57bc382ae85ef308f246aa96614cd39f0a2cc7a2b528482d76901",
+    "paper_id": "P301",
+    "reason": " Title recovered from the actual title block(s), rather than the old filename/header or incomplete title.",
+    "title_spans": [
+      {
+        "block_id": "/page/0/SectionHeader/1",
+        "page": 1,
+        "start": 0,
+        "end": 22
+      }
+    ]
+  },
+  "3fd0235f5ad4327ac5d54b751109d6d1e62d17f245660847e7a2d3370bd3c0b3": {
+    "paper_id": "P091",
+    "document_sha256": "b77cbace22be709b6467d7f25e884147079aac72b530d2d73b8968efb9da0824",
+    "action": "select_spans",
+    "spans": [
+      {
+        "block_id": "/page/0/Text/12",
+        "page": 1,
+        "start": 0,
+        "end": 812
+      }
+    ],
+    "reason": "Same-DOI PDF abstract reviewed; excluded trailing Published by Elsevier B.V. publisher notice from its source span."
+  }
+}

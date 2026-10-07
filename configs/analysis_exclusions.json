@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "description": "Explicit user-reviewed exclusions, applied at analysis loading; no automatic topic/outlier exclusions.",
+  "source_corpus_id": "76aa8637573b046d7c3667caf170c7ccd4df631514790fde2eab1cbfe6eca056",
+  "source_papers": 318,
+  "identity_note": "PDF SHA-256 is authoritative. Original Pxxx IDs and filenames are for review only.",
+  "papers": [
+    {
+      "pdf_sha256": "5f5c04ae260e83504c61663ae96022f07162c6c2204d4031d681e75b4ba6ce96",
+      "original_paper_id": "P052",
+      "title": "Who are the active investors? Evidence from Venture Capital",
+      "source_filename": "Bottazzi et al. - 2008 - Who are the active investors Evidence from venture capital.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "c5d88ec74fe667fbd9414a0806e8c65f8a86a725cdde74c0520234e974fccace",
+      "original_paper_id": "P074",
+      "title": "Internet Appendix to \"Activism and Takeovers'",
+      "source_filename": "Burkart und Lee - 2022 - Activism and Takeovers (Online Appendix).pdf",
+      "exclude": true,
+      "reason_category": "standalone_appendix",
+      "reason": "Standalone online appendix; main paper remains in the corpus."
+    },
+    {
+      "pdf_sha256": "7373cfe08ff141dbb0d20bb43ab53eea6b8c13e701e4c58c0eaefa8c0c63216e",
+      "original_paper_id": "P098",
+      "title": "APPENDIX",
+      "source_filename": "Colonnelli et al. - 2024 - Investing with the Government A Field Experiment in China (Online Appendix).pdf",
+      "exclude": true,
+      "reason_category": "standalone_appendix",
+      "reason": "Standalone online appendix; main paper remains in the corpus."
+    },
+    {
+      "pdf_sha256": "e8ae652c2e7f87da8cdc07fd5a156bb570338a65f2291888b301d4f1a619a5aa",
+      "original_paper_id": "P120",
+      "title": "Investor Tax Credits and Entrepreneurship: Evidence from U.S. States",
+      "source_filename": "Denes et al. - 2023 - Investor Tax Credits and Entrepreneurship Evidence from U.S. States.pdf",
+      "exclude": true,
+      "reason_category": "scope_review",
+      "reason": "Excluded by the user after scope review of hierarchical outlier candidates."
+    },
+    {
+      "pdf_sha256": "06be74f86b724ba8313e350a8af3cfb56d1a67edb2957fe5b66a456b6a6c583f",
+      "original_paper_id": "P142",
+      "title": "Cost of experimentation and the evolution of venture capital-",
+      "source_filename": "Ewens et al. - 2018 - Cost of experimentation and the evolution of venture capital.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "3b886cc70538058e0a77982926a0b22bab8f6350cd487f1d68f95a49e4a9ba5c",
+      "original_paper_id": "P143",
+      "title": "Venture capital contracts-",
+      "source_filename": "Ewens et al. - 2022 - Venture capital contracts.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "41832e1ef0f775d602659c8f64faecf031878659831c04efd3d8112b458a9c5b",
+      "original_paper_id": "P146",
+      "title": "Ewens und Rhodes-Kropf - 2015 - Is a VC Partnership Greater Than the Sum of Its Partners.pdf",
+      "source_filename": "Ewens und Rhodes-Kropf - 2015 - Is a VC Partnership Greater Than the Sum of Its Partners.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "0d9c291b00f104f21eced55f39d4d829fd72582df64872c4051373d0618d10b8",
+      "original_paper_id": "P160",
+      "title": "Made for each other: Perfect matching in venture capital markets",
+      "source_filename": "Fu et al. - 2019 - Made for each other - Perfect matching in venture capital markets.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "88c08940dc0279f427c621483494b7cfc7ba1a988a3da3fa5814f9bee4eb93b1",
+      "original_paper_id": "P173",
+      "title": "Venture capital investment cycles: The impact of public markets",
+      "source_filename": "Gompers et al. - 2008 - Venture capital investment cycles - The impact of public markets.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "f66baaf81df575d88d28b1afcd448063f9eff18f559d01f77dddd49a9da75c41",
+      "original_paper_id": "P174",
+      "title": "Performance persistence in entrepreneurship",
+      "source_filename": "Gompers et al. - 2010 - Performance persistence in entrepreneurship.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "777e21f741f7be5f5fd3ec77a89b2dce85d2504c2741e0ea3a1821c8e98e9fb1",
+      "original_paper_id": "P178",
+      "title": "Gompers und Lerner - 1999 - An analysis of compensation in the U.S. venture capital partnership.pdf",
+      "source_filename": "Gompers und Lerner - 1999 - An analysis of compensation in the U.S. venture capital partnership.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "c1769503904499e99f1a95496623895e61a68ebac8989206a7ada7892a021af5",
+      "original_paper_id": "P181",
+      "title": "Exchanges of innovation resources inside venture capital portfolios ✩",
+      "source_filename": "González-Uribe - 2020 - Exchanges of innovation resources inside venture capital portfolios.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "35db1470843e5ca34c1006fae8c565b2976e0cb310b0993ba3e9b82862aab893",
+      "original_paper_id": "P183",
+      "title": "Auctions with Endogenous Initiation",
+      "source_filename": "Gorbenko und Malenko - 2024 - Auctions with Endogenous Initiation.pdf",
+      "exclude": true,
+      "reason_category": "scope_review",
+      "reason": "Excluded by the user after scope review of hierarchical outlier candidates."
+    },
+    {
+      "pdf_sha256": "19a43666edb42709c6cb1624f40316403a67bf69b4dd04559a6a7ae5d14ed289",
+      "original_paper_id": "P212",
+      "title": "Growth Firms and Relationship Finance: A Capital Structure Perspective",
+      "source_filename": "Inderst und Vladimirov - 2019 - Growth Firms and Relationship Finance A Capital Structure Perspective.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "d1382bc844a376fa99a74f28e4843cb10a4ccd393a6e960ae56404dee3d10470",
+      "original_paper_id": "P226",
+      "title": "Wall Street and Main Street: What Contributes to the Rise in the Highest Incomes?",
+      "source_filename": "Kaplan und Rauh - 2010 - Wall Street and Main Street What Contributes to the Rise in the Highest Incomes.pdf",
+      "exclude": true,
+      "reason_category": "scope_review",
+      "reason": "Excluded by the user after scope review of hierarchical outlier candidates."
+    },
+    {
+      "pdf_sha256": "b7313cb6aff5d76e4e5a83758fdd51b37dc8e29bda9d459ccf42ce34fffaae7e",
+      "original_paper_id": "P233",
+      "title": "Valuation and Control in Venture Finance",
+      "source_filename": "Kirilenko - 2001 - Valuation and Control in Venture Finance.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "c137d6c45f808a6cfa3940e6f7a9359d534d99263f8e03d997617be6ad858e32",
+      "original_paper_id": "P246",
+      "title": "Venture capitalists and the decision to go public*",
+      "source_filename": "Lerner - 1994 - Venture capitalists and the decision to go public.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "16dbd466d437275408864d95e38bd68ed4201dce177286bb29f53a06d5c272ec",
+      "original_paper_id": "P253",
+      "title": "Words Speak Louder without Actions",
+      "source_filename": "Levit - 2020 - Words Speak Louder without Actions.pdf",
+      "exclude": true,
+      "reason_category": "scope_review",
+      "reason": "Excluded by the user after scope review of hierarchical outlier candidates.",
+      "decision_note": "User explicitly confirmed exclusion of the entire paper."
+    },
+    {
+      "pdf_sha256": "408cc8c1b4381305f7384888175a2b273c8abf081a75a5723081448666a80de3",
+      "original_paper_id": "P273",
+      "title": "Financing Risk and Innovation",
+      "source_filename": "Nanda und Rhodes-Kropf - 2017 - Financing Risk and Innovation.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "8db305806da7e76fde0540f030c3d81de1c31fe01642ac79c3a960410fa6be0a",
+      "original_paper_id": "P278",
+      "title": "What Is the Cost of Privatization for Workers?",
+      "source_filename": "Olsson und Tåg - 2025 - What Is the Cost of Privatization for Workers.pdf",
+      "exclude": true,
+      "reason_category": "scope_review",
+      "reason": "Excluded by the user after scope review of hierarchical outlier candidates."
+    },
+    {
+      "pdf_sha256": "a87a34518779d70e49dd88473d58f2b97e387a05f532d5563d99e402afb12129",
+      "original_paper_id": "P279",
+      "title": "Funding of Clinical Trials and Reported Drug Efficacy",
+      "source_filename": "Oostrom - 2024 - Funding of Clinical Trials and Reported Drug Efficacy.pdf",
+      "exclude": true,
+      "reason_category": "scope_review",
+      "reason": "Excluded by the user after scope review of hierarchical outlier candidates."
+    },
+    {
+      "pdf_sha256": "7572c6478d234d845434c49f4aff3d4ec54df6790b3aeeba3e26708f191b1786",
+      "original_paper_id": "P280",
+      "title": "Strategic alliances, venture capital, and exit decisions in early stage high-tech firms",
+      "source_filename": "Ozmel et al. - 2013 - Strategic alliances, venture capital, and exit decisions in early stage high-tech firms.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    },
+    {
+      "pdf_sha256": "1d77d79072a147946b3bd3e585881129d561beb9e31a57ac9038bf392777b73c",
+      "original_paper_id": "P295",
+      "title": "Asset-Level Risk and Return in Real Estate Investments",
+      "source_filename": "Sagi - 2021 - Asset-Level Risk and Return in Real Estate Investments.pdf",
+      "exclude": true,
+      "reason_category": "scope_review",
+      "reason": "Excluded by the user after scope review of hierarchical outlier candidates."
+    },
+    {
+      "pdf_sha256": "d38d926865319c50469c6c3aa415c5dad1db3d8914d42060650cd54abdb286eb",
+      "original_paper_id": "P316",
+      "title": "Entrepreneurial finance: Banks versus venture capital",
+      "source_filename": "Winton und Yerramilli - 2008 - Entrepreneurial finance - Banks versus venture capital.pdf",
+      "exclude": true,
+      "reason_category": "venture_capital_only",
+      "reason": "Purely venture-capital paper identified by the user as outside the retained scope."
+    }
+  ]
+}
