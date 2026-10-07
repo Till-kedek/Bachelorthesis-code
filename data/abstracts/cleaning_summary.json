@@ -1,0 +1,83 @@
+{
+  "source": "/Users/tilldedek/Documents/Semester 6/Bachelorarbeit/Python/batill/data/bibliography/All_private_equity_bib.csv",
+  "source_sha256": "93a985e3e5af4c8fea91bee9f633744322e38b91ac681bb513179e3b4b7c09e0",
+  "publication_year_cutoff": 2026,
+  "embedding_text_column": "embedding_text",
+  "source_rows": 4583,
+  "source_column_count": 45,
+  "retained_rows": 3819,
+  "retained_columns": [
+    "paper_id",
+    "source_record",
+    "title",
+    "authors",
+    "year",
+    "journal",
+    "doi",
+    "url",
+    "document_language",
+    "document_type",
+    "abstract",
+    "abstract_word_count",
+    "embedding_text"
+  ],
+  "exclusions": {
+    "missing_abstract": 695,
+    "future_publication_year": 1,
+    "duplicate_cleaned_abstract": 18,
+    "duplicate_doi": 44,
+    "retracted": 5,
+    "publisher_notice_only": 1
+  },
+  "removed_publisher_notices": 3036,
+  "review_rows": 86,
+  "review_flags": {
+    "erratum": 15,
+    "shared_title_different_abstract": 71
+  },
+  "retained_document_languages": {
+    "English": 3731,
+    "Chinese": 18,
+    "Portuguese": 10,
+    "French": 15,
+    "German": 19,
+    "Russian": 6,
+    "Hungarian": 1,
+    "Korean": 6,
+    "Polish": 1,
+    "Bosnian": 1,
+    "Spanish": 6,
+    "Italian": 2,
+    "Lithuanian": 1,
+    "Czech": 1,
+    "undefined": 1
+  },
+  "retained_document_types": {
+    "Article": 2582,
+    "Review": 240,
+    "Book chapter": 367,
+    "Book": 189,
+    "Conference paper": 187,
+    "Editorial": 9,
+    "Note": 129,
+    "Short survey": 95,
+    "Erratum": 15,
+    "Conference review": 5,
+    "Data paper": 1
+  },
+  "rules": [
+    "Source preserved; source_record is the 1-based CSV data record, not a physical line number.",
+    "Decode HTML entities; remove known formatting tags and invisible artifacts; normalize whitespace and Unicode NFC.",
+    "Remove trailing copyright/licensing notices, preserving each removed suffix in the audit.",
+    "Exclude missing/placeholder abstracts, notice-only entries and repeated exact cleaned abstracts; retain first source occurrence.",
+    "Exclude records marked Retracted and publication years later than the current year, recorded as publication_year_cutoff.",
+    "Among eligible records retain the first source occurrence per nonempty normalized DOI; audit later occurrences as duplicate_doi.",
+    "Exclusion precedence: missing/notice-only abstract, retracted, future year, duplicate DOI, duplicate text. Only retained records reserve identifiers/text.",
+    "Keep short abstracts without a length warning; keep missing DOIs. Flag shared titles, invalid years and errata for review.",
+    "Keep all languages and subjects; remaining review flags are not exclusions.",
+    "Document language describes the publication and need not be the abstract language.",
+    "Preserve case, punctuation, numbers, stopwords and word order; no stemming, lemmatization or n-gram tokenization.",
+    "Use embedding_text for vector embedding: normalized title, blank line, cleaned abstract. If title is empty, use the abstract alone.",
+    "Keep title and abstract separately for inspection and later n-gram analysis; other metadata is not included in embedding_text."
+  ]
+}
